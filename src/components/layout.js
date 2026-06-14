@@ -103,12 +103,10 @@ const Layout = ({ children }) => {
       <div className="toasts-container">
         {toasts.map(toast => (
           <div key={toast.id} className="toast-card" onClick={() => dismissToast(toast.id)}>
-            <div className="toast-icon">🏆</div>
+            <div className="toast-icon">{toast.badge.icon || "🏆"}</div>
             <div style={{ flexGrow: 1 }}>
-              <div className="toast-title">Conquista Desbloqueada!</div>
-              <div className="toast-desc">
-                {toast.badge.icon} <strong>{toast.badge.title}</strong>: {toast.badge.description}
-              </div>
+              <div className="toast-title">{toast.badge.title || "Conquista Desbloqueada!"}</div>
+              <div className="toast-desc">{toast.badge.description}</div>
             </div>
             <button className="toast-close">&times;</button>
           </div>

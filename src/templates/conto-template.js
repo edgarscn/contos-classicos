@@ -132,6 +132,10 @@ const StoryTemplate = ({ data }) => {
         className="reading-progress-bar" 
         style={{ width: `${scrollProgress}%` }} 
       />
+      <div 
+        className="reading-progress-bar-vertical" 
+        style={{ transform: `scaleY(${scrollProgress / 100})` }} 
+      />
 
       <div className="container" style={{ padding: "1.5rem 0" }}>
         {/* Back Link */}

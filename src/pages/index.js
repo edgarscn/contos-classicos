@@ -151,10 +151,16 @@ const IndexPage = ({ data }) => {
       
       {/* Scroll Progress Bar */}
       {!loading && dailyStory && (
-        <div 
-          className="reading-progress-bar" 
-          style={{ width: `${scrollProgress}%` }} 
-        />
+        <>
+          <div 
+            className="reading-progress-bar" 
+            style={{ width: `${scrollProgress}%` }} 
+          />
+          <div 
+            className="reading-progress-bar-vertical" 
+            style={{ transform: `scaleY(${scrollProgress / 100})` }} 
+          />
+        </>
       )}
 
       <div className="hero-section container">
