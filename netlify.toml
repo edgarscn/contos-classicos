@@ -1,0 +1,8 @@
+[build]
+  command = "npm run build"
+  publish = "public"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Redirecionamentos úteis se necessário, mas o gatsby-plugin-offline cuida do shell offline
