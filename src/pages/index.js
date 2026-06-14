@@ -1,127 +1,166 @@
 import * as React from "react"
-import { Link } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
-
+import { useState, useEffect } from "react"
+import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import * as styles from "../components/index.module.css"
 
-const links = [
-  {
-    text: "Tutorial",
-    url: "https://www.gatsbyjs.com/docs/tutorial",
-    description:
-      "A great place to get started if you're new to web development. Designed to guide you through setting up your first Gatsby site.",
-  },
-  {
-    text: "Examples",
-    url: "https://github.com/gatsbyjs/gatsby/tree/master/examples",
-    description:
-      "A collection of websites ranging from very basic to complex/complete that illustrate how to accomplish specific tasks within your Gatsby sites.",
-  },
-  {
-    text: "Plugin Library",
-    url: "https://www.gatsbyjs.com/plugins",
-    description:
-      "Learn how to add functionality and customize your Gatsby site or app with thousands of plugins built by our amazing developer community.",
-  },
-  {
-    text: "Build and Host",
-    url: "https://www.gatsbyjs.com/cloud",
-    description:
-      "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Netlify. Get started for free!",
-  },
-]
+// PRNG Generator (Mulberry32)
+function mulberry32(a) {
+  return function() {
+    let t = a += 0x6D2B79F5;
+    t = Math.imul(t ^ (t >>> 15), t | 1);
+    t ^= t + Math.imul(t ^ (t >>> 7), t | 61);
+    return ((t ^ (t >>> 14)) >>> 0) / 4294967296;
+  }
+}
 
-const samplePageLinks = [
-  {
-    text: "Page 2",
-    url: "page-2",
-    badge: false,
-    description:
-      "A simple example of linking to another page within a Gatsby site",
-  },
-  { text: "TypeScript", url: "using-typescript" },
-  { text: "Server Side Rendering", url: "using-ssr" },
-  { text: "Deferred Static Generation", url: "using-dsg" },
-]
+// Deterministic Shuffle
+function seededShuffle(array, seed) {
+  const rand = mulberry32(seed);
+  const shuffled = [...array];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(rand() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
 
-const moreLinks = [
-  {
-    text: "Documentation",
-    url: "https://gatsbyjs.com/docs/",
-  },
-  {
-    text: "Starters",
-    url: "https://gatsbyjs.com/starters/",
-  },
-  {
-    text: "Showcase",
-    url: "https://gatsbyjs.com/showcase/",
-  },
-  {
-    text: "Contributing",
-    url: "https://www.gatsbyjs.com/contributing/",
-  },
-  { text: "Issues", url: "https://github.com/gatsbyjs/gatsby/issues" },
-]
+// Day of Year Calculator
+function getDayOfYear(date) {
+  const start = new Date(date.getFullYear(), 0, 0);
+  const diff = date - start + (start.getTimezoneOffset() - date.getTimezoneOffset()) * 60 * 1000;
+  const oneDay = 1000 * 60 * 60 * 24;
+  return Math.floor(diff / oneDay);
+}
 
-const utmParameters = `?utm_source=starter&utm_medium=start-page&utm_campaign=default-starter`
+const IndexPage = ({ data }) => {
+  const [dailyStory, setDailyStory] = useState(null)
+  const [loading, setLoading] = useState(true)
+  const [fontSize, setFontSize] = useState(1.15) // in rem
 
-const IndexPage = () => (
-  <Layout>
-    <div className={styles.textCenter}>
-      <StaticImage
-        src="../images/example.png"
-        loading="eager"
-        width={64}
-        quality={95}
-        formats={["auto", "webp", "avif"]}
-        alt=""
-        style={{ marginBottom: `var(--space-3)` }}
-      />
-      <h1>
-        Welcome to <b>Gatsby!</b>
-      </h1>
-      <p className={styles.intro}>
-        <b>Example pages:</b>{" "}
-        {samplePageLinks.map((link, i) => (
-          <React.Fragment key={link.url}>
-            <Link to={link.url}>{link.text}</Link>
-            {i !== samplePageLinks.length - 1 && <> · </>}
-          </React.Fragment>
-        ))}
-        <br />
-        Edit <code>src/pages/index.js</code> to update this page.
-      </p>
-    </div>
-    <ul className={styles.list}>
-      {links.map(link => (
-        <li key={link.url} className={styles.listItem}>
-          <a
-            className={styles.listItemLink}
-            href={`${link.url}${utmParameters}`}
-          >
-            {link.text} ↗
-          </a>
-          <p className={styles.listItemDescription}>{link.description}</p>
-        </li>
-      ))}
-    </ul>
-    {moreLinks.map((link, i) => (
-      <React.Fragment key={link.url}>
-        <a href={`${link.url}${utmParameters}`}>{link.text}</a>
-        {i !== moreLinks.length - 1 && <> · </>}
-      </React.Fragment>
-    ))}
-  </Layout>
-)
+  useEffect(() => {
+    const today = new Date()
+    const year = today.getFullYear()
+    const day = getDayOfYear(today)
+    
+    const stories = data.allMarkdownRemark.nodes
+    if (stories.length > 0) {
+      // Seed with the current year so order changes every year
+      const shuffled = seededShuffle(stories, year)
+      // Pick story based on the day of the year (1-365)
+      const selected = shuffled[(day - 1) % shuffled.length]
+      setDailyStory(selected)
+    }
+    setLoading(false)
+  }, [data])
 
-/**
- * Head export to define metadata for the page
- *
- * See: https://www.gatsbyjs.com/docs/reference/built-in-components/gatsby-head/
- */
-export const Head = () => <Seo title="Home" />
+  const increaseFontSize = () => {
+    setFontSize(prev => Math.min(prev + 0.1, 1.6))
+  }
+
+  const decreaseFontSize = () => {
+    setFontSize(prev => Math.max(prev - 0.1, 0.9))
+  }
+
+  return (
+    <Layout>
+      <Seo title="Conto do Dia" />
+      
+      <div className="hero-section container">
+        <span className="badge">Recomendação Diária</span>
+        <h2 style={{ fontSize: "2rem", fontWeight: 700, letterSpacing: "-0.5px" }}>
+          O Conto do Dia
+        </h2>
+        <p style={{ color: "var(--text-muted)", marginTop: "0.25rem" }}>
+          Uma obra clássica selecionada especialmente para hoje.
+        </p>
+      </div>
+
+      <div className="reader-container">
+        {loading ? (
+          <div className="card" style={{ textAlign: "center", padding: "4rem" }}>
+            <p style={{ color: "var(--text-muted)" }}>Folheando páginas...</p>
+          </div>
+        ) : dailyStory ? (
+          <article className="card" style={{ padding: "3rem 2.5rem" }}>
+            <div className="story-header">
+              <span className="badge" style={{ background: "var(--accent-light)", color: "var(--accent)" }}>
+                {dailyStory.frontmatter.category}
+              </span>
+              <h1 className="story-title">{dailyStory.frontmatter.title}</h1>
+              <div className="story-meta">
+                por {dailyStory.frontmatter.author} &bull; {dailyStory.frontmatter.year}
+              </div>
+              <div className="divider"></div>
+            </div>
+
+            {/* Reading Controls */}
+            <div className="reader-controls">
+              <button 
+                onClick={decreaseFontSize} 
+                className="btn-icon" 
+                title="Diminuir fonte" 
+                aria-label="Diminuir fonte"
+                style={{ width: "32px", height: "32px" }}
+              >
+                A-
+              </button>
+              <span className="font-size-indicator">{Math.round(fontSize * 100)}%</span>
+              <button 
+                onClick={increaseFontSize} 
+                className="btn-icon" 
+                title="Aumentar fonte" 
+                aria-label="Aumentar fonte"
+                style={{ width: "32px", height: "32px" }}
+              >
+                A+
+              </button>
+            </div>
+
+            {/* Content Body */}
+            <div 
+              className="story-body" 
+              style={{ '--reader-font-size': `${fontSize}rem` }}
+              dangerouslySetInnerHTML={{ __html: dailyStory.html }} 
+            />
+            
+            <div style={{ marginTop: "3rem", display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: "1rem", paddingTop: "2rem", borderTop: "1px solid var(--border)" }}>
+              <span style={{ fontSize: "0.85rem", color: "var(--text-muted)" }}>
+                Não quer parar de ler?
+              </span>
+              <Link to="/busca" className="btn-primary">
+                Ver Outros Contos
+              </Link>
+            </div>
+          </article>
+        ) : (
+          <div className="card" style={{ textAlign: "center", padding: "4rem" }}>
+            <h3>Nenhum conto disponível</h3>
+            <p style={{ color: "var(--text-muted)", marginTop: "0.5rem" }}>
+              Adicione arquivos markdown no diretório content/contos para começar.
+            </p>
+          </div>
+        )}
+      </div>
+    </Layout>
+  )
+}
+
+export const query = graphql`
+  query {
+    allMarkdownRemark {
+      nodes {
+        frontmatter {
+          title
+          author
+          year
+          category
+          slug
+        }
+        html
+      }
+    }
+  }
+`
 
 export default IndexPage

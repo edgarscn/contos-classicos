@@ -1,18 +1,13 @@
 /**
- * Configure your Gatsby site with this file.
- *
- * See: https://www.gatsbyjs.com/docs/reference/config-files/gatsby-config/
+ * Gatsby configuration file
  */
 
-/**
- * @type {import('gatsby').GatsbyConfig}
- */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `Contos Clássicos`,
+    description: `Um conto ou crônica clássica de domínio público por dia. Leia autores renomados como Machado de Assis, Lima Barreto, João do Rio e Arthur Azevedo.`,
+    author: `@antigravity`,
+    siteUrl: `https://contos-classicos-pwa.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -23,21 +18,30 @@ module.exports = {
         path: `${__dirname}/src/images`,
       },
     },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `contos`,
+        path: `${__dirname}/content/contos`,
+      },
+    },
+    `gatsby-transformer-remark`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-default`,
-        short_name: `starter`,
+        name: `Contos Clássicos Brasileiros`,
+        short_name: `Contos PWA`,
+        description: `Um conto clássico da literatura brasileira por dia, direto no seu dispositivo.`,
         start_url: `/`,
-        background_color: `#663399`,
-        // This will impact how browsers show your PWA/website
-        // https://css-tricks.com/meta-theme-color-and-trickery/
-        // theme_color: `#663399`,
-        display: `minimal-ui`,
-        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        background_color: `#121824`,
+        theme_color: `#8b5cf6`,
+        display: `standalone`,
+        icon: `src/images/gatsby-icon.png`, // Relative to root
       },
     },
+    // gatsby-plugin-offline must be listed AFTER gatsby-plugin-manifest
+    `gatsby-plugin-offline`,
   ],
 }

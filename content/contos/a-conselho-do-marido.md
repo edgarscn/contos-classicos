@@ -1,0 +1,45 @@
+---
+title: "A Conselho do Marido"
+author: "Artur Azevedo"
+year: "Desconhecido"
+category: "Contos brasileiros"
+slug: "a-conselho-do-marido"
+---
+
+Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
+
+Estamos a bordo de um grande paquete da Messagéries Maritimes, em pleno Atlântico, entre os dois hemisférios. Dois passageiros, que embarcaram no Rio de Janeiro, um de quarenta e outro de vinte e cinco anos, conversam animadamente, sentados ambos nas suas cadeiras de bordo.
+
+— Pois é como lhe digo, meu amiguinho! — dizia o passageiro de quarenta anos — o homem, todas as vezes que é provocado pela mulher, seja a mulher quem for, deve mostrar que é homem! Do contrário, arrisca-se a uma vingança! O caso da mulher de Putifar reproduz-se todos os dias!
+
+— E se o marido for nosso amigo?
+
+— Se o marido for nosso amigo, maior perigo corremos fazendo como José do Egito.
+
+— O que você está dizendo é simplesmente horrível!
+
+— Talvez, mas o que é preferível: ser amante da mulher de um amigo sem que este o saiba, ou passar aos olhos dele por amante dela sem o ser, em risco de pagar com a vida um crime que não praticou?
+
+— Acha então que temos o direito sobre a mulher do próximo...?
+
+— Desde que a mulher do próximo nos provoque. Se o próximo é nosso amigo, paciência! Não se casasse com uma mulher assim! Olhe, eu estou perfeitamente tranqüilo a respeito da Mariquinhas! Trouxe-a comigo nesta viagem porque ela quis vir; se quisesse ficar no Rio de Janeiro teria ficado e eu estaria da mesma forma tranqüilo.
+
+— Mas o grande caso é que se um dia algum dos seus amigos...
+
+— Desse susto não bebo água. Já um deles pretendeu conquistá-la... chegou a persegui-la... Ela foi obrigada a dizer-mo para se ver livre dele... Dei um escândalo! Meti-lhe a bengala em plena Rua do Ouvidor!
+
+Dizendo isto, o passageiro de quarenta anos fechou os olhos, e pouco depois deixava cair o livro que tinha na mão: dormia. Dormia, e aqueles sonos de bordo, antes do jantar, duravam pelo menos duas horas.
+
+O passageiro de vinte e cinco anos ergueu-se e desceu ao compartimento do paquete onde ficava o seu camarote.
+
+Bateu levemente à porta. Abriu-lhe uma linda mulher que se lançou nos seus braços. Era a Mariquinhas.
+
+— Então? — perguntou ela — consultaste meu marido?
+
+— Consultei...
+
+— Que te disse ele?
+
+— Aconselhou-me a que não fizesse como José do Egito. Amigos, amigos, mulheres à parte.
+
+E o passageiro de vinte e cinco anos correu cautelosamente o ferrolho do camarote.

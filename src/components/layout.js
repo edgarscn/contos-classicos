@@ -1,49 +1,36 @@
-/**
- * Layout component that queries for data
- * with Gatsby's useStaticQuery component
- *
- * See: https://www.gatsbyjs.com/docs/how-to/querying-data/use-static-query/
- */
-
-import * as React from "react"
-import { useStaticQuery, graphql } from "gatsby"
-
+import React, { useState, useEffect } from "react"
 import Header from "./header"
-import "./layout.css"
 
 const Layout = ({ children }) => {
-  const data = useStaticQuery(graphql`
-    query SiteTitleQuery {
-      site {
-        siteMetadata {
-          title
-        }
-      }
-    }
-  `)
+  const [theme, setTheme] = useState("dark") // default to dark
+
+  useEffect(() => {
+    const savedTheme = localStorage.getItem("theme") || "dark"
+    setTheme(savedTheme)
+    document.body.className = `${savedTheme}-theme`
+  }, [])
+
+  const toggleTheme = () => {
+    const nextTheme = theme === "dark" ? "light" : "dark"
+    setTheme(nextTheme)
+    localStorage.setItem("theme", nextTheme)
+    document.body.className = `${nextTheme}-theme`
+  }
 
   return (
     <>
-      <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
-      <div
-        style={{
-          margin: `0 auto`,
-          maxWidth: `var(--size-content)`,
-          padding: `var(--size-gutter)`,
-        }}
-      >
-        <main>{children}</main>
-        <footer
-          style={{
-            marginTop: `var(--space-5)`,
-            fontSize: `var(--font-sm)`,
-          }}
-        >
-          © {new Date().getFullYear()} &middot; Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
-        </footer>
-      </div>
+      <Header theme={theme} onToggleTheme={toggleTheme} />
+      <main style={{ minHeight: "calc(100vh - 210px)", padding: "2rem 0" }}>
+        {children}
+      </main>
+      <footer className="site-footer">
+        <div className="container">
+          <p>© {new Date().getFullYear()} — Contos Clássicos Brasileiros</p>
+          <p style={{ marginTop: "0.5rem", fontSize: "0.8rem", opacity: 0.7 }}>
+            Leitura diária em domínio público. Feito com amor à literatura.
+          </p>
+        </div>
+      </footer>
     </>
   )
 }
