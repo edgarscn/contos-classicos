@@ -1,4 +1,5 @@
 // Gamification Utility for tracking reading streaks and achievements
+import { getCurrentUser, updateCurrentUserStats } from "./auth";
 
 // Helper to get local date string YYYY-MM-DD
 export const getLocalDateString = (date = new Date()) => {
@@ -63,7 +64,10 @@ export const BADGES = [
 export const getStats = () => {
   if (typeof window === "undefined") return DEFAULT_STATS;
   try {
-    const statsStr = localStorage.getItem("reading_stats");
+    const currentUser = getCurrentUser();
+    const statsKey = currentUser ? `reading_stats_${currentUser.username.toLowerCase()}` : "reading_stats";
+    
+    const statsStr = localStorage.getItem(statsKey);
     if (!statsStr) return DEFAULT_STATS;
     const parsed = JSON.parse(statsStr);
     return { ...DEFAULT_STATS, ...parsed };
@@ -77,7 +81,15 @@ export const getStats = () => {
 export const saveStats = (stats) => {
   if (typeof window === "undefined") return;
   try {
-    localStorage.setItem("reading_stats", JSON.stringify(stats));
+    const currentUser = getCurrentUser();
+    const statsKey = currentUser ? `reading_stats_${currentUser.username.toLowerCase()}` : "reading_stats";
+    
+    localStorage.setItem(statsKey, JSON.stringify(stats));
+    
+    // If logged in, update their account record as well
+    if (currentUser) {
+      updateCurrentUserStats(stats);
+    }
   } catch (e) {
     console.error("Error saving stats", e);
   }

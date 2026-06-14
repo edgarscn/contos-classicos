@@ -1,15 +1,27 @@
 import * as React from "react"
 import { Link } from "gatsby"
+import logo from "../images/logo.png"
 
-const Header = ({ theme, onToggleTheme, streak = 0, onOpenStats }) => {
+const Header = ({ theme, onToggleTheme, streak = 0, onOpenStats, user = null }) => {
   const isBrowser = typeof window !== "undefined"
   const currentPath = isBrowser ? window.location.pathname : ""
 
   return (
     <header className="site-header">
       <div className="container header-content">
-        <Link to="/" className="site-logo">
-          📖 <span>Contos Clássicos</span>
+        <Link to="/" className="site-logo" style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
+          <img 
+            src={logo} 
+            alt="10pages logo" 
+            style={{ 
+              height: "32px", 
+              width: "32px", 
+              borderRadius: "6px", 
+              objectFit: "cover",
+              border: "1px solid var(--border)"
+            }} 
+          />
+          <span>10pages</span>
         </Link>
         
         <nav className="nav-links">
@@ -17,7 +29,7 @@ const Header = ({ theme, onToggleTheme, streak = 0, onOpenStats }) => {
             to="/" 
             className={`nav-link ${currentPath === "/" || currentPath === "" ? "active" : ""}`}
           >
-            Conto do Dia
+            Leitura
           </Link>
           <Link 
             to="/busca" 
@@ -25,6 +37,28 @@ const Header = ({ theme, onToggleTheme, streak = 0, onOpenStats }) => {
           >
             Pesquisar
           </Link>
+          
+          {/* User profile session indicator */}
+          <button
+            onClick={onOpenStats}
+            className="nav-link"
+            style={{
+              background: "none",
+              border: "none",
+              cursor: "pointer",
+              display: "flex",
+              alignItems: "center",
+              gap: "0.3rem",
+              fontWeight: 600,
+              fontSize: "0.9rem"
+            }}
+            title={user ? `Logado como ${user.username}` : "Criar conta / Entrar"}
+          >
+            <span style={{ fontSize: "1.1rem" }}>👤</span>
+            <span className="nav-user-name" style={{ maxWidth: "80px", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>
+              {user ? user.username : "Entrar"}
+            </span>
+          </button>
           
           {/* Streak button */}
           <button

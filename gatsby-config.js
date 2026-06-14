@@ -4,10 +4,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Contos Clássicos`,
-    description: `Um conto ou crônica clássica de domínio público por dia. Leia autores renomados como Machado de Assis, Lima Barreto, João do Rio e Arthur Azevedo.`,
+    title: `10pages`,
+    description: `Um conto ou crônica clássica de até 10 páginas por dia. Leia autores renomados como Machado de Assis, Lima Barreto, João do Rio e Arthur Azevedo.`,
     author: `@antigravity`,
-    siteUrl: `https://contos-classicos-pwa.netlify.app/`,
+    siteUrl: `https://10pages-pwa.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -31,14 +31,14 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Contos Clássicos Brasileiros`,
-        short_name: `Contos PWA`,
-        description: `Um conto clássico da literatura brasileira por dia, direto no seu dispositivo.`,
+        name: `10pages`,
+        short_name: `10pages`,
+        description: `Leia um conto ou crônica clássica de até 10 páginas por dia. Melhore seu hábito de leitura.`,
         start_url: `/`,
         background_color: `#121824`,
         theme_color: `#8b5cf6`,
         display: `standalone`,
-        icon: `src/images/gatsby-icon.png`, // Relative to root
+        icon: `src/images/logo.png`, // Relative to root
       },
     },
     // gatsby-plugin-offline must be listed AFTER gatsby-plugin-manifest

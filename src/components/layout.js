@@ -2,10 +2,12 @@ import React, { useState, useEffect } from "react"
 import Header from "./header"
 import StatsModal from "./StatsModal"
 import { getStats } from "../utils/gamification"
+import { getCurrentUser } from "../utils/auth"
 
 const Layout = ({ children }) => {
   const [theme, setTheme] = useState("dark")
   const [isStatsOpen, setIsStatsOpen] = useState(false)
+  const [currentUser, setCurrentUser] = useState(null)
   const [stats, setStats] = useState({
     readStories: {},
     streak: 0,
@@ -21,10 +23,11 @@ const Layout = ({ children }) => {
     setTheme(savedTheme)
     document.body.className = `${savedTheme}-theme`
 
-    // 2. Stats init
+    // 2. Auth & Stats init
+    setCurrentUser(getCurrentUser())
     setStats(getStats())
 
-    // 3. Custom event listeners for Gamification events
+    // 3. Custom event listeners for Gamification and Auth events
     const handleBadgeUnlocked = (e) => {
       const badge = e.detail
       const toastId = Date.now()
@@ -46,12 +49,19 @@ const Layout = ({ children }) => {
       setIsStatsOpen(true)
     }
 
+    const handleAuthChange = () => {
+      setCurrentUser(getCurrentUser())
+      setStats(getStats())
+    }
+
     window.addEventListener("badge_unlocked", handleBadgeUnlocked)
     window.addEventListener("open_stats", handleOpenStats)
+    window.addEventListener("auth_change", handleAuthChange)
 
     return () => {
       window.removeEventListener("badge_unlocked", handleBadgeUnlocked)
       window.removeEventListener("open_stats", handleOpenStats)
+      window.removeEventListener("auth_change", handleAuthChange)
     }
   }, [])
 
@@ -77,6 +87,7 @@ const Layout = ({ children }) => {
         onToggleTheme={toggleTheme} 
         streak={stats.streak}
         onOpenStats={() => setIsStatsOpen(true)}
+        user={currentUser}
       />
       
       <main style={{ minHeight: "calc(100vh - 210px)", padding: "2rem 0" }}>
@@ -85,14 +96,14 @@ const Layout = ({ children }) => {
 
       <footer className="site-footer">
         <div className="container">
-          <p>© {new Date().getFullYear()} — Contos Clássicos Brasileiros</p>
+          <p>© {new Date().getFullYear()} — 10pages</p>
           <p style={{ marginTop: "0.5rem", fontSize: "0.8rem", opacity: 0.7 }}>
             Leitura diária em domínio público. Feito com amor à literatura.
           </p>
         </div>
       </footer>
 
-      {/* Stats and Badges Panel */}
+      {/* Stats and Badges Panel (also handles login/register) */}
       <StatsModal 
         isOpen={isStatsOpen} 
         onClose={handleCloseStats} 

@@ -837,3 +837,54 @@ body.dark-theme .badge-row-modal.locked {
   }
 }
 
+/* --- Auth & User Profile UI --- */
+.auth-banner-modal {
+  transition: all var(--transition-fast);
+}
+
+.auth-link-btn {
+  background: none;
+  border: none;
+  font-family: var(--font-sans);
+  font-size: inherit;
+  cursor: pointer;
+  padding: 0;
+  transition: color var(--transition-fast), opacity var(--transition-fast);
+}
+
+.auth-link-btn:hover {
+  filter: brightness(1.2);
+  opacity: 0.9;
+}
+
+.auth-error-msg {
+  animation: fadeIn var(--transition-fast);
+}
+
+.auth-form-modal input.search-input {
+  box-shadow: none;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--bg);
+}
+
+.auth-form-modal input.search-input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(139, 92, 246, 0.15);
+}
+
+.nav-user-name {
+  color: var(--text-muted);
+  transition: color var(--transition-fast);
+}
+
+.nav-links button:hover .nav-user-name {
+  color: var(--text);
+}
+
+@media (max-width: 480px) {
+  .nav-user-name {
+    display: none; /* hide username on super tiny mobile viewports to conserve header space */
+  }
+}
+
