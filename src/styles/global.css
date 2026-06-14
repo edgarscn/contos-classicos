@@ -378,3 +378,271 @@ body {
 .animate-fade-in {
   animation: fadeIn var(--transition-slow) forwards;
 }
+
+/* --- Gamification, Streaks & Achievements --- */
+
+/* Reading Progress Bar */
+.reading-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 4px;
+  background: linear-gradient(90deg, var(--accent), #f472b6, #3b82f6);
+  z-index: 1000;
+  transition: width 0.1s ease-out;
+  box-shadow: 0 1px 10px rgba(139, 92, 246, 0.3);
+}
+
+/* Streak Badge Header */
+.btn-streak-header {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.4rem 0.8rem;
+  border-radius: 100px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  font-size: 0.9rem;
+  transition: all var(--transition-fast);
+}
+
+.btn-streak-header:hover {
+  border-color: #f97316;
+  background: rgba(249, 115, 22, 0.05);
+  transform: scale(1.05);
+  box-shadow: 0 4px 12px rgba(249, 115, 22, 0.15);
+}
+
+body.dark-theme .btn-streak-header:hover {
+  background: rgba(249, 115, 22, 0.12);
+}
+
+/* Modal Overlay and Window */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.65);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 200;
+  animation: fadeIn var(--transition-fast);
+}
+
+.modal-content {
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 28px;
+  padding: 2rem;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.35);
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+}
+
+body.light-theme .modal-content {
+  background: #fdfaf6;
+  box-shadow: 0 20px 50px rgba(139, 92, 246, 0.1);
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+  padding-bottom: 0.75rem;
+}
+
+.btn-close {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 1.75rem;
+  cursor: pointer;
+  transition: color var(--transition-fast);
+  line-height: 1;
+}
+
+.btn-close:hover {
+  color: var(--text);
+}
+
+/* Stats inside modal */
+.stats-grid-modal {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+  margin-bottom: 1.5rem;
+}
+
+.stat-card-modal {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  padding: 1.25rem 0.5rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  box-shadow: var(--shadow);
+}
+
+/* Badges list and row */
+.badges-list-modal {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.badge-row-modal {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 0.9rem 1.2rem;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+  background: var(--card-bg);
+  transition: all var(--transition-fast);
+}
+
+.badge-row-modal.unlocked {
+  border-color: rgba(139, 92, 246, 0.3);
+  box-shadow: 0 4px 15px rgba(139, 92, 246, 0.05);
+}
+
+.badge-row-modal.locked {
+  opacity: 0.55;
+  background: rgba(0, 0, 0, 0.02);
+}
+
+body.dark-theme .badge-row-modal.locked {
+  background: rgba(255, 255, 255, 0.01);
+}
+
+.badge-icon-modal {
+  font-size: 1.8rem;
+  width: 50px;
+  height: 50px;
+  background: var(--border);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.badge-row-modal.unlocked .badge-icon-modal {
+  background: linear-gradient(135deg, var(--accent-light), rgba(139, 92, 246, 0.15));
+  animation: pulseLight 2.2s infinite alternate;
+}
+
+.unlocked-check {
+  color: #10b981;
+  font-weight: 700;
+  font-size: 1.1rem;
+}
+
+/* Toast System */
+.toasts-container {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  z-index: 1000;
+  pointer-events: none;
+}
+
+.toast-card {
+  pointer-events: auto;
+  background: var(--card-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--accent);
+  border-radius: 20px;
+  padding: 1.1rem 1.4rem;
+  box-shadow: var(--shadow-hover);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  width: 380px;
+  max-width: 90vw;
+  cursor: pointer;
+  animation: slideInRight 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275) forwards;
+  position: relative;
+  overflow: hidden;
+}
+
+.toast-card::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 4px;
+  height: 100%;
+  background: var(--accent);
+}
+
+.toast-icon {
+  font-size: 2rem;
+  animation: bounceBadge 1.2s infinite alternate;
+}
+
+.toast-title {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.toast-desc {
+  font-size: 0.85rem;
+  color: var(--text);
+  margin-top: 0.15rem;
+  line-height: 1.4;
+}
+
+.toast-close {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 1.25rem;
+  cursor: pointer;
+  line-height: 1;
+  margin-left: auto;
+}
+
+.toast-close:hover {
+  color: var(--text);
+}
+
+/* Animations */
+@keyframes slideInRight {
+  from {
+    transform: translateX(120%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+@keyframes pulseLight {
+  from { box-shadow: 0 0 0 0 rgba(139, 92, 246, 0.1); }
+  to { box-shadow: 0 0 12px 2px rgba(139, 92, 246, 0.35); }
+}
+
+@keyframes bounceBadge {
+  from { transform: translateY(0); }
+  to { transform: translateY(-3px); }
+}
+

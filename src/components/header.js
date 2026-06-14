@@ -1,8 +1,7 @@
 import * as React from "react"
 import { Link } from "gatsby"
 
-const Header = ({ theme, onToggleTheme }) => {
-  // Check if we are on a specific route to apply active classes
+const Header = ({ theme, onToggleTheme, streak = 0, onOpenStats }) => {
   const isBrowser = typeof window !== "undefined"
   const currentPath = isBrowser ? window.location.pathname : ""
 
@@ -27,6 +26,16 @@ const Header = ({ theme, onToggleTheme }) => {
             Pesquisar
           </Link>
           
+          {/* Streak button */}
+          <button
+            onClick={onOpenStats}
+            className="btn-streak-header"
+            title="Ver minhas estatísticas e conquistas"
+            aria-label="Ver estatísticas"
+          >
+            🔥 <span style={{ fontWeight: 700 }}>{streak}</span>
+          </button>
+          
           <button 
             onClick={onToggleTheme} 
             className="btn-icon" 
@@ -34,7 +43,6 @@ const Header = ({ theme, onToggleTheme }) => {
             title="Alternar tema"
           >
             {theme === "dark" ? (
-              // Sun Icon
               <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <circle cx="12" cy="12" r="5"></circle>
                 <line x1="12" y1="1" x2="12" y2="3"></line>
@@ -47,7 +55,6 @@ const Header = ({ theme, onToggleTheme }) => {
                 <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
               </svg>
             ) : (
-              // Moon Icon
               <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
                 <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
               </svg>

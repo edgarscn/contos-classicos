@@ -1,8 +1,9 @@
 import * as React from "react"
-import { useState, useEffect } from "react"
+import { useState, useEffect, useRef } from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import { recordCompletion } from "../utils/gamification"
 
 // PRNG Generator (Mulberry32)
 function mulberry32(a) {
@@ -37,6 +38,10 @@ const IndexPage = ({ data }) => {
   const [dailyStory, setDailyStory] = useState(null)
   const [loading, setLoading] = useState(true)
   const [fontSize, setFontSize] = useState(1.15) // in rem
+  const [scrollProgress, setScrollProgress] = useState(0)
+
+  const observerRef = useRef(null)
+  const isCompletedRef = useRef(false)
 
   useEffect(() => {
     const today = new Date()
@@ -45,14 +50,92 @@ const IndexPage = ({ data }) => {
     
     const stories = data.allMarkdownRemark.nodes
     if (stories.length > 0) {
-      // Seed with the current year so order changes every year
       const shuffled = seededShuffle(stories, year)
-      // Pick story based on the day of the year (1-365)
       const selected = shuffled[(day - 1) % shuffled.length]
       setDailyStory(selected)
     }
     setLoading(false)
   }, [data])
+
+  // Track reading progress bar
+  useEffect(() => {
+    if (loading || !dailyStory) return
+
+    const handleScroll = () => {
+      const totalHeight = document.documentElement.scrollHeight - window.innerHeight
+      if (totalHeight <= 0) return
+      const progress = (window.scrollY / totalHeight) * 100
+      setScrollProgress(progress)
+    }
+
+    window.addEventListener("scroll", handleScroll)
+    return () => window.removeEventListener("scroll", handleScroll)
+  }, [loading, dailyStory])
+
+  // Track completion using IntersectionObserver
+  useEffect(() => {
+    if (typeof window === "undefined" || loading || !dailyStory) return
+
+    const handleStoryComplete = () => {
+      if (isCompletedRef.current) return
+      isCompletedRef.current = true
+
+      const slug = dailyStory.frontmatter.slug
+      const { newBadges, stats, alreadyFinished } = recordCompletion(slug)
+
+      // 1. Confetti rain
+      import("canvas-confetti").then((module) => {
+        const confetti = module.default
+        confetti({
+          particleCount: 120,
+          spread: 70,
+          origin: { y: 0.85 }
+        })
+      })
+
+      // 2. Dispatch event to show Toast and refresh stats
+      if (newBadges.length > 0) {
+        newBadges.forEach(badge => {
+          window.dispatchEvent(new CustomEvent("badge_unlocked", { detail: badge }))
+        })
+      } else if (!alreadyFinished) {
+        window.dispatchEvent(new CustomEvent("badge_unlocked", {
+          detail: {
+            id: `completed-${slug}`,
+            title: "Leitura Concluída!",
+            description: `Você terminou de ler "${dailyStory.frontmatter.title}".`,
+            icon: "📖"
+          }
+        }))
+      } else {
+        window.dispatchEvent(new CustomEvent("badge_unlocked", {
+          detail: {
+            id: `stats-update`,
+            title: "Leitura Registrada!",
+            description: `Obra concluída novamente. Ofensiva atualizada!`,
+            icon: "🔥"
+          }
+        }))
+      }
+    }
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        const entry = entries[0]
+        if (entry.isIntersecting) {
+          handleStoryComplete()
+          observer.disconnect() // trigger once per page load
+        }
+      },
+      { threshold: 0.5 }
+    )
+
+    if (observerRef.current) {
+      observer.observe(observerRef.current)
+    }
+
+    return () => observer.disconnect()
+  }, [loading, dailyStory])
 
   const increaseFontSize = () => {
     setFontSize(prev => Math.min(prev + 0.1, 1.6))
@@ -66,6 +149,14 @@ const IndexPage = ({ data }) => {
     <Layout>
       <Seo title="Conto do Dia" />
       
+      {/* Scroll Progress Bar */}
+      {!loading && dailyStory && (
+        <div 
+          className="reading-progress-bar" 
+          style={{ width: `${scrollProgress}%` }} 
+        />
+      )}
+
       <div className="hero-section container">
         <span className="badge">Recomendação Diária</span>
         <h2 style={{ fontSize: "2rem", fontWeight: 700, letterSpacing: "-0.5px" }}>
@@ -123,6 +214,14 @@ const IndexPage = ({ data }) => {
               style={{ '--reader-font-size': `${fontSize}rem` }}
               dangerouslySetInnerHTML={{ __html: dailyStory.html }} 
             />
+            
+            {/* End of Story Trigger */}
+            <div 
+              ref={observerRef} 
+              style={{ height: "40px", margin: "2rem 0", display: "flex", justifyContent: "center", alignItems: "center" }}
+            >
+              <span style={{ fontSize: "1.2rem", opacity: 0.4 }}>❦ FIM ❦</span>
+            </div>
             
             <div style={{ marginTop: "3rem", display: "flex", justifyContent: "space-between", alignItems: "center", flexWrap: "wrap", gap: "1rem", paddingTop: "2rem", borderTop: "1px solid var(--border)" }}>
               <span style={{ fontSize: "0.85rem", color: "var(--text-muted)" }}>

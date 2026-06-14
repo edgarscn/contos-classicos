@@ -1,12 +1,97 @@
 import * as React from "react"
-import { useState } from "react"
+import { useState, useEffect, useRef } from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import { recordCompletion } from "../utils/gamification"
 
 const StoryTemplate = ({ data }) => {
   const story = data.markdownRemark
   const [fontSize, setFontSize] = useState(1.15) // in rem
+  const [scrollProgress, setScrollProgress] = useState(0)
+  
+  const observerRef = useRef(null)
+  const isCompletedRef = useRef(false)
+
+  // Track reading progress bar
+  useEffect(() => {
+    const handleScroll = () => {
+      const totalHeight = document.documentElement.scrollHeight - window.innerHeight
+      if (totalHeight <= 0) return
+      const progress = (window.scrollY / totalHeight) * 100
+      setScrollProgress(progress)
+    }
+
+    window.addEventListener("scroll", handleScroll)
+    return () => window.removeEventListener("scroll", handleScroll)
+  }, [])
+
+  // Track completion using IntersectionObserver
+  useEffect(() => {
+    if (typeof window === "undefined" || !story) return
+
+    const handleStoryComplete = () => {
+      if (isCompletedRef.current) return
+      isCompletedRef.current = true
+
+      const slug = story.frontmatter.slug
+      const { newBadges, stats, alreadyFinished } = recordCompletion(slug)
+
+      // 1. Confetti rain
+      import("canvas-confetti").then((module) => {
+        const confetti = module.default
+        confetti({
+          particleCount: 120,
+          spread: 70,
+          origin: { y: 0.85 }
+        })
+      })
+
+      // 2. Dispatch event to show Toast and refresh stats
+      if (newBadges.length > 0) {
+        newBadges.forEach(badge => {
+          window.dispatchEvent(new CustomEvent("badge_unlocked", { detail: badge }))
+        })
+      } else if (!alreadyFinished) {
+        // First completion of this story: show a standard completion toast
+        window.dispatchEvent(new CustomEvent("badge_unlocked", {
+          detail: {
+            id: `completed-${slug}`,
+            title: "Leitura Concluída!",
+            description: `Você terminou de ler "${story.frontmatter.title}".`,
+            icon: "📖"
+          }
+        }))
+      } else {
+        // Already read before, just refresh the header stats
+        window.dispatchEvent(new CustomEvent("badge_unlocked", {
+          detail: {
+            id: `stats-update`,
+            title: "Leitura Registrada!",
+            description: `Obra concluída novamente. Ofensiva atualizada!`,
+            icon: "🔥"
+          }
+        }))
+      }
+    }
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        const entry = entries[0]
+        if (entry.isIntersecting) {
+          handleStoryComplete()
+          observer.disconnect() // trigger once per page load
+        }
+      },
+      { threshold: 0.5 } // Trigger when 50% of the trigger element is visible
+    )
+
+    if (observerRef.current) {
+      observer.observe(observerRef.current)
+    }
+
+    return () => observer.disconnect()
+  }, [story])
 
   const increaseFontSize = () => {
     setFontSize(prev => Math.min(prev + 0.1, 1.6))
@@ -42,6 +127,12 @@ const StoryTemplate = ({ data }) => {
         description={`Leia o conto clássico ${story.frontmatter.title} de ${story.frontmatter.author} (${story.frontmatter.year}).`}
       />
       
+      {/* Scroll Progress Bar */}
+      <div 
+        className="reading-progress-bar" 
+        style={{ width: `${scrollProgress}%` }} 
+      />
+
       <div className="container" style={{ padding: "1.5rem 0" }}>
         {/* Back Link */}
         <div className="reader-container" style={{ marginBottom: "1.5rem" }}>
@@ -110,6 +201,14 @@ const StoryTemplate = ({ data }) => {
               style={{ '--reader-font-size': `${fontSize}rem` }}
               dangerouslySetInnerHTML={{ __html: story.html }} 
             />
+
+            {/* End of Story Trigger for Observer */}
+            <div 
+              ref={observerRef} 
+              style={{ height: "40px", margin: "2rem 0", display: "flex", justifyContent: "center", alignItems: "center" }}
+            >
+              <span style={{ fontSize: "1.2rem", opacity: 0.4 }}>❦ FIM ❦</span>
+            </div>
           </article>
         </div>
       </div>
