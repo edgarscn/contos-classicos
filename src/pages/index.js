@@ -179,7 +179,7 @@ const IndexPage = ({ data }) => {
             <p style={{ color: "var(--text-muted)" }}>Folheando páginas...</p>
           </div>
         ) : dailyStory ? (
-          <article className="card" style={{ padding: "3rem 2.5rem" }}>
+          <article className="card reader-card">
             <div className="story-header">
               <span className="badge" style={{ background: "var(--accent-light)", color: "var(--accent)" }}>
                 {dailyStory.frontmatter.category}

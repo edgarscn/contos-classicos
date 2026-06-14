@@ -2,12 +2,12 @@ import * as React from "react"
 import { Link } from "gatsby"
 import logo from "../images/logo.png"
 
-const Header = ({ theme, onToggleTheme, streak = 0, onOpenStats, user = null }) => {
+const Header = ({ theme, onToggleTheme, streak = 0, onOpenStats, user = null, visible = true }) => {
   const isBrowser = typeof window !== "undefined"
   const currentPath = isBrowser ? window.location.pathname : ""
 
   return (
-    <header className="site-header">
+    <header className={`site-header ${visible ? "" : "header-hidden"}`}>
       <div className="container header-content">
         <Link to="/" className="site-logo" style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
           <img 

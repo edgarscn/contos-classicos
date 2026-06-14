@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react"
+import React, { useState, useEffect, useRef } from "react"
 import { Link } from "gatsby"
 import Header from "./header"
 import StatsModal from "./StatsModal"
@@ -10,6 +10,8 @@ const Layout = ({ children }) => {
   const [isStatsOpen, setIsStatsOpen] = useState(false)
   const [currentUser, setCurrentUser] = useState(null)
   const [currentPath, setCurrentPath] = useState("")
+  const [headerVisible, setHeaderVisible] = useState(true)
+  const lastScrollYRef = useRef(0)
   const [stats, setStats] = useState({
     readStories: {},
     streak: 0,
@@ -81,6 +83,27 @@ const Layout = ({ children }) => {
     }
   }, [])
 
+  // Smart Scroll for Immersive Reading
+  useEffect(() => {
+    if (typeof window === "undefined") return
+
+    const handleScroll = () => {
+      const currentScrollY = window.scrollY
+      const lastScrollY = lastScrollYRef.current
+      
+      if (currentScrollY > lastScrollY && currentScrollY > 60) {
+        setHeaderVisible(false)
+      } else if (currentScrollY < lastScrollY || currentScrollY <= 10) {
+        setHeaderVisible(true)
+      }
+      
+      lastScrollYRef.current = currentScrollY
+    }
+
+    window.addEventListener("scroll", handleScroll, { passive: true })
+    return () => window.removeEventListener("scroll", handleScroll)
+  }, [])
+
   const toggleTheme = () => {
     const nextTheme = theme === "dark" ? "light" : "dark"
     setTheme(nextTheme)
@@ -107,6 +130,7 @@ const Layout = ({ children }) => {
         streak={stats.streak}
         onOpenStats={() => setIsStatsOpen(true)}
         user={currentUser}
+        visible={headerVisible}
       />
       
       <main style={{ minHeight: "calc(100vh - 210px)", padding: "2rem 0" }}>
@@ -130,7 +154,7 @@ const Layout = ({ children }) => {
       />
 
       {/* Mobile Bottom Navigation Bar */}
-      <nav className="mobile-bottom-nav">
+      <nav className={`mobile-bottom-nav ${headerVisible ? "" : "nav-hidden"}`}>
         <Link to="/" className={`mobile-nav-item ${isHomeActive ? "active" : ""}`}>
           <span className="mobile-nav-icon">📖</span>
           <span className="mobile-nav-label">Leitura</span>
