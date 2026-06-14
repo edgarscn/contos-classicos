@@ -1,6 +1,6 @@
 ---
 title: "Médico é remédio"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "medico-e-remedio"

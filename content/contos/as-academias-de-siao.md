@@ -1,6 +1,6 @@
 ---
 title: "As Academias de Sião"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1884
 category: "Contos brasileiros"
 slug: "as-academias-de-siao"

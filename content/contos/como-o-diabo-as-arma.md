@@ -1,6 +1,6 @@
 ---
 title: "Como o Diabo as Arma!"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "como-o-diabo-as-arma"

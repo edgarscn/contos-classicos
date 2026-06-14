@@ -1,6 +1,6 @@
 ---
 title: "De pena atrás da orelha"
-author: "Domínio Público"
+author: "Manuel de Oliveira Paiva"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "de-pena-atras-da-orelha"

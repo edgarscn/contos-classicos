@@ -1,6 +1,6 @@
 ---
 title: "O Enfermeiro"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1896
 category: "Contos brasileiros"
 slug: "o-enfermeiro"

@@ -1,6 +1,6 @@
 ---
 title: "Costumes Americanos"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "costumes-americanos"

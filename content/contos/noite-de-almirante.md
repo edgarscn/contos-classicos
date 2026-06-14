@@ -1,6 +1,6 @@
 ---
 title: "Noite de almirante"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "noite-de-almirante"

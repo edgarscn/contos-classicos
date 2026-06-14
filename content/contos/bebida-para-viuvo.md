@@ -1,6 +1,6 @@
 ---
 title: "Bebida para Viúvo"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "bebida-para-viuvo"

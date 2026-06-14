@@ -1,6 +1,6 @@
 ---
 title: "Cantiga de esponsaes"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "cantiga-de-esponsaes"

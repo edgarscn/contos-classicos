@@ -1,6 +1,6 @@
 ---
 title: "A segunda vida"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-segunda-vida"

@@ -1,6 +1,6 @@
 ---
 title: "O Ladrão Honesto"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-ladrao-honesto"

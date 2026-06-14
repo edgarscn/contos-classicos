@@ -1,6 +1,6 @@
 ---
 title: "História de uma lágrima"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "historia-de-uma-lagrima"

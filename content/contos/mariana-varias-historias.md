@@ -1,6 +1,6 @@
 ---
 title: "Mariana (Várias Histórias)"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1896
 category: "Contos brasileiros"
 slug: "mariana-varias-historias"

@@ -1,6 +1,6 @@
 ---
 title: "O filho de Gabriela"
-author: "Domínio Público"
+author: "Lima Barreto"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-filho-de-gabriela"

@@ -1,6 +1,6 @@
 ---
 title: "O Passado, o passado"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-passado-o-passado"

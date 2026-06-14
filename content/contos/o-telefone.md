@@ -1,6 +1,6 @@
 ---
 title: "O Telefone"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-telefone"

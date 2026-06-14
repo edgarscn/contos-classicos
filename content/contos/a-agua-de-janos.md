@@ -1,6 +1,6 @@
 ---
 title: "A Água de Janos"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-agua-de-janos"

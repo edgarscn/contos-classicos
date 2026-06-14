@@ -1,0 +1,25 @@
+---
+title: "O alfaiate no céu"
+author: "Irmãos Grimm"
+year: "Desconhecido"
+category: "Contos internacionais"
+slug: "o-alfaiate-no-ceu"
+---
+
+Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
+
+A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
+
+Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
+
+"Honesto de verdade," disse Pedro, "como o ladrão que foge da forca! Foste sim um mão leve atrevido a surrupiar as roupas das pessoas. Não poderá entrar no céu. O Senhor me proibiu de deixar qualquer um entrar enquanto ele estiver fora." "Deixa disso, seja misericordioso," exclamou o alfaiate. " Migalhas que caem da mesa por conta própria não são roubadas, e nem vale a pena ficar falando sobre essas coisas. Veja, eu sou manco, estou com bolhas nos pés de tanto caminhar até aqui, possivelmente não conseguirei voltar. Apenas me deixe entrar, e eu farei todo trabalho duro.  Carregarei as crianças, lavarei as roupas delas, lavarei e limparei os bancos onde elas ficaram brincando, e remendarei todas as roupas rasgadas delas.
+
+Ele foi obrigado a se sentar num cantinho atrás da porta, e teve de ficar quieto e sossegado ali, para que o Senhor, quando Ele retornasse, não o visse e ficasse bravo.  O alfaiate obedeceu, mas assim que São Pedro saiu de perto da porta, ele se levantou, e cheio de curiosidade, começou a passear por todos os cantos do céu, bisbilhotando tudo em todos os lugares.  Até que ele chegou num lugar onde havia muitas cadeiras lindas e confortáveis, e no centro havia uma cadeira de ouro toda decorada com joias brilhantes, e também ficava num plano mais alto que as outras cadeiras, e na frente dela havia um escabelo[1] de ouro.
+
+Ela era, no entanto, o assento onde o Senhor se sentava quando ele estava em casa, e da qual ele podia ver tudo o que acontecia na Terra.  O alfaiate permaneceu parado diante dela, e ficou olhando para a cadeira durante um longo tempo, e finalmente subiu e se sentou na cadeira.  Dali ele via tudo o que acontecia na Terra, e viu uma velhinha muito feia que estava lavando roupas nas margens de um rio, e sem que ninguém percebessem pegou para ela dois véus que estavam de lado.
+
+Quando viu isto, o alfaiate ficou tão nervoso que ele pegou o escabelo de ouro, e o jogou do céu lá embaixo na Terra, sobre a cabeça da velha safada.  No entanto, como ele não conseguia trazer de volta o escabelo, ele saiu furtivamente da cadeira, se voltou a sentar no lugar atrás da porta, e se comportou como se nunca tivesse saído dali.  Quando o Senhor e mestre retornou junto com seu séquito celestial, ele não viu o alfaiate atrás da porta, mas quando ele foi se sentar na sua cadeira, percebeu que o escabelo não estava mais lá.
+
+Ele perguntou a São Pedro o que tinha acontecido com o seu escabelo, mas São Pedro não sabia o que tinha acontecido.  Então, Ele perguntou se alguém havia entrado ali enquanto Ele estava fora.  "Não estou sabendo de ninguém que tivesse estado aqui," respondeu São Pedro, "com exceção de um alfaiate manco, que ainda está atrás da porta."  Então, o Senhor mandou que trouxessem o alfaiate diante dele, e lhe perguntou se ele tinha atirado fora o escabelo, e onde ele o tinha colocado?  "Oh, Senhor," respondeu o alfaiate alegremente, "Eu o atirei lá embaixo na terra, num momento de raiva, sobre uma velhinha que estava roubando dois véus enquanto lavava roupa." "Oh, seu velhaco," disse o Senhor, "se eu fosse julgá-lo como você julga, como acha que você teria escapado durante tão tempo?"
+
+"Eu não teria mais cadeiras, bancos, assentos, nada aqui, nem mesmo o garfo de usar no forno, mas teria atirado tudo nos pecadores.  De agora em diante, não poderás mais ficar no céu, mas deves sair por aquela porta novamente.  E vás para onde quiseres.  Ninguém aplica punição aqui, com exceção de mim, que sou o Senhor.  Pedro foi obrigado a expulsar o alfaiate do céu novamente, mas como os sapatos dele estavam furados e os seus pés estavam cobertos de bolhas, ele se apoiou num bastão com a mão, e foi embora bem devagarinho, dizendo "Esperem um pouco", enquanto os bons soldados se sentavam de tanto rir.

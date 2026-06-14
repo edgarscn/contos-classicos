@@ -1,6 +1,6 @@
 ---
 title: "O gado do Valha-me-Deus"
-author: "Domínio Público"
+author: "Inglês de Sousa"
 year: 1893
 category: "Contos brasileiros"
 slug: "o-gado-do-valha-me-deus"

@@ -888,3 +888,77 @@ body.dark-theme .badge-row-modal.locked {
   }
 }
 
+/* --- Mobile bottom navigation bar --- */
+.mobile-bottom-nav {
+  display: none;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 60px;
+  background: var(--header-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border-top: 1px solid var(--border);
+  z-index: 150;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.08);
+}
+
+body.dark-theme .mobile-bottom-nav {
+  box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.mobile-nav-item {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-family: var(--font-sans);
+  font-size: 0.72rem;
+  font-weight: 600;
+  width: 33.33%;
+  height: 100%;
+  cursor: pointer;
+  transition: color var(--transition-fast), transform 0.1s ease;
+}
+
+.mobile-nav-item:active {
+  transform: scale(0.92);
+}
+
+.mobile-nav-icon {
+  font-size: 1.35rem;
+  margin-bottom: 0.15rem;
+  transition: transform var(--transition-fast);
+}
+
+.mobile-nav-item.active, .mobile-nav-item:hover {
+  color: var(--accent);
+}
+
+.mobile-nav-item.active .mobile-nav-icon {
+  transform: translateY(-2px);
+}
+
+@media (max-width: 600px) {
+  .mobile-bottom-nav {
+    display: flex;
+  }
+  
+  /* Add padding bottom to body so content isn't covered by bottom nav */
+  body {
+    padding-bottom: 70px;
+  }
+
+  /* Hide top navigation links, except the theme toggle */
+  .nav-links .nav-link, .nav-links .btn-streak-header {
+    display: none !important;
+  }
+}
+

@@ -1,6 +1,6 @@
 ---
 title: "Contos gauchescos (1912)/O negro Bonifácio"
-author: "Domínio Público"
+author: "João Simões Lopes Neto"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "contos-gauchescos-1912o-negro-bonifacio"

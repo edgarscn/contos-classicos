@@ -1,6 +1,6 @@
 ---
 title: "A honestidade de Etelvina"
-author: "Domínio Público"
+author: "João do Rio"
 year: 1916
 category: "Contos brasileiros"
 slug: "a-honestidade-de-etelvina"

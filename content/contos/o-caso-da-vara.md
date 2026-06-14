@@ -1,6 +1,6 @@
 ---
 title: "O caso da vara"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-caso-da-vara"

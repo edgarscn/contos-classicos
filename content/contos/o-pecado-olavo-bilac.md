@@ -1,6 +1,6 @@
 ---
 title: "O Pecado (Olavo Bilac)"
-author: "Domínio Público"
+author: "Olavo Bilac"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-pecado-olavo-bilac"

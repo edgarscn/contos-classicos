@@ -1,6 +1,6 @@
 ---
 title: "Miss Edith e seu tio"
-author: "Domínio Público"
+author: "Lima Barreto"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "miss-edith-e-seu-tio"

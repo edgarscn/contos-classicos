@@ -1,6 +1,6 @@
 ---
 title: "A Lagarta"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-lagarta"

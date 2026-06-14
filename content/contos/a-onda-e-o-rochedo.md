@@ -1,6 +1,6 @@
 ---
 title: "A Onda e o Rochedo"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-onda-e-o-rochedo"

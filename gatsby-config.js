@@ -4,7 +4,7 @@
 
 module.exports = {
   siteMetadata: {
-    title: `10pages`,
+    title: `10pages - contos clássicos`,
     description: `Um conto ou crônica clássica de até 10 páginas por dia. Leia autores renomados como Machado de Assis, Lima Barreto, João do Rio e Arthur Azevedo.`,
     author: `@antigravity`,
     siteUrl: `https://10pages-pwa.netlify.app/`,
@@ -31,7 +31,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `10pages`,
+        name: `10pages - contos clássicos`,
         short_name: `10pages`,
         description: `Leia um conto ou crônica clássica de até 10 páginas por dia. Melhore seu hábito de leitura.`,
         start_url: `/`,

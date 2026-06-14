@@ -1,6 +1,6 @@
 ---
 title: "Como os Cães"
-author: "Domínio Público"
+author: "Olavo Bilac"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "como-os-caes"

@@ -1,6 +1,6 @@
 ---
 title: "O Túmulo de Ciro"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-tumulo-de-ciro"

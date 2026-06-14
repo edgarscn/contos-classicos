@@ -1,6 +1,6 @@
 ---
 title: "O destinado"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-destinado"

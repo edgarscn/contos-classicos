@@ -1,6 +1,6 @@
 ---
 title: "Mal Por Mal..."
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "mal-por-mal"

@@ -1,6 +1,6 @@
 ---
 title: "Historias e sonhos (1920)/A mathematica não falha"
-author: "Domínio Público"
+author: "Lima Barreto"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "historias-e-sonhos-1920a-mathematica-nao-falha"

@@ -1,6 +1,6 @@
 ---
 title: "O Velho Lima"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-velho-lima"

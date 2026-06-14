@@ -1,6 +1,6 @@
 ---
 title: "O Inglês tal... qual se o pinta"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-ingles-tal-qual-se-o-pinta"

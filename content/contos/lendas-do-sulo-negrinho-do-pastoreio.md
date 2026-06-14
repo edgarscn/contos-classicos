@@ -1,6 +1,6 @@
 ---
 title: "Lendas do Sul/O Negrinho do Pastoreio"
-author: "Domínio Público"
+author: "João Simões Lopes Neto"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "lendas-do-sulo-negrinho-do-pastoreio"

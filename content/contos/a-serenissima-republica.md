@@ -1,6 +1,6 @@
 ---
 title: "A sereníssima República"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1882
 category: "Contos brasileiros"
 slug: "a-serenissima-republica"

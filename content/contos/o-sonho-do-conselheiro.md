@@ -1,6 +1,6 @@
 ---
 title: "O Sonho do Conselheiro"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-sonho-do-conselheiro"

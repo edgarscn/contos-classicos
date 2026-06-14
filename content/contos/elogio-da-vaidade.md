@@ -1,6 +1,6 @@
 ---
 title: "Elogio da vaidade"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "elogio-da-vaidade"

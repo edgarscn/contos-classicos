@@ -1,6 +1,6 @@
 ---
 title: "Cinismo"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "cinismo"

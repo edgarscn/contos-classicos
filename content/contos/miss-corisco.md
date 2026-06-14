@@ -1,6 +1,6 @@
 ---
 title: "Miss Corisco"
-author: "Domínio Público"
+author: "Alcântara Machado"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "miss-corisco"

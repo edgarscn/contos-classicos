@@ -1,6 +1,6 @@
 ---
 title: "As Maçãs"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "as-macas"

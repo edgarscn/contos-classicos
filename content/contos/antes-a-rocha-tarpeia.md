@@ -1,6 +1,6 @@
 ---
 title: "Antes a rocha Tarpéia"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "antes-a-rocha-tarpeia"

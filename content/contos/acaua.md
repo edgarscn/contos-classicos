@@ -1,6 +1,6 @@
 ---
 title: "Acauã"
-author: "Domínio Público"
+author: "Inglês de Sousa"
 year: 1893
 category: "Contos brasileiros"
 slug: "acaua"

@@ -1,6 +1,6 @@
 ---
 title: "Irmã Tereza"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "irma-tereza"

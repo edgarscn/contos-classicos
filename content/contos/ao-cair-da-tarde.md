@@ -1,6 +1,6 @@
 ---
 title: "Ao cair da tarde"
-author: "Domínio Público"
+author: "Manuel de Oliveira Paiva"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "ao-cair-da-tarde"

@@ -1,6 +1,6 @@
 ---
 title: "Anedota Pecuniária"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "anedota-pecuniaria"

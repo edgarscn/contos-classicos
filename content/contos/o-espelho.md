@@ -1,6 +1,6 @@
 ---
 title: "O Espelho"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1882
 category: "Contos brasileiros"
 slug: "o-espelho"

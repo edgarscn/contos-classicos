@@ -1,6 +1,6 @@
 ---
 title: "Historias e sonhos (1920)"
-author: "Domínio Público"
+author: "Lima Barreto"
 year: 1920
 category: "Contos brasileiros"
 slug: "historias-e-sonhos-1920"

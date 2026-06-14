@@ -1,6 +1,6 @@
 ---
 title: "As Asneiras do Guedes"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "as-asneiras-do-guedes"

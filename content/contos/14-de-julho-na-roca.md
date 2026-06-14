@@ -1,6 +1,6 @@
 ---
 title: "14 de Julho na Roça"
-author: "Domínio Público"
+author: "Raul Pompeia"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "14-de-julho-na-roca"

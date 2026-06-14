@@ -1,6 +1,6 @@
 ---
 title: "O Defunto (Thomaz Lopes)"
-author: "Domínio Público"
+author: "Thomaz Lopes"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-defunto-thomaz-lopes"

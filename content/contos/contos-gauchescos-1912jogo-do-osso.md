@@ -1,6 +1,6 @@
 ---
 title: "Contos gauchescos (1912)/Jogo do osso"
-author: "Domínio Público"
+author: "João Simões Lopes Neto"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "contos-gauchescos-1912jogo-do-osso"

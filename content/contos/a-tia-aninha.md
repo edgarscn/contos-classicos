@@ -1,6 +1,6 @@
 ---
 title: "A Tia Aninha"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-tia-aninha"

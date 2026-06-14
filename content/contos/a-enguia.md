@@ -1,6 +1,6 @@
 ---
 title: "A Enguia"
-author: "Domínio Público"
+author: "Olavo Bilac"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-enguia"

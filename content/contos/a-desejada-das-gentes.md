@@ -1,6 +1,6 @@
 ---
 title: "A desejada das gentes"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1896
 category: "Contos brasileiros"
 slug: "a-desejada-das-gentes"

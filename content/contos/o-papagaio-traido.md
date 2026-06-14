@@ -1,6 +1,6 @@
 ---
 title: "O Papagaio Traído"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-papagaio-traido"

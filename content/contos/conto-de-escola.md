@@ -1,6 +1,6 @@
 ---
 title: "Conto de Escola"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1896
 category: "Contos brasileiros"
 slug: "conto-de-escola"

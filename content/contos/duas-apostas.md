@@ -1,6 +1,6 @@
 ---
 title: "Duas Apostas"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "duas-apostas"

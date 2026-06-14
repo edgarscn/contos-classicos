@@ -1,6 +1,6 @@
 ---
 title: "Marcha Fúnebre (Machado de Assis)"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "marcha-funebre-machado-de-assis"

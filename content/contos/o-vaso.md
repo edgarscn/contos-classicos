@@ -1,6 +1,6 @@
 ---
 title: "O Vaso"
-author: "Domínio Público"
+author: "Olavo Bilac"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-vaso"

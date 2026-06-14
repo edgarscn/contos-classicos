@@ -1,6 +1,6 @@
 ---
 title: "A quadrilha de Jacob Patacho"
-author: "Domínio Público"
+author: "Inglês de Sousa"
 year: 1893
 category: "Contos brasileiros"
 slug: "a-quadrilha-de-jacob-patacho"

@@ -1,6 +1,6 @@
 ---
 title: "Negrinha (4º milheiro)/O drama da geada"
-author: "Domínio Público"
+author: "Monteiro Lobato"
 year: 1920
 category: "Contos brasileiros"
 slug: "negrinha-4o-milheiroo-drama-da-geada"

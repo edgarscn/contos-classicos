@@ -1,6 +1,6 @@
 ---
 title: "Anedota do Cabriolet"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "anedota-do-cabriolet"

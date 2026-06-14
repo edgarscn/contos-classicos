@@ -1,6 +1,6 @@
 ---
 title: "Antes da missa"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "antes-da-missa"

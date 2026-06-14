@@ -1,6 +1,6 @@
 ---
 title: "Entre duas datas"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "entre-duas-datas"

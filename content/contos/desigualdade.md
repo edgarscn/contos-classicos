@@ -1,6 +1,6 @@
 ---
 title: "Desigualdade"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "desigualdade"

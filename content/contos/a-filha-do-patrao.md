@@ -1,6 +1,6 @@
 ---
 title: "A Filha do Patrão"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-filha-do-patrao"

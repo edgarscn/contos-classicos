@@ -1,6 +1,6 @@
 ---
 title: "O Último Palpite"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-ultimo-palpite"

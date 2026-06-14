@@ -1,6 +1,6 @@
 ---
 title: "O Perigo das Profecias"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-perigo-das-profecias"

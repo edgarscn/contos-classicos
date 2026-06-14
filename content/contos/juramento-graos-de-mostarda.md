@@ -1,6 +1,6 @@
 ---
 title: "Juramento (Grãos de Mostarda)"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "juramento-graos-de-mostarda"

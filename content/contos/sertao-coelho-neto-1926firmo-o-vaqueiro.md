@@ -1,6 +1,6 @@
 ---
 title: "Sertão (Coelho Neto, 1926)/Firmo, o vaqueiro"
-author: "Domínio Público"
+author: "Coelho Neto"
 year: 1926
 category: "Contos brasileiros"
 slug: "sertao-coelho-neto-1926firmo-o-vaqueiro"

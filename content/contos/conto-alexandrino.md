@@ -1,6 +1,6 @@
 ---
 title: "Conto Alexandrino"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "conto-alexandrino"

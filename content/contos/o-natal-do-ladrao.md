@@ -1,6 +1,6 @@
 ---
 title: "O Natal do Ladrão"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-natal-do-ladrao"

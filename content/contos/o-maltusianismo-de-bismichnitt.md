@@ -1,6 +1,6 @@
 ---
 title: "O Maltusianismo de Bismichnitt"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-maltusianismo-de-bismichnitt"

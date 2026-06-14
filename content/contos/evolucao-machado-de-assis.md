@@ -1,6 +1,6 @@
 ---
 title: "Evolução (Machado de Assis)"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "evolucao-machado-de-assis"

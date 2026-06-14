@@ -1,6 +1,6 @@
 ---
 title: "Manuscrito de um sacristão"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "manuscrito-de-um-sacristao"

@@ -1,6 +1,6 @@
 ---
 title: "O segredo do bonzo"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1882
 category: "Contos brasileiros"
 slug: "o-segredo-do-bonzo"

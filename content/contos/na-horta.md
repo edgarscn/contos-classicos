@@ -1,6 +1,6 @@
 ---
 title: "Na Horta"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "na-horta"

@@ -1,6 +1,6 @@
 ---
 title: "O Jornalista"
-author: "Domínio Público"
+author: "Lima Barreto"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-jornalista"

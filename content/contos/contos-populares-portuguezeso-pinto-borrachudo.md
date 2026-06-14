@@ -1,6 +1,6 @@
 ---
 title: "Contos Populares Portuguezes/O pinto borrachudo"
-author: "Domínio Público"
+author: "Adolfo Coelho"
 year: "Desconhecido"
 category: "Contos portugueses"
 slug: "contos-populares-portuguezeso-pinto-borrachudo"

@@ -1,6 +1,6 @@
 ---
 title: "A Filosofia do Mendes"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-filosofia-do-mendes"

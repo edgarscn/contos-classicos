@@ -1,6 +1,6 @@
 ---
 title: "A Dívida de Abraão"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-divida-de-abraao"

@@ -1,6 +1,6 @@
 ---
 title: "Lágrimas de Xerxes"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "lagrimas-de-xerxes"

@@ -1,6 +1,6 @@
 ---
 title: "A Nota de Cem Mil-Réis"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-nota-de-cem-mil-reis"

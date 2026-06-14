@@ -1,6 +1,6 @@
 ---
 title: "A Valorização da Família"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-valorizacao-da-familia"

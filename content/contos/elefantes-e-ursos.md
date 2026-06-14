@@ -1,6 +1,6 @@
 ---
 title: "Elefantes e Ursos"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "elefantes-e-ursos"

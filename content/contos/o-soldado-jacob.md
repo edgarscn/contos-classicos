@@ -1,6 +1,6 @@
 ---
 title: "O Soldado Jacob"
-author: "Domínio Público"
+author: "Medeiros e Albuquerque"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-soldado-jacob"

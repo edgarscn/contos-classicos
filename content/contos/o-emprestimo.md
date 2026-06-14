@@ -1,6 +1,6 @@
 ---
 title: "O empréstimo"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1882
 category: "Contos brasileiros"
 slug: "o-emprestimo"

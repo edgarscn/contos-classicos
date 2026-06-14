@@ -1,6 +1,6 @@
 ---
 title: "A última receita"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-ultima-receita"

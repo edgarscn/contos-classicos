@@ -1,6 +1,6 @@
 ---
 title: "A Parcimônia do Coronel"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-parcimonia-do-coronel"

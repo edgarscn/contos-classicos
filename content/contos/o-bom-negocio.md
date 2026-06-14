@@ -1,0 +1,45 @@
+---
+title: "O bom negócio"
+author: "Irmãos Grimm"
+year: "Desconhecido"
+category: "Contos internacionais"
+slug: "o-bom-negocio"
+---
+
+Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
+
+A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
+
+Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
+
+Os sapos, no entanto, continuavam a mesma ladainha, “Iquá, quá, quá, quá!” — “O quê, vocês não acreditam, eu posso mostrar na frente de vocês,” e ele tirou o dinheiro do bolso e contou os sete táleres, levando-se em conta que vinte e quatro grosches equivalem a um táler. Os sapos, todavia, sem saber o que ele dizia, continuam dizendo “Iquá, quá, quá, quá!” — “O quê, exclamou o camponês que já estava ficando zangado, — “já que vocês acham que sabem mais do que eu, contem vocês mesmos,” e jogou todo o dinheiro na água.
+
+Ele ficou parado e ficou esperando até que tivessem terminado de contar e lhe devolvessem o dinheiro de novo, mas os sapos ficaram imóveis e gritavam sem parar: “Iquá, quá, quá, quá!” e além disso, não jogaram o dinheiro de volta para ele. Ele ainda esperou um bom tempo até que a noite chegou e ele foi obrigado a ir para casa.
+
+Então, ele insultou os sapos dizendo: — “Escuta aqui, seus espirradores de água, seus cabeças gordas, seus olhos esbugalhados, vocês tem bocas grandes e podem berrar até estourarem os seus ouvidos, mas vocês não sabem contar sete tálares! Vocês acham que eu vou ficar esperando aqui até quando terminarem? E com isso ele foi embora, mas os sapos continuavam gritando “Iquá, quá, quá, quá!” depois que ele se foi, até que ele chegou em casa muito furioso.
+
+Como ele não parava de latir, o camponês disse para ele: — “Sim, sim, eu sei muito bem o que você está dizendo “uau, uau, uau,” porque você quer um pedaço de carne, mas eu teria um prejuízo se eu desse um pedaço para você.” O cachorro, todavia, não respondia nada, somente “uau, uau, uau.” — “Você promete não devorar tudo, então, e você se responsabiliza pelos teus amigos?”
+
+“Uau, uau, uau.”, dizia o cachorro. — “Bem, se você insiste, eu vou te dar um pedaço, eu te conheço bem, e sei que você é quem manda, mas eu lhe digo, dentro de três dias eu preciso receber o dinheiro, caso contrário, você vai se ver comigo, e você deve entregar o dinheiro lá em casa.” E assim ele descarregou a carne e virou as costas, e os cachorros pularam em cima dela e latiam alto: “uau, uau, uau.”
+
+O camponês, ouvindo-os de longe, dizia consigo mesmo: — “Escute só, todos eles queriam um pedaço, mas o grandalhão é o principal responsável por tudo.”
+
+Três dias haviam se passado, e o camponês pensou: — “Hoje o dinheiro estará no meu bolso,” e ficou muito satisfeito. Mas ninguém aparecia para lhe dar o dinheiro. — “Será que não dá para confiar em ninguém hoje em dia,” pensou ele, e finalmente ele perdeu a paciência, e foi até a cidade procurar o açougueiro e exigir o seu dinheiro. O açougueiro achou que era uma brincadeira, mas o camponês dizia: — “Não estou brincando, eu quero o meu dinheiro! Por acaso, o cachorro grande não trouxe para você uma vaca inteirinha que eu matei há três dias atrás?”
+
+— “Oh,” respondeu o camponês, “não posso me casar com ela, eu já tenho uma esposa, e ela já é demais para mim, quando eu vou para casa, é tudo tão ruim que é como se eu tivesse uma esposa em cada canto da casa.” Então, o rei se ofendeu, e disse: — “ Você é um imbecil.” — “Ah, senhor rei,” respondeu o camponês, “o que você pode esperar de uma vaca, que não fosse um bife?” — “Chega,” disse o rei, “vou te dar uma outra recompensa. Vai-te embora agora e volta dentro de três dias, e então, terás quinhentos bem contados.”
+
+Quando o camponês saía pelo portão, o sentinela disse: — “Você conseguiu fazer a filha do rei sorrir, então, certamente você receberá alguma coisa boa.” — “Sim, é o que eu também acho,” respondeu o camponês, “quinhentos bem contados me serão dados.” — “Escuta,” disse o soldado, “me dê um pouco disso. O que você vai fazer com todo esse dinheiro?”
+
+— “Como é para você,” disse o camponês, “você receberá duzentos, dentro do prazo de três dias, apresente-se diante do rei, e peça a ele que isso te seja entregue.” Um judeu, que estava parado ali, e tinha ouvido a conversa, foi correndo atrás do camponês, o segurou pelo casaco, e disse: — “Oh, maravilha! que garoto de sorte que você é! Eu troco para você, eu troco para você com pequenas moedas, porque você precisa das notas graúdas dos táleres?” — “Judeu,” disse o camponês, “você ainda pode receber trezentos, me dê esse valor agora mesmo em moedas, dentro de três dias a partir de hoje, você poderá receber esse valor pelas mãos do rei.”
+
+O judeu dava pulos de alegria diante do lucro, e trouxe todo o valor em grosche muito usado, onde três dos ruins valeriam dois bons. Três dias haviam decorridos, e de acordo com a ordem do rei, o camponês compareceu diante do rei. — “Tire o casaco dele,” disse o rei, “e ele receberá os quinhentos.” — “Ah,” disse o camponês, “eles não me pertencem mais, eu dei de presente duzentos deles para o sentinela, e trezentos o judeu trocou para mim, então, por direito, não tenho direito a mais nada.”
+
+Não precisou que o rei falasse duas vezes para o camponês, e ele encheu os seus bolsos enormes com tudo o que coube dentro. Depois ele foi até uma estalagem, e contou todo o dinheiro. O judeu foi escondido atrás dele e ouvia que ele resmungava sozinho, — “O desgraçado do rei me trapaceou afinal, porque ele mesmo não poderia ter-me dado o dinheiro, e então, eu saberia o quanto tenho? Quem pode me dizer agora, se o que eu tive a sorte de colocar nos meus bolsos é suficiente ou não? — “Meu Deus do céu!”, disse o judeu para si mesmo, “esse homem está falando de modo desrespeitoso do nosso senhor, o rei, eu vou correndo lá para informá-lo, e então, eu receberei uma recompensa, e ele será punido também.”
+
+Quando o rei ouviu o que o camponês tinha dito, ele ficou furioso, e exigiu que o judeu fosse e trouxesse o blasfemador até ele. O judeu correu até onde o camponês estava, — “Você precisa ir imediatamente até o rei, nosso senhor, com as roupas que você estiver usando.”
+
+— “Sei de uma coisa melhor que essa,” respondeu o camponês, “preciso conseguir um casaco novo primeiro. Você acha que um homem com tanto dinheiro no bolso se apresenta diante do rei com um casaco velho e rasgado?”
+
+O judeu, quando ele viu que o camponês não se mexia porque não tinha outro casaco, e como ele temia que a fúria do rei esfriasse, e ele próprio perderia a sua recompensa, e o camponês não seria punido, ele disse: — “Eu mesmo, como prova da minha verdadeira amizade, te empresto um casaco por algum tempo. O que as pessoas não fazem por amor!” O camponês deu-se por satisfeito, vestiu o casaco do judeu, e saiu em companhia dele.
+
+— “O que você disse?” berrou o judeu. “Este casaco não é meu? Eu emprestei ele a você por pura amizade, para que você pudesse se apresentar diante do rei?” Quando o rei ouviu isso, ele disse: — “O judeu com certeza está me enganando ou a nós dois, ou a mim ou ao camponês,” e novamente mandou que lhe aplicassem novas e pesadas chibatadas. O camponês, todavia, voltou com um casaco novo, com dinheiro no bolso, e dizia para si mesmo: — “Desta vez eu acertei!”

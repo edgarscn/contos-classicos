@@ -1,6 +1,6 @@
 ---
 title: "A Cavalo"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-cavalo"

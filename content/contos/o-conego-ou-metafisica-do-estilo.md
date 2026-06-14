@@ -1,6 +1,6 @@
 ---
 title: "O Cônego ou Metafísica do Estilo"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1896
 category: "Contos brasileiros"
 slug: "o-conego-ou-metafisica-do-estilo"

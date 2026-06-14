@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react"
+import { Link } from "gatsby"
 import Header from "./header"
 import StatsModal from "./StatsModal"
 import { getStats } from "../utils/gamification"
@@ -8,6 +9,7 @@ const Layout = ({ children }) => {
   const [theme, setTheme] = useState("dark")
   const [isStatsOpen, setIsStatsOpen] = useState(false)
   const [currentUser, setCurrentUser] = useState(null)
+  const [currentPath, setCurrentPath] = useState("")
   const [stats, setStats] = useState({
     readStories: {},
     streak: 0,
@@ -23,9 +25,12 @@ const Layout = ({ children }) => {
     setTheme(savedTheme)
     document.body.className = `${savedTheme}-theme`
 
-    // 2. Auth & Stats init
+    // 2. Auth, Stats & Path init
     setCurrentUser(getCurrentUser())
     setStats(getStats())
+    if (typeof window !== "undefined") {
+      setCurrentPath(window.location.pathname)
+    }
 
     // 3. Custom event listeners for Gamification and Auth events
     const handleBadgeUnlocked = (e) => {
@@ -65,6 +70,17 @@ const Layout = ({ children }) => {
     }
   }, [])
 
+  // Monitor location changes
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const handleLocationChange = () => {
+        setCurrentPath(window.location.pathname)
+      }
+      window.addEventListener("popstate", handleLocationChange)
+      return () => window.removeEventListener("popstate", handleLocationChange)
+    }
+  }, [])
+
   const toggleTheme = () => {
     const nextTheme = theme === "dark" ? "light" : "dark"
     setTheme(nextTheme)
@@ -79,6 +95,9 @@ const Layout = ({ children }) => {
   const dismissToast = (id) => {
     setToasts(prev => prev.filter(t => t.id !== id))
   }
+
+  const isHomeActive = currentPath === "/" || currentPath === ""
+  const isBuscaActive = currentPath.includes("/busca")
 
   return (
     <>
@@ -96,7 +115,7 @@ const Layout = ({ children }) => {
 
       <footer className="site-footer">
         <div className="container">
-          <p>© {new Date().getFullYear()} — 10pages</p>
+          <p>© {new Date().getFullYear()} — 10pages - contos clássicos</p>
           <p style={{ marginTop: "0.5rem", fontSize: "0.8rem", opacity: 0.7 }}>
             Leitura diária em domínio público. Feito com amor à literatura.
           </p>
@@ -109,6 +128,24 @@ const Layout = ({ children }) => {
         onClose={handleCloseStats} 
         stats={stats} 
       />
+
+      {/* Mobile Bottom Navigation Bar */}
+      <nav className="mobile-bottom-nav">
+        <Link to="/" className={`mobile-nav-item ${isHomeActive ? "active" : ""}`}>
+          <span className="mobile-nav-icon">📖</span>
+          <span className="mobile-nav-label">Leitura</span>
+        </Link>
+        <Link to="/busca" className={`mobile-nav-item ${isBuscaActive ? "active" : ""}`}>
+          <span className="mobile-nav-icon">🔍</span>
+          <span className="mobile-nav-label">Pesquisar</span>
+        </Link>
+        <button onClick={() => setIsStatsOpen(true)} className="mobile-nav-item">
+          <span className="mobile-nav-icon">👤</span>
+          <span className="mobile-nav-label" style={{ maxWidth: "80px", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>
+            {currentUser ? currentUser.username : "Entrar"}
+          </span>
+        </button>
+      </nav>
 
       {/* Toast Notifications Container */}
       <div className="toasts-container">

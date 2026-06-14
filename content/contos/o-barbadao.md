@@ -1,6 +1,6 @@
 ---
 title: "O Barbadão"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-barbadao"

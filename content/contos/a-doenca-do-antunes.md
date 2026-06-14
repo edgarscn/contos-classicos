@@ -1,6 +1,6 @@
 ---
 title: "A Doença do Antunes"
-author: "Domínio Público"
+author: "Lima Barreto"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-doenca-do-antunes"

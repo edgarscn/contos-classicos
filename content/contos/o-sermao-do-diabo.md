@@ -1,6 +1,6 @@
 ---
 title: "O Sermão do Diabo"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-sermao-do-diabo"

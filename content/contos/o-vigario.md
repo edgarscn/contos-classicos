@@ -1,6 +1,6 @@
 ---
 title: "O Vigário"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-vigario"

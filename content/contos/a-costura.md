@@ -1,6 +1,6 @@
 ---
 title: "A Costura"
-author: "Domínio Público"
+author: "Olavo Bilac"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-costura"

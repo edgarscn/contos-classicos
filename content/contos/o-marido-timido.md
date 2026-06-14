@@ -1,6 +1,6 @@
 ---
 title: "O Marido Tímido"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-marido-timido"

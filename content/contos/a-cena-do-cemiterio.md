@@ -1,6 +1,6 @@
 ---
 title: "A Cena do Cemitério"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-cena-do-cemiterio"

@@ -1,6 +1,6 @@
 ---
 title: "Ciúme (Humberto de Campos)"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "ciume-humberto-de-campos"

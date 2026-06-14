@@ -1,6 +1,6 @@
 ---
 title: "De preto e de vermelho"
-author: "Domínio Público"
+author: "Manuel de Oliveira Paiva"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "de-preto-e-de-vermelho"

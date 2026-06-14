@@ -1,6 +1,6 @@
 ---
 title: "Historias e sonhos (1920)/Hussein Ben Ali-Al-Balek e Miquéas Habacuc"
-author: "Domínio Público"
+author: "Lima Barreto"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "historias-e-sonhos-1920hussein-ben-ali-al-balek-e-miqueas-habacuc"

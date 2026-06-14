@@ -1,6 +1,6 @@
 ---
 title: "Como a Pescada..."
-author: "Domínio Público"
+author: "Olavo Bilac"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "como-a-pescada"

@@ -1,6 +1,6 @@
 ---
 title: "Sertão (Coelho Neto, 1926)/O enterro"
-author: "Domínio Público"
+author: "Coelho Neto"
 year: 1926
 category: "Contos brasileiros"
 slug: "sertao-coelho-neto-1926o-enterro"

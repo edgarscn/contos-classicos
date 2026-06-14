@@ -1,6 +1,6 @@
 ---
 title: "A paixão"
-author: "Domínio Público"
+author: "Manuel de Oliveira Paiva"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-paixao"

@@ -1,6 +1,6 @@
 ---
 title: "Negrinha (4º milheiro)/O bugio moqueado"
-author: "Domínio Público"
+author: "Monteiro Lobato"
 year: 1920
 category: "Contos brasileiros"
 slug: "negrinha-4o-milheiroo-bugio-moqueado"

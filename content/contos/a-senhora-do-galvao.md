@@ -1,6 +1,6 @@
 ---
 title: "A senhora do Galvão"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-senhora-do-galvao"

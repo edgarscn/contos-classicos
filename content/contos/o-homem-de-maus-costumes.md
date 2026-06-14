@@ -1,6 +1,6 @@
 ---
 title: "O Homem de Maus Costumes"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-homem-de-maus-costumes"

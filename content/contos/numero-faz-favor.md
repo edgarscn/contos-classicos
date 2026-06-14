@@ -1,6 +1,6 @@
 ---
 title: "Número, faz favor?"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "numero-faz-favor"

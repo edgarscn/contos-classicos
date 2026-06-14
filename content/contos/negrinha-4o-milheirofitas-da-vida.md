@@ -1,6 +1,6 @@
 ---
 title: "Negrinha (4º milheiro)/Fitas da vida"
-author: "Domínio Público"
+author: "Monteiro Lobato"
 year: 1920
 category: "Contos brasileiros"
 slug: "negrinha-4o-milheirofitas-da-vida"

@@ -1,6 +1,6 @@
 ---
 title: "O Defunto (Olavo Bilac)"
-author: "Domínio Público"
+author: "Olavo Bilac"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-defunto-olavo-bilac"

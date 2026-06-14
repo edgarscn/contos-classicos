@@ -1,6 +1,6 @@
 ---
 title: "A Asa Negra"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-asa-negra"

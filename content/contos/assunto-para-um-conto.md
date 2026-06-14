@@ -1,6 +1,6 @@
 ---
 title: "Assunto Para um Conto"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "assunto-para-um-conto"

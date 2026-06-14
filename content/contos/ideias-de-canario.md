@@ -1,6 +1,6 @@
 ---
 title: "Idéias de Canário"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1899
 category: "Contos brasileiros"
 slug: "ideias-de-canario"

@@ -1,6 +1,6 @@
 ---
 title: "O Filho do Comendador"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-filho-do-comendador"

@@ -1,6 +1,6 @@
 ---
 title: "A Viúva do Estanislau"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-viuva-do-estanislau"

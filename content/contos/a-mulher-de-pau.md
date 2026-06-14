@@ -1,6 +1,6 @@
 ---
 title: "A Mulher de Pau"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-mulher-de-pau"

@@ -1,6 +1,6 @@
 ---
 title: "Distração"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "distracao"

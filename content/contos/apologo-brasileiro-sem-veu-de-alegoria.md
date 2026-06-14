@@ -1,6 +1,6 @@
 ---
 title: "Apólogo Brasileiro sem Véu de Alegoria"
-author: "Domínio Público"
+author: "Alcântara Machado"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "apologo-brasileiro-sem-veu-de-alegoria"

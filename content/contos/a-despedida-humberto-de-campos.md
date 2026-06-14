@@ -1,6 +1,6 @@
 ---
 title: "A despedida (Humberto de Campos)"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-despedida-humberto-de-campos"

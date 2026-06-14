@@ -1,6 +1,6 @@
 ---
 title: "A Noiva dos Regimentos"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-noiva-dos-regimentos"

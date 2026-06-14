@@ -1,6 +1,6 @@
 ---
 title: "Contos gauchescos (1912)/O mate do João Cardoso"
-author: "Domínio Público"
+author: "João Simões Lopes Neto"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "contos-gauchescos-1912o-mate-do-joao-cardoso"

@@ -1,6 +1,6 @@
 ---
 title: "Lição Póstuma"
-author: "Domínio Público"
+author: "Emília Moncorvo Bandeira de Melo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "licao-postuma"

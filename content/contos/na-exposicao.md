@@ -1,6 +1,6 @@
 ---
 title: "Na Exposição"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "na-exposicao"

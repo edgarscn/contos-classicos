@@ -1,6 +1,6 @@
 ---
 title: "A Geada do Estudante"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-geada-do-estudante"

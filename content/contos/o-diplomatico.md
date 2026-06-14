@@ -1,6 +1,6 @@
 ---
 title: "O Diplomático"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1896
 category: "Contos brasileiros"
 slug: "o-diplomatico"

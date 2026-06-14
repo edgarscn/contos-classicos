@@ -1,6 +1,6 @@
 ---
 title: "Comes e Bebes"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "comes-e-bebes"

@@ -1,6 +1,6 @@
 ---
 title: "O Baile do Judeu"
-author: "Domínio Público"
+author: "Inglês de Sousa"
 year: 1893
 category: "Contos brasileiros"
 slug: "o-baile-do-judeu"

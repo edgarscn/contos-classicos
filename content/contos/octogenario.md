@@ -1,6 +1,6 @@
 ---
 title: "Octogenário"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "octogenario"

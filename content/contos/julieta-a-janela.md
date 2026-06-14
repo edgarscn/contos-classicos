@@ -1,6 +1,6 @@
 ---
 title: "Julieta à Janela"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "julieta-a-janela"

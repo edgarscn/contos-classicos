@@ -1,6 +1,6 @@
 ---
 title: "O Menino do Gouveia"
-author: "Domínio Público"
+author: "Capadocio Maluco"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-menino-do-gouveia"

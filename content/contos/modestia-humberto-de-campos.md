@@ -1,6 +1,6 @@
 ---
 title: "Modéstia (Humberto de Campos)"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "modestia-humberto-de-campos"

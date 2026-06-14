@@ -1,6 +1,6 @@
 ---
 title: "O Cego e o Paralítico"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-cego-e-o-paralitico"

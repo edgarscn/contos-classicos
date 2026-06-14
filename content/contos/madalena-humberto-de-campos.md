@@ -1,6 +1,6 @@
 ---
 title: "Madalena (Humberto de Campos)"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "madalena-humberto-de-campos"

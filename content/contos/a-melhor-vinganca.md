@@ -1,6 +1,6 @@
 ---
 title: "A Melhor Vingança"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-melhor-vinganca"

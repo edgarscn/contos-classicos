@@ -1,6 +1,6 @@
 ---
 title: "A Luz dos Mortos"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-luz-dos-mortos"

@@ -1,6 +1,6 @@
 ---
 title: "A causa secreta"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1896
 category: "Contos brasileiros"
 slug: "a-causa-secreta"

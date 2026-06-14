@@ -1,6 +1,6 @@
 ---
 title: "Guerra Civil"
-author: "Domínio Público"
+author: "Alcântara Machado"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "guerra-civil"

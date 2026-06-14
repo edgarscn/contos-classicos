@@ -1,6 +1,6 @@
 ---
 title: "Missa do galo"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "missa-do-galo"

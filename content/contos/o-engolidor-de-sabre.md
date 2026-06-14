@@ -1,6 +1,6 @@
 ---
 title: "O Engolidor de Sabre"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-engolidor-de-sabre"

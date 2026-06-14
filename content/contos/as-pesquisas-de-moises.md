@@ -1,6 +1,6 @@
 ---
 title: "As Pesquisas de Moisés"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "as-pesquisas-de-moises"

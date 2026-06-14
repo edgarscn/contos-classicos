@@ -1,6 +1,6 @@
 ---
 title: "Adão e Eva"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: 1896
 category: "Contos brasileiros"
 slug: "adao-e-eva"

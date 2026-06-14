@@ -1,6 +1,6 @@
 ---
 title: "A nova Califórnia"
-author: "Domínio Público"
+author: "Lima Barreto"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-nova-california"

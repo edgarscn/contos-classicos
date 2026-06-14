@@ -1,6 +1,6 @@
 ---
 title: "Inocência (Humberto de Campos)"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "inocencia-humberto-de-campos"

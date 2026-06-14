@@ -1,6 +1,6 @@
 ---
 title: "A Casta Suzana"
-author: "Domínio Público"
+author: "Humberto de Campos"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-casta-suzana"

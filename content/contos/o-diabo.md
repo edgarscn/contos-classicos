@@ -1,6 +1,6 @@
 ---
 title: "O Diabo"
-author: "Domínio Público"
+author: "Olavo Bilac"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "o-diabo"

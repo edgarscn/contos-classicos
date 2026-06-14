@@ -1,6 +1,6 @@
 ---
 title: "Jéca Tatuzinho"
-author: "Domínio Público"
+author: "Monteiro Lobato"
 year: 1924
 category: "Contos brasileiros"
 slug: "jeca-tatuzinho"

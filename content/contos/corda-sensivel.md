@@ -1,6 +1,6 @@
 ---
 title: "Corda sensível"
-author: "Domínio Público"
+author: "Manuel de Oliveira Paiva"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "corda-sensivel"

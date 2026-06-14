@@ -1,6 +1,6 @@
 ---
 title: "De Cima para Baixo"
-author: "Domínio Público"
+author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "de-cima-para-baixo"

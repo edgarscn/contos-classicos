@@ -1,6 +1,6 @@
 ---
 title: "Amor de Maria"
-author: "Domínio Público"
+author: "Inglês de Sousa"
 year: 1893
 category: "Contos brasileiros"
 slug: "amor-de-maria"

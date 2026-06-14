@@ -1,6 +1,6 @@
 ---
 title: "A inglesinha Barcelos"
-author: "Domínio Público"
+author: "Machado de Assis"
 year: "Desconhecido"
 category: "Contos brasileiros"
 slug: "a-inglesinha-barcelos"
