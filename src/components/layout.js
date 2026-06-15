@@ -143,6 +143,13 @@ const Layout = ({ children }) => {
           <p>© {new Date().getFullYear()} — 10pages - contos clássicos</p>
           <p style={{ marginTop: "0.5rem", fontSize: "0.8rem", opacity: 0.7 }}>
             Leitura diária em domínio público. Feito com amor à literatura.
+            &bull;{" "}
+            <Link
+              to="/admin"
+              style={{ color: "inherit", textDecoration: "underline" }}
+            >
+              🛠️ Admin
+            </Link>
           </p>
         </div>
       </footer>

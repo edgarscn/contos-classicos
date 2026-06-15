@@ -8,6 +8,8 @@ module.exports = {
     description: `Um conto ou crônica clássica de até 10 páginas por dia. Leia autores renomados como Machado de Assis, Lima Barreto, João do Rio e Arthur Azevedo.`,
     author: `@antigravity`,
     siteUrl: `https://10pages-pwa.netlify.app/`,
+    adminEmail: `edgarscn@gmail.com`,
+    adminPhone: `5511999999999`,
   },
   plugins: [
     `gatsby-plugin-image`,

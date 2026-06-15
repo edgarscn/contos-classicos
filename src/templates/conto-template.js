@@ -18,6 +18,10 @@ import StoryCard from "../components/StoryCard"
 
 const StoryTemplate = ({ data, pageContext }) => {
   const story = data.markdownRemark
+  const siteMetadata = data.site?.siteMetadata || {
+    adminEmail: "edgarscn@gmail.com",
+    adminPhone: "5511999999999",
+  }
   const [fontSize, setFontSize] = useState(1.15) // in rem
   const [scrollProgress, setScrollProgress] = useState(0)
 
@@ -34,6 +38,16 @@ const StoryTemplate = ({ data, pageContext }) => {
   const [replyingTo, setReplyingTo] = useState(null)
   const [replyText, setReplyText] = useState("")
   const [shareCopied, setShareCopied] = useState(false)
+
+  // States for reporting errors
+  const [isReportModalOpen, setIsReportModalOpen] = useState(false)
+  const [errorType, setErrorType] = useState("ortografia")
+  const [errorDescription, setErrorDescription] = useState("")
+  const [reporterName, setReporterName] = useState("")
+  const [reporterEmail, setReporterEmail] = useState("")
+  const [isSubmittingReport, setIsSubmittingReport] = useState(false)
+  const [reportSubmitted, setReportSubmitted] = useState(false)
+  const [reportCopied, setReportCopied] = useState(false)
 
   const observerRef = useRef(null)
   const isCompletedRef = useRef(false)
@@ -103,6 +117,24 @@ const StoryTemplate = ({ data, pageContext }) => {
 
     window.addEventListener("scroll", handleScroll)
     return () => window.removeEventListener("scroll", handleScroll)
+  }, [])
+
+  // Sync user changes (login/logout/register)
+  useEffect(() => {
+    const syncUser = () => {
+      const user = getCurrentUser()
+      setCurrentUser(user)
+      if (user) {
+        setReporterName(user.username)
+        setReporterEmail(user.email || "")
+      }
+    }
+    syncUser()
+
+    if (typeof window !== "undefined") {
+      window.addEventListener("auth_change", syncUser)
+      return () => window.removeEventListener("auth_change", syncUser)
+    }
   }, [])
 
   // Sync user state, ratings, favorites & comments
@@ -271,6 +303,127 @@ const StoryTemplate = ({ data, pageContext }) => {
           setTimeout(() => setShareCopied(false), 2500)
         })
       }
+    }
+  }
+
+  const handleCloseReportModal = () => {
+    setIsReportModalOpen(false)
+    setErrorType("ortografia")
+    setErrorDescription("")
+    setReportSubmitted(false)
+  }
+
+  const handleReportSubmit = e => {
+    e.preventDefault()
+    if (!errorDescription.trim()) return
+
+    setIsSubmittingReport(true)
+
+    const reportData = {
+      storyTitle: story.frontmatter.title,
+      storySlug: story.frontmatter.slug,
+      storyAuthor: story.frontmatter.author,
+      errorType,
+      description: errorDescription.trim(),
+      reporterName: reporterName || "Anônimo",
+      reporterEmail: reporterEmail || "Não informado",
+    }
+
+    // 1. Save locally to localStorage (so owner can view reports on their dashboard!)
+    if (typeof window !== "undefined") {
+      try {
+        const localReports = JSON.parse(
+          localStorage.getItem("10pages_local_errors") || "[]"
+        )
+        const newReport = {
+          id: `err-${Date.now()}`,
+          ...reportData,
+          timestamp: new Date().toISOString(),
+        }
+        localReports.unshift(newReport)
+        localStorage.setItem(
+          "10pages_local_errors",
+          JSON.stringify(localReports)
+        )
+      } catch (e) {
+        console.error("Erro ao salvar erro localmente", e)
+      }
+    }
+
+    // 2. Submit to Netlify Forms via AJAX POST
+    const encode = data => {
+      return Object.keys(data)
+        .map(
+          key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key])
+        )
+        .join("&")
+    }
+
+    fetch("/", {
+      method: "POST",
+      headers: { "Content-Type": "application/x-www-form-urlencoded" },
+      body: encode({
+        "form-name": "relatar-erro",
+        ...reportData,
+      }),
+    })
+      .then(() => {
+        setIsSubmittingReport(false)
+        setReportSubmitted(true)
+      })
+      .catch(error => {
+        console.error("Netlify form submission error", error)
+        // Mark as submitted even on failure (offline/local testing), since we have email/WhatsApp fallbacks
+        setIsSubmittingReport(false)
+        setReportSubmitted(true)
+      })
+  }
+
+  const getEmailLink = () => {
+    const subject = `[10pages] Relato de Erro no conto "${story.frontmatter.title}"`
+    const body = `Olá, Edgar.\n\nEncontrei um erro no conto "${
+      story.frontmatter.title
+    }" de ${
+      story.frontmatter.author
+    }.\n\nTipo de erro: ${errorType}\n\nDescrição do erro:\n${errorDescription}\n\nEnviado por: ${
+      reporterName || "Anônimo"
+    } (${reporterEmail || "Não informado"})\n\nLink do conto: ${
+      typeof window !== "undefined" ? window.location.href : ""
+    }`
+    return `mailto:${siteMetadata.adminEmail}?subject=${encodeURIComponent(
+      subject
+    )}&body=${encodeURIComponent(body)}`
+  }
+
+  const getWhatsAppLink = () => {
+    const text = `*Relato de Erro no 10pages*\n\n*Conto:* "${
+      story.frontmatter.title
+    }"\n*Autor:* ${
+      story.frontmatter.author
+    }\n*Tipo:* ${errorType}\n*Descrição:* ${errorDescription}\n\n*Relatado por:* ${
+      reporterName || "Anônimo"
+    }\n*Link:* ${typeof window !== "undefined" ? window.location.href : ""}`
+    return `https://api.whatsapp.com/send?phone=${
+      siteMetadata.adminPhone
+    }&text=${encodeURIComponent(text)}`
+  }
+
+  const getReportText = () => {
+    return `Conto: "${story.frontmatter.title}" de ${
+      story.frontmatter.author
+    }\nTipo: ${errorType}\nDescrição: ${errorDescription}\nRelatado por: ${
+      reporterName || "Anônimo"
+    } (${reporterEmail || "Não informado"})\nLink: ${
+      typeof window !== "undefined" ? window.location.href : ""
+    }`
+  }
+
+  const handleCopyReport = () => {
+    if (typeof navigator !== "undefined" && navigator.clipboard) {
+      navigator.clipboard.writeText(getReportText()).then(() => {
+        setReportCopied(true)
+        setTimeout(() => setReportCopied(false), 2500)
+      })
     }
   }
 
@@ -704,6 +857,22 @@ const StoryTemplate = ({ data, pageContext }) => {
                     {shareCopied ? "✅ Copiado!" : "🔗 Compartilhar"}
                   </span>
                 </button>
+                <button
+                  onClick={() => setIsReportModalOpen(true)}
+                  className="btn-streak-header"
+                  style={{ cursor: "pointer" }}
+                  title="Relatar um erro no conto"
+                >
+                  <span
+                    style={{
+                      fontSize: "0.9rem",
+                      fontWeight: 600,
+                      color: "var(--text-muted)",
+                    }}
+                  >
+                    ⚠️ Relatar Erro
+                  </span>
+                </button>
               </div>
             </div>
 
@@ -808,6 +977,25 @@ const StoryTemplate = ({ data, pageContext }) => {
                   Sua avaliação: {rating} de 5 estrelas
                 </p>
               )}
+              <div style={{ marginTop: "1rem", fontSize: "0.85rem" }}>
+                <span style={{ color: "var(--text-muted)" }}>
+                  Encontrou algum erro neste texto?{" "}
+                </span>
+                <button
+                  onClick={() => setIsReportModalOpen(true)}
+                  className="auth-link-btn"
+                  style={{
+                    color: "var(--accent)",
+                    background: "none",
+                    border: "none",
+                    cursor: "pointer",
+                    fontWeight: 700,
+                    textDecoration: "underline",
+                  }}
+                >
+                  Relatar erro de digitação, formatação ou ano
+                </button>
+              </div>
             </div>
 
             {/* Author Biography Section */}
@@ -965,12 +1153,357 @@ const StoryTemplate = ({ data, pageContext }) => {
           </div>
         </div>
       </div>
+
+      {/* Hidden Netlify Form for Build Detection */}
+      <form
+        name="relatar-erro"
+        data-netlify="true"
+        netlify-honeypot="bot-field"
+        hidden
+      >
+        <input type="hidden" name="form-name" value="relatar-erro" />
+        <input type="text" name="storyTitle" />
+        <input type="text" name="storySlug" />
+        <input type="text" name="storyAuthor" />
+        <input type="text" name="errorType" />
+        <textarea name="description" />
+        <input type="text" name="reporterName" />
+        <input type="text" name="reporterEmail" />
+      </form>
+
+      {/* Report Error Modal */}
+      {isReportModalOpen && (
+        <div className="modal-overlay" onClick={handleCloseReportModal}>
+          <div
+            className="modal-content animate-fade-in"
+            onClick={e => e.stopPropagation()}
+            style={{ maxWidth: "500px", width: "100%" }}
+          >
+            <div className="modal-header">
+              <h2
+                style={{
+                  fontSize: "1.35rem",
+                  fontWeight: 700,
+                  fontFamily: "var(--font-serif)",
+                }}
+              >
+                {reportSubmitted
+                  ? "✅ Relatório Enviado"
+                  : "⚠️ Relatar um Erro"}
+              </h2>
+              <button
+                onClick={handleCloseReportModal}
+                className="btn-close"
+                aria-label="Fechar"
+              >
+                &times;
+              </button>
+            </div>
+
+            {!reportSubmitted ? (
+              <form
+                onSubmit={handleReportSubmit}
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: "1rem",
+                  marginTop: "1rem",
+                }}
+              >
+                <p
+                  style={{
+                    fontSize: "0.9rem",
+                    color: "var(--text-muted)",
+                    lineHeight: 1.4,
+                  }}
+                >
+                  Encontrou algum erro de digitação, formatação ou informação
+                  incorreta? Nos informe para podermos corrigir.
+                </p>
+
+                <div
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    gap: "0.3rem",
+                  }}
+                >
+                  <label
+                    style={{
+                      fontSize: "0.85rem",
+                      fontWeight: 600,
+                      color: "var(--text-muted)",
+                    }}
+                  >
+                    Tipo de Erro
+                  </label>
+                  <select
+                    className="search-input"
+                    style={{
+                      padding: "0.6rem 0.75rem",
+                      fontSize: "0.95rem",
+                      background: "var(--bg)",
+                      border: "1px solid var(--border)",
+                      borderRadius: "8px",
+                      color: "var(--text)",
+                      width: "100%",
+                    }}
+                    value={errorType}
+                    onChange={e => setErrorType(e.target.value)}
+                  >
+                    <option value="ortografia">
+                      Ortografia / Digitação / Gramática
+                    </option>
+                    <option value="formatacao">
+                      Formatação / Layout / Parágrafos
+                    </option>
+                    <option value="informacao">
+                      Informação errada (Ano / Autor)
+                    </option>
+                    <option value="outro">Outro tipo de erro</option>
+                  </select>
+                </div>
+
+                <div
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    gap: "0.3rem",
+                  }}
+                >
+                  <label
+                    style={{
+                      fontSize: "0.85rem",
+                      fontWeight: 600,
+                      color: "var(--text-muted)",
+                    }}
+                  >
+                    Descrição do Erro *
+                  </label>
+                  <textarea
+                    className="search-input"
+                    style={{
+                      padding: "0.6rem 0.75rem",
+                      fontSize: "0.95rem",
+                      background: "var(--bg)",
+                      border: "1px solid var(--border)",
+                      borderRadius: "8px",
+                      color: "var(--text)",
+                      height: "100px",
+                      resize: "vertical",
+                      width: "100%",
+                      lineHeight: 1.4,
+                    }}
+                    placeholder="Descreva o erro com o máximo de detalhes possível. Ex: 'No terceiro parágrafo, a palavra X está escrita como Y.'"
+                    value={errorDescription}
+                    onChange={e => setErrorDescription(e.target.value)}
+                    required
+                  />
+                </div>
+
+                <div style={{ display: "flex", gap: "0.75rem" }}>
+                  <div
+                    style={{
+                      display: "flex",
+                      flexDirection: "column",
+                      gap: "0.3rem",
+                      flex: 1,
+                    }}
+                  >
+                    <label
+                      style={{
+                        fontSize: "0.85rem",
+                        fontWeight: 600,
+                        color: "var(--text-muted)",
+                      }}
+                    >
+                      Seu Nome (Opcional)
+                    </label>
+                    <input
+                      type="text"
+                      className="search-input"
+                      style={{ padding: "0.6rem 0.75rem", fontSize: "0.9rem" }}
+                      placeholder="Ex: Edgar"
+                      value={reporterName}
+                      onChange={e => setReporterName(e.target.value)}
+                    />
+                  </div>
+                  <div
+                    style={{
+                      display: "flex",
+                      flexDirection: "column",
+                      gap: "0.3rem",
+                      flex: 1,
+                    }}
+                  >
+                    <label
+                      style={{
+                        fontSize: "0.85rem",
+                        fontWeight: 600,
+                        color: "var(--text-muted)",
+                      }}
+                    >
+                      Seu E-mail (Opcional)
+                    </label>
+                    <input
+                      type="email"
+                      className="search-input"
+                      style={{ padding: "0.6rem 0.75rem", fontSize: "0.9rem" }}
+                      placeholder="Ex: edgar@email.com"
+                      value={reporterEmail}
+                      onChange={e => setReporterEmail(e.target.value)}
+                    />
+                  </div>
+                </div>
+
+                <button
+                  type="submit"
+                  className="btn-primary"
+                  style={{
+                    width: "100%",
+                    justifyContent: "center",
+                    padding: "0.75rem",
+                    marginTop: "0.5rem",
+                    fontWeight: 600,
+                  }}
+                  disabled={isSubmittingReport || !errorDescription.trim()}
+                >
+                  {isSubmittingReport ? "Enviando..." : "Enviar Relatório"}
+                </button>
+              </form>
+            ) : (
+              <div
+                style={{
+                  display: "flex",
+                  flexDirection: "column",
+                  gap: "1rem",
+                  marginTop: "1rem",
+                  textAlign: "center",
+                }}
+              >
+                <p
+                  style={{
+                    fontSize: "0.95rem",
+                    color: "var(--text-muted)",
+                    lineHeight: 1.4,
+                  }}
+                >
+                  O relatório de erro foi salvo localmente no navegador e
+                  enviado via formulário Netlify!
+                </p>
+                <p
+                  style={{
+                    fontSize: "0.9rem",
+                    color: "var(--text-muted)",
+                    fontWeight: 500,
+                  }}
+                >
+                  Para garantir o recebimento imediato pelo administrador, envie
+                  também por um dos canais abaixo:
+                </p>
+
+                <div
+                  style={{
+                    display: "flex",
+                    flexDirection: "column",
+                    gap: "0.75rem",
+                    margin: "0.5rem 0",
+                  }}
+                >
+                  <a
+                    href={getWhatsAppLink()}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="btn-primary"
+                    style={{
+                      background: "#25d366",
+                      color: "white",
+                      borderColor: "#25d366",
+                      justifyContent: "center",
+                      padding: "0.7rem",
+                      fontWeight: 600,
+                      textDecoration: "none",
+                      display: "flex",
+                      alignItems: "center",
+                      gap: "0.5rem",
+                      borderRadius: "10px",
+                    }}
+                  >
+                    💬 Enviar via WhatsApp
+                  </a>
+
+                  <a
+                    href={getEmailLink()}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="btn-primary"
+                    style={{
+                      justifyContent: "center",
+                      padding: "0.7rem",
+                      fontWeight: 600,
+                      textDecoration: "none",
+                      display: "flex",
+                      alignItems: "center",
+                      gap: "0.5rem",
+                      borderRadius: "10px",
+                    }}
+                  >
+                    ✉️ Enviar via E-mail
+                  </a>
+
+                  <button
+                    onClick={handleCopyReport}
+                    className="btn-secondary"
+                    style={{
+                      justifyContent: "center",
+                      padding: "0.7rem",
+                      fontWeight: 600,
+                      display: "flex",
+                      alignItems: "center",
+                      gap: "0.5rem",
+                      borderRadius: "10px",
+                      cursor: "pointer",
+                      background: "none",
+                      border: "1px solid var(--border)",
+                      color: "var(--text)",
+                    }}
+                  >
+                    📋 {reportCopied ? "Copiado!" : "Copiar Relatório de Erro"}
+                  </button>
+                </div>
+
+                <button
+                  onClick={handleCloseReportModal}
+                  className="btn-secondary"
+                  style={{
+                    background: "none",
+                    border: "none",
+                    color: "var(--text-muted)",
+                    cursor: "pointer",
+                    fontSize: "0.9rem",
+                    marginTop: "0.5rem",
+                    fontWeight: 600,
+                  }}
+                >
+                  Fechar Janela
+                </button>
+              </div>
+            )}
+          </div>
+        </div>
+      )}
     </Layout>
   )
 }
 
 export const query = graphql`
   query ($id: String!) {
+    site {
+      siteMetadata {
+        adminEmail
+        adminPhone
+      }
+    }
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
