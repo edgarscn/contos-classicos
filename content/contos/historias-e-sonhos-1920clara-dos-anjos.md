@@ -199,7 +199,7 @@ Clarinha, quando dançava. Vendo que seu pai convidara o rapaz,
 animou-se a fazê-lo também:
 
 - Por que não canta, "seu" Júlio? Dizem que o senhor canta tão
-bem...
+  bem...
 
 Esse - "tão bem" - foi alongado maciamente. O cantador
 acudiu logo:
@@ -377,12 +377,13 @@ cima, a sua fascinação pelo modinheiro e a sua obsessão pelo casamento
 lhe tiravam toda a capacidade critica que pudesse ter. A carta
 produziu o efeito esperado por Júlio. Choro, palpitações, anseios vagos,
 esperanças nevoentas, vislumbres de céus desconhecidos e encantados
+
 - tudo isso aquela carta lhe trouxe, além do halo de dedicação e amor
-por ela com que Clara fez resplandecer, na imaginação, as pastinhas
-do violeiro. Daí a dias, fez o prometido, isto é, deixou a janela do
-quarto aberta para que ele entrasse no aposento. Repetiu a façanha
-quase todas as noites seguidas, sem que ele se demorasse muito
-no quarto.
+  por ela com que Clara fez resplandecer, na imaginação, as pastinhas
+  do violeiro. Daí a dias, fez o prometido, isto é, deixou a janela do
+  quarto aberta para que ele entrasse no aposento. Repetiu a façanha
+  quase todas as noites seguidas, sem que ele se demorasse muito
+  no quarto.
 
 Nos domingos, aparecia, cantava e semelhava que entre ambos
 não havia nada. Um belo dia, Clara sentiu alguma cousa de estranho
@@ -398,7 +399,7 @@ disse tudo; e aquelas duas humildes mulheres choraram abraçadas
 diante do irremediável... A filha teve uma idéia:
 
 - Mamãe, antes da senhora dizer a papai, deixa-me ir até à casa
-dele, para falar com a sua mãe?
+  dele, para falar com a sua mãe?
 
 A velha meditou e aceitou o alvitre:
 
@@ -414,9 +415,9 @@ difícil de crer, confessou-lhe tudo, o seu erro e a sua desdita.
 - Que ele se case comigo, fez Clara num só hausto.
 
 - Ora, esta! Você não se enxerga! Você não vê mesmo que
-meu filho não é para se casar com gente da laia de você! Ele não
-amarrou você, ele não amordaçou você... Vá-se embora, rapariga!
-Ora já se viu! Vá!
+  meu filho não é para se casar com gente da laia de você! Ele não
+  amarrou você, ele não amordaçou você... Vá-se embora, rapariga!
+  Ora já se viu! Vá!
 
 Clara saiu sem dizer nada, reprimindo as lágrimas, para que na
 rua não lhe descobrissem a vergonha. Então, ela? Então ela não se

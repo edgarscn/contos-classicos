@@ -10,30 +10,30 @@ HAMLET observa a Horácio que há mais cousas no céu e na terra do que sonha a 
 
 — Ria, ria. Os homens são assim; não acreditam em nada. Pois saiba que fui, e que ela adivinhou o motivo da consulta, antes mesmo que eu lhe dissesse o que era. Apenas começou a botar as cartas,
 disse-­me: «A senhora gosta de uma
-pessoa...» Confessei que sim, e então ella 
-continuou a botar as cartas, combinou-­as, 
-e no fim declarou­-me que eu tinha medo 
-de que você me esquecesse, mas que não 
+pessoa...» Confessei que sim, e então ella
+continuou a botar as cartas, combinou-­as,
+e no fim declarou­-me que eu tinha medo
+de que você me esquecesse, mas que não
 era verdade...
 
 — Errou! interrompeu Camillo, rindo.
 
-— Não diga isso, Camillo. Se você soubesse 
-como eu tenho andado, por sua 
-causa. Você sabe; já lhe disse. Não ria 
+— Não diga isso, Camillo. Se você soubesse
+como eu tenho andado, por sua
+causa. Você sabe; já lhe disse. Não ria
 de mim, não ria...
 
-Camilo pegou-­lhe nas mãos, e olhou 
-para ella sério e fixo. Jurou que lhe queria 
-muito, que os seus sustos pareciam de 
-criança; em todo o caso, quando tivesse 
-algum receio, a melhor cartomante era 
-elle mesmo. Depois, reprehendeu­-a; disse-­lhe 
-que era imprudente andar por 
-essas casas. Villela podia sabel-­o, e 
+Camilo pegou-­lhe nas mãos, e olhou
+para ella sério e fixo. Jurou que lhe queria
+muito, que os seus sustos pareciam de
+criança; em todo o caso, quando tivesse
+algum receio, a melhor cartomante era
+elle mesmo. Depois, reprehendeu­-a; disse-­lhe
+que era imprudente andar por
+essas casas. Villela podia sabel-­o, e
 depois...
 
-— Qual saber! tive muita cautela, ao 
+— Qual saber! tive muita cautela, ao
 entrar na casa.
 
 — Onde é a casa?

@@ -53,17 +53,17 @@ Na volta para a vila, a afilhada do Bento já não corria, já não trepava às 
 
 Aquele amor rápido e profundo, feito talvez de muitos sentimentos contrários, produziu-lhe grande mudança nos hábitos, nos modos e no gênio. Vivia triste e aflita, vítima indefesa de uma paixão ardente, de uma dessas paixões que a gente só admite nas novelas, mas que também existem na vida real, principalmente entre as mulheres de nossa terra, impressionáveis em extremo. A moça passava dias sem comer, noites sem dormir, e quando alguma nova proeza do rapaz vinha lhe matar alguma pequenina esperança que alimentara no intervalo, chorava, e chorava no seio da Margarida, de sua querida mãe preta.
 
-Porque Lourenço de Miranda era um desses moços que julgam ser-lhes tudo permitido. Acostumado aos namoros fáceis do Pará, pensava que em Vila Bela, na vida estreita da aldeia, podia impunemente brincar com o sentimentalismo das raparigas, sem refletir que as nossas moças não estão como as da cidade, fartas de ouvir galanteios nos passeios e nos bailes. As daqui tomam tudo a sério, acreditam em tudo. 
+Porque Lourenço de Miranda era um desses moços que julgam ser-lhes tudo permitido. Acostumado aos namoros fáceis do Pará, pensava que em Vila Bela, na vida estreita da aldeia, podia impunemente brincar com o sentimentalismo das raparigas, sem refletir que as nossas moças não estão como as da cidade, fartas de ouvir galanteios nos passeios e nos bailes. As daqui tomam tudo a sério, acreditam em tudo.
 Lourenço, porém, pouco se lhe dava do que resultasse. Vivia alegre, gozando a licença, namorando claras e trigueiras, declarando o seu amor às caboclinhas do peito duro e às moças de família, franzinas e pálidas.
 
-Uma vez, entretanto, Mariquinha julgou que alcançaria vitória. Foi numa tarde de janeiro, quente e linda, quando se encontraram no sítio da Prainha. Tinham ido algumas famílias a banho naquela saudável praia. Felizmente não estava a Lucinda, presa em Vila Bela por um defluxo rebelde, que mais a afeava. O fato foi de bom presságio, 
+Uma vez, entretanto, Mariquinha julgou que alcançaria vitória. Foi numa tarde de janeiro, quente e linda, quando se encontraram no sítio da Prainha. Tinham ido algumas famílias a banho naquela saudável praia. Felizmente não estava a Lucinda, presa em Vila Bela por um defluxo rebelde, que mais a afeava. O fato foi de bom presságio,
 Mariquinha, que fora a contragosto ao passeio, sentiu intensa alegria.
 
 Lourenço esteve adorável de paixão e de sentimento, e a afilhada do Álvaro Bento contou uma hora de completa felicidade no meio de tantas amarguras. Apesar de cercados pela vigilância suspeitosa de amigos e parentes, conseguiram encontrar-se a sós por um momento, sob a copa frondosa de um taperabá, à beira do rio. Lourenço perguntou o motivo da tristeza que todos lhe notavam, foi terno, solícito e amante. Disse que era a moça mais formosa da vila, e que no Pará, mesmo naquela grande cidade, tão rica em mulheres bonitas, jamais viu formosura igual. Que o seu maior desejo era possuí-la toda para si, porque a amava como nunca poderia amar e morreria, certamente, se não fosse correspondido.
 
 - E a Lucinda? - perguntou a moça radiante de amor e de felicidade.
 
-A Lucinda era uma tola à custa de quem gostava de divertir-se. 
+A Lucinda era uma tola à custa de quem gostava de divertir-se.
 Só a Mariquinha amava, só de Mariquinha sentia separar-se, quando se esgotasse o tempo da licença e tivesse de voltar a tomar o seu lugar na alfândega.
 
 Mariquinha sentia a felicidade inundar-lhe a alma, o seu coração abria-se às mais lisonjeiras esperanças, os olhos brilhavam com um fulgor que embriagava a Lourenço. Todos os pesares da moça desvaneceram-se de súbito, as noites de insônia e os dias dolorosos foram esquecidos. O carmim tingiu-lhe as faces descoradas. O tronco do grande taperabá protegeu o primeiro e único beijo que trocaram aqueles dois amantes.
@@ -81,7 +81,7 @@ A mãe preta dizia:
 
 - E mesmo perto da Prainha, e na beira do Lago da Francesa... é uma tapuia velha, muito afamada...
 
-Parou, para tomar do cachimbo, enchê-lo de tabaco, e Continuou. 
+Parou, para tomar do cachimbo, enchê-lo de tabaco, e Continuou.
 A sua VOZ quase parecia um sopro. Mariquinha, imóvel, permanecia em silêncio:
 
 - E um tajá... é remédio que não falha. Basta uma dose de colherinha de chá.

@@ -38,7 +38,7 @@ Com a queda, espantou um grande pássaro escuro que ali parecia pousado, e que v
 
 - Acauã, acauã!
 
-Muito tempo esteve o capitão caído sem sentidos. Quando tornou a si, a noite estava ainda escura, mas a tempestade cessara. Um silêncio tumular reinava, Jerônimo, procurando orientar-se, olhou para a lagoa e viu que a superfície das águas tinha um brilho estranho como se a tivessem untado de fósforo. Deixou errar o olhar sobre a toalha do rio, e um objeto estranho, afetando a  forma de uma canoa, chamou-lhe a atenção. O objeto vinha impelido por uma força desconhecida em direção à praia para o lado em que se achava Jerônimo. Este, tomado de uma curiosidade invencível, adiantou-se, meteu os pés na água e puxou para si o estranho objeto. Era com efeito uma pequena canoa, e no fundo dela estava uma criança que parecia dormir. O capitão tomou-a nos braços. Nesse momento, rompeu o sol por entre os animais de uma ilha vizinha, cantaram os galos da vila, ladraram os cães, correu rápido o rio perdendo o brilho desusado. Abriram-se algumas portas. À luz da manhã, o capitão Jerônimo Ferreira reconheceu que caíra desmaiado justamente no limiar da sua casa.
+Muito tempo esteve o capitão caído sem sentidos. Quando tornou a si, a noite estava ainda escura, mas a tempestade cessara. Um silêncio tumular reinava, Jerônimo, procurando orientar-se, olhou para a lagoa e viu que a superfície das águas tinha um brilho estranho como se a tivessem untado de fósforo. Deixou errar o olhar sobre a toalha do rio, e um objeto estranho, afetando a forma de uma canoa, chamou-lhe a atenção. O objeto vinha impelido por uma força desconhecida em direção à praia para o lado em que se achava Jerônimo. Este, tomado de uma curiosidade invencível, adiantou-se, meteu os pés na água e puxou para si o estranho objeto. Era com efeito uma pequena canoa, e no fundo dela estava uma criança que parecia dormir. O capitão tomou-a nos braços. Nesse momento, rompeu o sol por entre os animais de uma ilha vizinha, cantaram os galos da vila, ladraram os cães, correu rápido o rio perdendo o brilho desusado. Abriram-se algumas portas. À luz da manhã, o capitão Jerônimo Ferreira reconheceu que caíra desmaiado justamente no limiar da sua casa.
 
 No dia seguinte, toda a vila de Faro dizia que o capitão adotara uma linda criança, achada à beira do rio, e que se dispunha a criá-la, como própria, conjuntamente com a sua legítima Aninha.
 
@@ -150,7 +150,7 @@ Encolheu depois os braços, dobrou-os á
 modo de azas de passaro, bateu-os por
 vezes nas ilhargas, e entre-abrindo a boca,
 deixou sahir um longo grito que nada tinha
-de humano, um grito que echoou lugubremente 
+de humano, um grito que echoou lugubremente
 pela igreja:
 
 — Acauan!
@@ -170,7 +170,7 @@ Por cima do telhado uma voz respondeu
 — Acauan! Acauan!
 
 Um silencio tumular reinou entre os
-assistentes. Todos comprehendiam a horrivel 
+assistentes. Todos comprehendiam a horrivel
 desgraça.
 
 Era o Acauan!

@@ -18,7 +18,7 @@ Decorreram algumas semanas. Uma noite, eram nove horas, estava em casa, quando o
 
 — Já aí vem um, acudiu alguém.
 
-Garcia olhou: era o próprio homem da Santa Casa e do teatro. Imaginou que seria parente ou amigo do ferido; mas rejeitou a suposição, desde que lhe ouvira perguntar se este tinha família ou pessoa próxima. Disse-lhe o preto que não, e ele assumiu a direção do serviço, pediu às pessoas estranhas que se retirassem, pagou aos carregadores, e deu as primeiras ordens. Sabendo que o Garcia era vizinho e estudante de medicina pediu-lhe que ficasse para ajudar o médico. Em seguida contou o 
+Garcia olhou: era o próprio homem da Santa Casa e do teatro. Imaginou que seria parente ou amigo do ferido; mas rejeitou a suposição, desde que lhe ouvira perguntar se este tinha família ou pessoa próxima. Disse-lhe o preto que não, e ele assumiu a direção do serviço, pediu às pessoas estranhas que se retirassem, pagou aos carregadores, e deu as primeiras ordens. Sabendo que o Garcia era vizinho e estudante de medicina pediu-lhe que ficasse para ajudar o médico. Em seguida contou o
 que se passara.
 
 — Foi uma malta de capoeiras. Eu vinha do quartel de Moura, onde fui visitar um primo, quando ouvi um barulho muito grande, e logo depois um ajuntamento. Parece que eles feriram também a um sujeito que passava, e que entrou por um daqueles becos; mas eu só vi a este senhor, que atravessava a rua no momento em que um dos capoeiras, roçando por ele, meteu-lhe o punhal. Não caiu logo; disse onde morava e, como era a dois passos, achei melhor trazê-lo.

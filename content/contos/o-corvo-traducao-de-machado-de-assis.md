@@ -17,7 +17,7 @@ Eu, cahindo de somno e exausto de fadiga,
 «É alguem que me bate á porta de mansinho;
          «Ha de ser isso e nada mais.»
 
-         Ah! bem me lembro! bem me lembro!
+Ah! bem me lembro! bem me lembro!
          Era no glacial Dezembro;
 Cada braza do lar sobre o chão reflectia
          A sua ultima agonia.
@@ -29,7 +29,7 @@ Eu, ancioso pelo sol, buscava
 Pela que ora nos céus anjos chamam Lenora,
          E que ninguem chamará mais.
 
-         E o rumor triste, vago, brando
+E o rumor triste, vago, brando
          Das cortinas ia acordando
 Dentro em meu coração um rumor não sabido
          Nunca por elle padecido.
@@ -40,7 +40,7 @@ Dentro em meu coração um rumor não sabido
 «É visita que pede á minha porta entrada:
          «Ha de ser isso e nada mais.»
 
-         Minh’alma então sentiu-se forte;
+Minh’alma então sentiu-se forte;
          Não mais vacillo e d’esta sorte
 Fallo: «Imploro de vós, — ou senhor ou senhora,
          «Me desculpeis tanta demora.
@@ -51,7 +51,7 @@ Fallo: «Imploro de vós, — ou senhor ou senhora,
 Disse; a porta escancaro, acho a noite somente,
          Sómente a noite, e nada mais.
 
-         Com longo olhar escruto a sombra,
+Com longo olhar escruto a sombra,
          Que me amedronta, que me assombra,
 
 E sonho o que nenhum mortal ha já sonhado,
@@ -96,7 +96,7 @@ Com o gesto severo, — o triste pensamento
 «Como te chamas tu na grande noite umbrosa?»
          E o corvo disse; «Nunca mais.»
 
-         Vendo que o passaro entendia
+Vendo que o passaro entendia
          A pergunta que lhe eu fazia,
 Fico attonito, embora a resposta que dera
          Difficilmente lh’a entendera.
@@ -107,7 +107,7 @@ Fico attonito, embora a resposta que dera
 Ouvir uma pergunta e dizer em resposta
          Que este é seu nome: «Nunca mais.»
 
-         No emtanto, o corvo solitario
+No emtanto, o corvo solitario
          Não teve outro vocabulario,
 Como se essa palavra escassa que alli disse
          Toda a sua alma resumisse.
@@ -119,7 +119,7 @@ Como se essa palavra escassa que alli disse
 «Perdeirei tambem este em regressando a aurora.»
          E o corvo disse: «Nunca mais!»
 
-         Estremeço. A resposta ouvida
+Estremeço. A resposta ouvida
          É tão exacta! é tão cabida!
 «Certamente, digo eu, essa é toda a sciencia
          «Que elle trouxe da convivéncia
@@ -130,7 +130,7 @@ Como se essa palavra escassa que alli disse
 «Só lhe ficou, na amarga e ultima cantiga,
          «Esse estribilho: «Nunca mais.»
 
-         Segunda vez, nesse momento,
+Segunda vez, nesse momento,
          Sorriu-me o triste pensamento;
 Vou sentar-me defronte ao corvo magro e rudo;
          E mergulhando no velludo
@@ -141,7 +141,7 @@ Vou sentar-me defronte ao corvo magro e rudo;
 Entender o que quiz dizer a ave do medo
          Grasnando a phrase: — Nunca mais.
 
-         Assim posto, devaneando,
+Assim posto, devaneando,
          Meditando, conjecturando,
 Não lhe fallava mais; mas, se lhe não fallava,
          Sentia o olhar que me abrazava.
@@ -153,7 +153,7 @@ Onde os raios da lampada cahiam
 De outra cabeça outr’ora alli se desparziam,
          E agora não se esparzem mais.
 
-         Suppuz então que o ar, mais denso,
+Suppuz então que o ar, mais denso,
          Todo se enchia de um incenso,
 Obra de seraphins que, pelo chão roçando
          Do quarto, estavam meneando
@@ -164,7 +164,7 @@ Obra de seraphins que, pelo chão roçando
 «Eia, esquece, eia, olvida essa extincta Lenora.»
          E o corvo disse: «Nunca mais.»
 
-         «Propheta, ou o que quer que sejas!
+«Propheta, ou o que quer que sejas!
          «Ave ou demonio que negrejas!
 «Propheta sempre, escuta: Ou venhas tu do inferno
          «Onde reside o mal eterno,
@@ -175,7 +175,7 @@ Obra de seraphins que, pelo chão roçando
 «Dize-me: existe acaso um balsamo no mundo?»
          E o corvo disse: «Nunca mais.»
 
-         «Propheta, ou o que quer que sejas!
+«Propheta, ou o que quer que sejas!
          «Ave ou demonio que negrejas!
 «Propheta sempre, escuta, attende, escuta, attende!
          «Por esse céu que alem se estende,
@@ -187,7 +187,7 @@ Obra de seraphins que, pelo chão roçando
 «Essa que ora nos ceus anjos chamam Lenora!»
          E o corvo disse: «Nunca mais.»
 
-         «Ave ou demonio que negrejas!
+«Ave ou demonio que negrejas!
          «Propheta, ou o que quer que sejas!
 «Cessa, ai, cessa! clamei, levantando-me, cessa!
          «Regressa ao temporal, regressa
@@ -198,7 +198,7 @@ Obra de seraphins que, pelo chão roçando
 «Garras que abrindo vão a minha dor já crua.»
          E o corvo disse: «Nunca mais.»
 
-         E o corvo ahi fica; eil-o trepado
+E o corvo ahi fica; eil-o trepado
          No branco marmore lavrado
 Da antiga Pallas; eil-o immutavel, ferrenho.
          Parece, ao ver-lhe o duro cenho,

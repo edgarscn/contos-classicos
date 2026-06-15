@@ -40,10 +40,10 @@ amontoado de destroços uma nota de vida e de
 mocidade. Era o ultimo passageiro de algum naufragio,
 que alli foi parar integro e alegre como d’antes. Logo que olhei para elle, entrou a saltar mais,
 abaixo e acima, de poleiro cm poleiro, como se
-quizesse dizer que no meio d’aquelle cemiterio brincava 
+quizesse dizer que no meio d’aquelle cemiterio brincava
 um raio de sol. Não attribuo essa imagem ao
 canario, senão porque falo a gente rhetorica; em
-verdade, elle não pensou em cemiterio nem sol, segundo 
+verdade, elle não pensou em cemiterio nem sol, segundo
 me disse depois. Eu, de envolta com o prazer
 que me trouxe aquella vista, senti-me indignado do
 destino do passaro, e murmurci baixinho palavras de
@@ -61,7 +61,7 @@ trillou isto:
 
 — Quem quer que sejas tu, certamente não estás
 em teu juizo. Não tive dono execravel, nem fui dado
-a nenhum menino que me vendesse. São imaginações 
+a nenhum menino que me vendesse. São imaginações
 de pessoa doente; vai-te curar, amigo...
 
 — Como? interrompi eu, sem ter tempo de ficar
@@ -69,7 +69,7 @@ espantado. Então o teu dono não te vendeu a esta
 casa? Não foi a miseria ou a ociosidade que te trouxe
 a este cemiterio, como um raio de sol?
 
-— Não sei que seja sol nem cemitcrio. Se os canarios 
+— Não sei que seja sol nem cemitcrio. Se os canarios
 que tens visto usam do primeiro desses nomes, tanto melhor, porque é bonito, mas estou que confundes.
 
 — Perdão, mas tu não vieste para aqui á toa
@@ -80,8 +80,8 @@ homem que alli está sentado.
 creado, dá-me agua e comida todos os dias, com tal
 regularidade que eu, se devesse pagar-lhe os serviços,
 não seria com pouco; mas os canarios não
-pagam creados. Em verdade, se o mundo é propriedade 
-dos canarios, seria extravagante que elles pagassem 
+pagam creados. Em verdade, se o mundo é propriedade
+dos canarios, seria extravagante que elles pagassem
 o que está no mundo.
 
 Pasmado das respostas, não sabia que mais admirar,
@@ -111,7 +111,7 @@ In}}daguei se o adquirira, como o resto dos objectos
 que vendia, e soube que sim, que o comprára a um
 barbeiro, acompanhado de uma collecção de navalhas.
 
-— As navalhas estão em muito bom uso, concluiu 
+— As navalhas estão em muito bom uso, concluiu
 elle.
 
 — Quero só o canario.
@@ -123,7 +123,7 @@ minha casa, d’onde o passarinho podia ver o jardim,
 o repuxo e um pouco do ceu azul.
 
 Era meu intuito fazer um longo estudo do phenoneno,
-sem dizer nada a ninguem, até poder assombrar 
+sem dizer nada a ninguem, até poder assombrar
 o seculo com a minha extraordinaria descoberta.
 Comecei por alphabetar a lingua do canario, por
 estudar-lhe a estructura, as relações com a musica,
@@ -135,20 +135,20 @@ flora das ilhas Canarias, se elle tinha conhecimento
 da navegação, etc. Conversavamos longas horas, eu
 escrevendo as notas, elle esperando, saltando, trilando.
 
-Não tendo mais familia que dous criados, ordenava-lhes 
+Não tendo mais familia que dous criados, ordenava-lhes
 que não me interrompessem, ainda por motivo de alguma carta ou telegramma urgente, ou
 visita de importancia. Sabendo ambos das minhas
 occupações scientificas, acharam natural a ordem, e
 não suspeitaram que o canario e eu nos entendiamos.
 
 Não é mister dizer que dormia pouco, accordava
-duas e tres vezes por noite, passeava á toa, sentiame 
+duas e tres vezes por noite, passeava á toa, sentiame
 com febre. Afinal tornava ao trabalho, para reler,
 accrescentar, emendar. Rectifiquei mais de uma
 observação, — ou por havel-a entendido mal, ou
 porque elle não a tivesse expresso claramente. A
 definição do mundo foi uma dellas. Tres semanas
-depois da entrada do canario em minha casa, pedilhe 
+depois da entrada do canario em minha casa, pedilhe
 que me repetisse a definição do mundo.
 
 — O mundo, respondeu elle, é um jardim assaz
@@ -165,7 +165,7 @@ escrever a memoria que havia de mandar ao Museu
 Nacional, ao Instituto Historico e ás universidades
 allemães, não porque faltasse materia, mas para
 accumular primeiro todas as observações e ratificalas.
-Nos ultimos dias, não saía de casa, não respondia 
+Nos ultimos dias, não saía de casa, não respondia
 a cartas, não quiz saber de amigos nem parentes.
 Todo eu era canario. De manhã, um dos criados tinha a seu cargo limpar a gaiola e pôr-lhe agua e
 comida. O passarinho não lhe dizia nada, como se

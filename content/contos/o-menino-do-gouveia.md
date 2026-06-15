@@ -157,7 +157,7 @@ Estivemos uns minutos, não sei quantos, naquella posição, a prolongar o extas
 
 O Gouveia ergueu-se, foi a um armario e trouxe uma garrafa dum magnifico Moscatel e dois copos para, segundo elle dizia, celebrar a minha iniciação no batalhão de Cupido.
 
-Propoz então o Gouveia, e eu com enthusiasmo  acceitei, que despissemos as ceroulas para melhor gosar a carne contra a carne.
+Propoz então o Gouveia, e eu com enthusiasmo acceitei, que despissemos as ceroulas para melhor gosar a carne contra a carne.
 
 Sentei-me nas pernas do velhote e começamos a bebericar o vinho pelo mesmo copo, a beijarmo-nos lubricamente, a sugarmos os beiços e a chuparmos a lingua um do outro.
 
@@ -223,6 +223,7 @@ N. 5 — A VIUVA ALEGRE
 N. 6 — 0 MENINO DO GOUVEIA
 
 N. 7
+
 - - A Pulga - -
 
 Todas as obras oriundas do Brasil e de Portugal, publicadas pela primeira vez até 1925 e de autoria desconhecida, entrarão em domínio público no dia 1º de Janeiro posterior aos 70 anos de primeira publicação.

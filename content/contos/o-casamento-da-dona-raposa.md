@@ -59,7 +59,7 @@ A gata respondeu,
 
 "Estou fazendo pudim de pão com leite,
 O cavalheiro gostaria de entrar e comer um pouco?"
-“Não, obrigado, Senhorita Gata,” respondeu o lobo. 
+“Não, obrigado, Senhorita Gata,” respondeu o lobo.
 “A Senhora Raposa não está em casa?” A gata respondeu,
 "Ela está no quarto dela lá em cima,
 Lamentando seu triste destino,
@@ -78,9 +78,9 @@ Com seus cinco aneis de ouro e bate na porta,
 Se a senhora estiver precisando de um marido agora.
 Então, será que a senhoria poderia descer um pouquinho lá embaixo?"
 
-A Senhora Raposa perguntou, "Pode me dizer se o cavalheiro está usando meias vermelhas e tem uma boca pontuda?" "Não," respondeu a gata.  "Então ele não serve para mim."
+A Senhora Raposa perguntou, "Pode me dizer se o cavalheiro está usando meias vermelhas e tem uma boca pontuda?" "Não," respondeu a gata. "Então ele não serve para mim."
 
-Quando o lobo foi embora, veio um cachorro, um veado, uma lebre, um urso, um leão, e todos os animais da floresta, um após o outro. Mas um dos pontos positivos que o velho Senhor Raposo possuía, estava sempre faltando, e a gata continuava a expulsar os pretendentes.  Até que um jovem raposo apareceu.  Então a Senhora Raposa disse: "Pode me dizer se o cavalheiro está usando meias vermelhas, e possui uma boca pontuda?" "Sim," respondeu a gata, "ele possui."  "Então, faça com que ele suba até aqui," disse a Senhora Raposa, e mandou que a criada gata preparasse a festa de casamento.
+Quando o lobo foi embora, veio um cachorro, um veado, uma lebre, um urso, um leão, e todos os animais da floresta, um após o outro. Mas um dos pontos positivos que o velho Senhor Raposo possuía, estava sempre faltando, e a gata continuava a expulsar os pretendentes. Até que um jovem raposo apareceu. Então a Senhora Raposa disse: "Pode me dizer se o cavalheiro está usando meias vermelhas, e possui uma boca pontuda?" "Sim," respondeu a gata, "ele possui." "Então, faça com que ele suba até aqui," disse a Senhora Raposa, e mandou que a criada gata preparasse a festa de casamento.
 
 "Varra o quarto e deixe-o o mais limpo que puder,
 Abra a janela e jogue o meu ex-marido que morreu lá pra fora!

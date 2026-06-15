@@ -114,7 +114,7 @@ Os parentes, todavia, zombavam dele, e foram obrigados a voltarem para casa sem 
 
 Onde quer que ele fosse, tudo o que era de melhor lhe era fornecido, e o que mais ele desejava, mais ele conseguia, porque ele tinha uma sacola que estava sempre cheia. Depois de ter visitado o mundo todo durante algum tempo, ele pensou,
 
-"Preciso visitar o meu pai, e se eu for até ele levando o asno dourado ele esquecerá a raiva, e me receberá bem.  "E aconteceu que ele chegou na mesma estalagem onde a mesa do seu irmão havia sido trocada.
+"Preciso visitar o meu pai, e se eu for até ele levando o asno dourado ele esquecerá a raiva, e me receberá bem. "E aconteceu que ele chegou na mesma estalagem onde a mesa do seu irmão havia sido trocada.
 
 Ele conduzia o seu asno pelos arreios, e o estalajadeiro se ofereceu para levar o animal para prendê-lo em algum lugar, mas o jovem aprendiz disse, "Não se preocupe, eu mesmo levarei o meu cavalo cinzento para o estábulo, e eu mesmo o amarrarei, porque eu preciso saber onde ele vai ficar."
 

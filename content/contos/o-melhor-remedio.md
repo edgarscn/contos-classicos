@@ -46,7 +46,7 @@ Pelo amor de Deus!
 
 Teve ideia de ir este anno para Minas; até aqui vae bein.
 En gosto de Minas. Estivemos lá dous mezes, logo depois
-que casamos. Comecei a arranjar tudo; disse a todos as pessoas 
+que casamos. Comecei a arranjar tudo; disse a todos as pessoas
 que ia para Minas...
 
 Lembro-me que me disse.
@@ -59,8 +59,8 @@ ella teimou muito é que en contei ao Conrado o que mamãe
 me tinha dito. Elle não responden; ouviu, levantou os hombros,
 e saliu. Mamãe teimava; afinal declarou me que ia ella
 mesma fallar a meu marido; pedi-lhe que não, ella porem
-respondeu-me que não era uma bicha de sete cabeças. Petropolis 
-ou Minas, tudo era passar o verão fóra, com a diferença 
+respondeu-me que não era uma bicha de sete cabeças. Petropolis
+ou Minas, tudo era passar o verão fóra, com a diferença
 que para, ella, Petropolis ficava mais perto. E não era
 assim mesmo?
 
@@ -85,7 +85,7 @@ Que foi?
 Mas... não entendo.
 
 Eu disse a mamãe que não pedisse mais nada; não valia a
-pena, era perder tempo e zangar o Conrado. Mamãe concordou 
+pena, era perder tempo e zangar o Conrado. Mamãe concordou
 commigo; mas, d’ahi a dous dias, tornou a fallar na
 mudança; e afinal hontem o Conrado entrou em casa com os
 olhos cheios de raiva. Não me disse nada, por mais que lhe
@@ -138,7 +138,7 @@ Por causa dos dous broches?
 
 Por causa dos dous broches, des vestidos que faço, das
 rendas que compro, que sou uma gastadeira, que só gosto
-de andar na rua, fazendo contas, o diabo. Você não imagina 
+de andar na rua, fazendo contas, o diabo. Você não imagina
 o que ouvi. Chorei, chorei, como nunca chorei em minha
 vida. Se tivessse animo, matava-me hoje mesmo. Pois então...
 E concordo, concordo que não era preciso outro broche, mas

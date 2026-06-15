@@ -1,5 +1,5 @@
 ---
-title: "\"Profiteur!\""
+title: '"Profiteur!"'
 author: "Domínio Público"
 year: "Desconhecido"
 category: "Contos brasileiros"

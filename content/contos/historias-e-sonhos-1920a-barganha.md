@@ -95,7 +95,7 @@ polícia à paisana, pois lhe parecia que, na terra em que estava, todos
 os pretos são soldados e podem prender todos os armemos.
 
 - Com essa convicção, Miguel José respondeu cheio de respeito e
-acatamento:
+  acatamento:
 
 - Dizia, sinhor: cumpra santo muita bonita.
 
@@ -139,7 +139,7 @@ Ele se encheu todo de uma pesada tristeza; mas pôde responder:
 - Cuma se diz então?
 
 - Troca-se. Aprenda - está ouvindo! É falta de respeito, é
-sacrilégio dizer comprar ou vender santos. Aprendeu?
+  sacrilégio dizer comprar ou vender santos. Aprendeu?
 
 - Sim, sinhor. Obrigada, sinhor.
 
@@ -166,7 +166,7 @@ pequenote:
 - Santo, menina. Pede mamãe compra uma.
 
 - Ora, esta! Lá em casa tem tanto santo - para que mais um?
-Vende ali, aos "bíblias".
+  Vende ali, aos "bíblias".
 
 Miguel José percebeu bem a malícia da criança, pois de uma
 feita caíra na tolice de oferecer um registro a essa espécie de
@@ -222,7 +222,7 @@ Miguel José fez uma voz sumida:
 O português, sem mais aquela, observou:
 
 - Qual senhor! Qual nada! Cá entre nós, é você pra baixo. Isto
-de senhor é lá pros doutores, não é para nós que andamos aqui aos tombos.
+  de senhor é lá pros doutores, não é para nós que andamos aqui aos tombos.
 
 E emendou comunicativo:
 
@@ -231,7 +231,7 @@ E emendou comunicativo:
 O "turco" disse-lhe e o Manuel da Silva considerou:
 
 - Lá na minha terra, há quem goste disto; mas eu nunca me
-acostumei. Cebola pra mim, só na comida. Numa bacalhoada, ah!...
+  acostumei. Cebola pra mim, só na comida. Numa bacalhoada, ah!...
 
 Miguel José continuava a mastigar sua cebola com pão, enquanto
 Manuel da Silva contava a féria. Contada que ela foi, disse bem alto:
@@ -246,7 +246,7 @@ subitamente ao companheiro de acaso:
 - Nada, sinhor.
 
 - Está você a dar com o tal de senhor! Pergunto se você já
-vendeu alguma cousa hoje, homem!
+  vendeu alguma cousa hoje, homem!
 
 - Nada.
 
@@ -264,8 +264,9 @@ O armênio passou-lhe os registros coloridos e o vendedor de
 sardinhas pôs-se a olhá-los com espanto e deslumbramento artístico
 de aldeão simplório. Achou tudo aquilo bonito: aquele Jesus,
 mostrando o coração; são João, com o carneirinho; o Menino Jesus
+
 - tudo muito lindo aos seus olhos maravilhados de camponês cândido
-e enfeitiçado pelas cousas do senhor vigário.
+  e enfeitiçado pelas cousas do senhor vigário.
 
 Refletiu de si para si: "Cousas tão bonitas, se não as vendeu, é
 porque este 'turco' é mesmo burro. Comigo, já as tinha vendido,
@@ -281,8 +282,8 @@ esperança.
 - Qual é? perguntou ele.
 
 - Tenho ali na cesta cerca de vinte mil-réis de sardinhas, vendidas
-a duas por um vintém. Se você vendê-las a vinte, ganha o dobro.
-Quer você trocar estes santos pelo cesto de sardinhas?
+  a duas por um vintém. Se você vendê-las a vinte, ganha o dobro.
+  Quer você trocar estes santos pelo cesto de sardinhas?
 
 Miguel José rapidamente pesou os prós e contras da operação
 comercial. Sabia bem, por experiência própria, que a população, até
@@ -324,7 +325,7 @@ A mãe perguntava lá de dentro:
 - Não, mamãe; quer vender santos.
 
 - Para que deu agora, seu Manuel! Ora, vejam só! Vender santos.
-Diga a ele que não quero.
+  Diga a ele que não quero.
 
 Dessa e de outra maneira, ele foi percorrendo em vão sua
 freguesia das sardinhas, sem mercar uma única estampa religiosa.
@@ -339,5 +340,5 @@ ainda quis ver as oleogravuras que o haviam deslumbrado.
 Mirou uma, mirou outra e, olhando-as firmemente, refletiu:
 
 - Se não fosse por faltar o respeito devido a Nosso Senhor
-Jesus Cristo, que ai está, eu havia de dizer que tudo isso são cousas
-do diabo que aquele "turco" me impingiu. Nunca mais! Tarrenego!
+  Jesus Cristo, que ai está, eu havia de dizer que tudo isso são cousas
+  do diabo que aquele "turco" me impingiu. Nunca mais! Tarrenego!

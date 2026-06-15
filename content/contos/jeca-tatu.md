@@ -54,7 +54,7 @@ Quando comparece as feiras, todo mundo logo adivinha o que elle traz: sempre coi
 
 Seu grande cuidado é espremer todas as consequências da lei do menor esforço, e nisto vai longe. Começa a applicação da lei da moradia. Sua casa de sapé e lama faz rir aos bichos que moram em toca e gargalhar ao joão de barro. Pura biboca de boschimano.
 
-Mobilia, nenhuma. A cama é uma espipada esteira de pery posta sobre o chão batido. Ás vezes se dá ao luxo de um banquinho de tres pernas — para os hospedes. Tres pernas dão equilibrio;  inutil, portanto, meter a quarta, o que ainda o obrigaria a nivelar o chão.
+Mobilia, nenhuma. A cama é uma espipada esteira de pery posta sobre o chão batido. Ás vezes se dá ao luxo de um banquinho de tres pernas — para os hospedes. Tres pernas dão equilibrio; inutil, portanto, meter a quarta, o que ainda o obrigaria a nivelar o chão.
 
 Para que assentos, se a natureza os dotou de solidos, rachados calcanhares sobre os quais se sentam?
 
@@ -170,7 +170,7 @@ A posse de certos objetos confere dotes, sobrenaturais. A invulnerabilidade às 
 
 Todos os volumes do Larousse não bastariam para catalogar-lhe as crendices, e como não há linhas divisórias entre estas e a religião, confundem-se ambas em maranhada anastomose.
 
-Não havendo distinguir onde para uma e começa outra. A idéa de Deus e dos santos torna-se jeco-cêntrica. São os santos os graúdos lá de cima, os coronéis celestes, debruçados no azul para espreitar-lhes a vidinha e intervir nela ajudando-os ou castigando-os, como os metediços deuses de Homero. Uma torcedura de pé, um estrepe, o feijão entornado, o pote que rachou, o bicho que arruinou – tudo diabruras da corte celeste, para castigo de más intenções ou atos. Dahi o fatalismo. Se tudo movem cordéis lá de cima, para que lutar, reagir? Deus quis. A maior catástrofe é recebida  com esta exclamaçao, muito parente do "Allah Kebir" do beduíno.
+Não havendo distinguir onde para uma e começa outra. A idéa de Deus e dos santos torna-se jeco-cêntrica. São os santos os graúdos lá de cima, os coronéis celestes, debruçados no azul para espreitar-lhes a vidinha e intervir nela ajudando-os ou castigando-os, como os metediços deuses de Homero. Uma torcedura de pé, um estrepe, o feijão entornado, o pote que rachou, o bicho que arruinou – tudo diabruras da corte celeste, para castigo de más intenções ou atos. Dahi o fatalismo. Se tudo movem cordéis lá de cima, para que lutar, reagir? Deus quis. A maior catástrofe é recebida com esta exclamaçao, muito parente do "Allah Kebir" do beduíno.
 
 E na arte? Nada.
 

@@ -202,7 +202,7 @@ E Cló, por instantes, mordeu os labios, suspendeu um pouco o corpo e viu-se ell
 
 E o jantar acabou sério e familiar, embora a cerveja e o vinho não tivessem faltado aos devotos de cada uma das duas bebidas.
 
-Logo que a refeição acabou, talvez uns vinte minutos após, o doutor André se fazia annunciar. Desculpou-se com as senhoras; não pudera vir jantar, questões politicas, uma conferencia... Pedia licença para offerecer aquellas pequenas lembranças de Carnaval. Deu uma pequena caixa a D. Izabel e uma maior á Cló. As joias sahiram dos escrinios e faiscaram orgulhosamente para todos os presentes deslumbrados. Para a mãe, um annel; para a filha, um 
+Logo que a refeição acabou, talvez uns vinte minutos após, o doutor André se fazia annunciar. Desculpou-se com as senhoras; não pudera vir jantar, questões politicas, uma conferencia... Pedia licença para offerecer aquellas pequenas lembranças de Carnaval. Deu uma pequena caixa a D. Izabel e uma maior á Cló. As joias sahiram dos escrinios e faiscaram orgulhosamente para todos os presentes deslumbrados. Para a mãe, um annel; para a filha, um
 bracelete.
 
 — Oh, doutor! fez D. Izabel! O senhor está a sacrificar-se e nós não podemos consentir nisto...
@@ -211,7 +211,7 @@ bracelete.
 
 Cló agradeceu sorridente a lembrança e a suave bocca quiz fixar demoradamente o longo sorriso de alegria e agradecimento. E voltaram a tocar. D. Isabel poz-se ao piano e, como tocasse depois da sobremesa, hora da melancolia e das discussões transcendentes, como já foi observado, executou alguma cousa triste.
 
-Chegava a occasião de se prepararem para o baile á fantasia  que os Silvas davam. As senhoras retiraram-se e só ficaram, na sala, os homens, bebendo Wisky. André, impaciente e desattento; o velho lente, indifferente e compassivo, contando historias brejeiras, com vagar e cuidado; o filho, sempre a procurar caminho para exhibir o seu saber em cousas carnavalescas. A conversa ia cahindo, quando o velho disse para o deputado:
+Chegava a occasião de se prepararem para o baile á fantasia que os Silvas davam. As senhoras retiraram-se e só ficaram, na sala, os homens, bebendo Wisky. André, impaciente e desattento; o velho lente, indifferente e compassivo, contando historias brejeiras, com vagar e cuidado; o filho, sempre a procurar caminho para exhibir o seu saber em cousas carnavalescas. A conversa ia cahindo, quando o velho disse para o deputado:
 
 — Já ouviu a «Bamboula» de Gottschalk, doutor?
 

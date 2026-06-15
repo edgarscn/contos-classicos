@@ -15,17 +15,17 @@ admiravelmente calçado.
 Ergueu-se a formosa visitante, e suspirou, aliviada pela presença da amiga íntima.
 Depois dos beijinhos consuetudinários, sentaram-se ambas.
 
-—  O visconde ainda dorme?
+— O visconde ainda dorme?
 
-—  Ainda, e não acordará tão cedo: são apenas sete horas.
+— Ainda, e não acordará tão cedo: são apenas sete horas.
 
-—  Posso falar sem receio?
+— Posso falar sem receio?
 
-—  Estamos completamente sós.
+— Estamos completamente sós.
 
 Houve uma pequena pausa.
 
-—  Temos então algum mistério? interrogou a dona da casa, consertando as dobras da
+— Temos então algum mistério? interrogou a dona da casa, consertando as dobras da
 sua magnífica bata de rendas brancas. Histórias do coração, aposto?
 
 — Do coração? Não sei. Há quem diga que estas coisas nada tem a ver com ele, mas

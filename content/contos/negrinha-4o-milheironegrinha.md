@@ -10,7 +10,7 @@ slug: "negrinha-4o-milheironegrinha"
 
 Nascera de mãe escrava, na senzala, e seus primeiros annos de vida vivera-os pelos cantos escusos da cozinha, sobre farrapos de esteira e pannos immundos. Sempre escondida, que a patrôa não gostava de crianças.
 
-Excellente senhora, a patrôa. Gorda, rica. dona do mundo, amimada pelos padres, com logar certo na egreja e camarote de luxo garantido no céo. Entaladas as banhas no throno, uma cadeira de balanço na sala de jantar, alli bordava, recebendo as amigas e o vigario, dando  audiencias, discutindo o tempo. Uma virtuosa senhora, em summa — "dama de grandes virtudes apostolicas, dizia o padre, esteio da religião e da moral".
+Excellente senhora, a patrôa. Gorda, rica. dona do mundo, amimada pelos padres, com logar certo na egreja e camarote de luxo garantido no céo. Entaladas as banhas no throno, uma cadeira de balanço na sala de jantar, alli bordava, recebendo as amigas e o vigario, dando audiencias, discutindo o tempo. Uma virtuosa senhora, em summa — "dama de grandes virtudes apostolicas, dizia o padre, esteio da religião e da moral".
 
 Optima a D. Ignacia. Mas não admittia chôro de criança. Ai ! punha-lhe os nervos em carne viva. Viuva sem filhos, não a callejara o chôro da carne da sua carne, e por isso não supportava o chôro da carne da carne escrava. Assim, mal vagia. longe, na cozinha, a triste criança, gritava logo, nervosa:
 
@@ -38,7 +38,7 @@ Que idéa faria de si essa criança, que nunca ouvira uma palavra de carinho ? 
 
 O corpo de Negrinha era tatuado de signaes roxos, cicatrizes, vergões. Batiam, nelle, os da casa, todos os dias, houvesse ou não motivos. A sua pobre carne exercia para os cascudos, cocres e beliscões a mesma attracção que o iman exerce para o aço.
 
-Mão em cujos nós de dedos comichasse um cocre, era mão que se descarregaria dos fluidos  em sua cabeça, de passagem. Coisa de rir, e vêr a careta...
+Mão em cujos nós de dedos comichasse um cocre, era mão que se descarregaria dos fluidos em sua cabeça, de passagem. Coisa de rir, e vêr a careta...
 
 A excellente Dona Ignacia era mestra na arte de judiar de crianças. Vinha da escravidão, fôra senhora de escravos — e daquellas ferozes, amigas de ouvir cantar o bolo e estalar o bacalháo. Nunca se affizera ao regimen novo—essa indecencia de negro egual a branco, e qualquer coisinha : a policia !
 
@@ -72,7 +72,7 @@ Negrinha approximou-se.
 
 — Abra a bocca !
 
-Negrinha abiu a bocca, como o cuco, e fechou os olhos. A patrôa, então, tirou da agua "pulando" o ovo, com uma colher, e zás ! na bocca da pequena. E antes que o urro de dôr saisse, pratica que era D. Ignacia nesse castigo, suas mãos amordaçaram-na até que o ovo arrefecesse. Negrinha urrou surdamente, pelo nariz —  esperneou , mas só. Nem os vizinhos chegaram a perceber aquillo. Depois:
+Negrinha abiu a bocca, como o cuco, e fechou os olhos. A patrôa, então, tirou da agua "pulando" o ovo, com uma colher, e zás ! na bocca da pequena. E antes que o urro de dôr saisse, pratica que era D. Ignacia nesse castigo, suas mãos amordaçaram-na até que o ovo arrefecesse. Negrinha urrou surdamente, pelo nariz — esperneou , mas só. Nem os vizinhos chegaram a perceber aquillo. Depois:
 
 — Diga nomes feios aos mais velhos outra vez, ouviu, peste?
 

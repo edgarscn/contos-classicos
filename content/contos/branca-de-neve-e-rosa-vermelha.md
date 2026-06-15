@@ -28,7 +28,7 @@ Uma noite, quando elas estavam assim confortavelmente acomodadas, alguém bateu 
 
 Rosa Vermelha gritou e deu um pulo para trás, o cordeirinho berrou, a pombinha se agitou, e a própria Branca de Neve se escondeu atrás da cama da sua mãe. Mas o urso começou a falar e disse, "Não tenham medo, Não vou fazer nenhum mal a vocês! Eu estou meio congelado, e só quero me aquecer um pouquinho ao lado de vocês."
 
-"Pobre urso," disse a mãe, "venha aqui se aquecer perto do fogo, e não se preocupe porque você não vai se queimar." Então, ela exclamou, "Branca de Neve, Rosa Vermelha, saiam, o urso não vai fazer mal a vocês, ele só quer se aquecer um pouco." Então, as duas saíram correndo, e pouco a pouco o cordeirinho e a pombinha também se aproximaram, e não ficaram com medo do urso. Então, ele disse, "Ei, crianças, será que vocês poderiam tirar um pouco de neve dos meus pelos;" então, elas trouxeram uma vassoura e escovaram toda a pele do urso; e ele se esticou perto da lareira e rosnava contente e satisfeito.  E pouco tempo depois eles já haviam feito amizade, e já faziam estrepolias com o desajeitado convidado. Elas puxavam os pelos dele com as mãos, colocavam os pés nas costas dele e ficavam rolando, ou elas pegavam o quebra-nozes e batiam na cabeça dele, e quando ele rosnava, elas gargalhavam. Mas o urso aceitava tudo com despreocupação, somente quando elas exageravam um pouco ele gritava, "Crianças, me dêem um pouco de sossego. Branca de Neve, Rosa Vermelha, vocês teriam coragem de bater em quem as ama?”
+"Pobre urso," disse a mãe, "venha aqui se aquecer perto do fogo, e não se preocupe porque você não vai se queimar." Então, ela exclamou, "Branca de Neve, Rosa Vermelha, saiam, o urso não vai fazer mal a vocês, ele só quer se aquecer um pouco." Então, as duas saíram correndo, e pouco a pouco o cordeirinho e a pombinha também se aproximaram, e não ficaram com medo do urso. Então, ele disse, "Ei, crianças, será que vocês poderiam tirar um pouco de neve dos meus pelos;" então, elas trouxeram uma vassoura e escovaram toda a pele do urso; e ele se esticou perto da lareira e rosnava contente e satisfeito. E pouco tempo depois eles já haviam feito amizade, e já faziam estrepolias com o desajeitado convidado. Elas puxavam os pelos dele com as mãos, colocavam os pés nas costas dele e ficavam rolando, ou elas pegavam o quebra-nozes e batiam na cabeça dele, e quando ele rosnava, elas gargalhavam. Mas o urso aceitava tudo com despreocupação, somente quando elas exageravam um pouco ele gritava, "Crianças, me dêem um pouco de sossego. Branca de Neve, Rosa Vermelha, vocês teriam coragem de bater em quem as ama?”
 
 Quando chegou a hora de dormir, e as crianças já tinham ido para a cama, a mãe disse para o urso, "Você pode ficar aí deitado ao lado da lareira, pois aí você ficará protegido do frio e do mau tempo." E assim que o dia amanheceu, as duas crianças o deixaram sair, e ele saiu trotando alegre pela neve rumo a floresta.
 
@@ -58,6 +58,6 @@ As meninas haviam fugido, mas o urso as chamou de volta, "Branca de Neve e Rosa 
 
 E finalmente, Branca de Neve se casou com ele, e Rosa Vermelha com o irmão dele, e elas dividiram entre si o grande tesouro que o duende havia juntado e levado para a caverna. A velha mãezinha viveu tranquila e feliz com duas filhas durante muitos anos. Ela levou as duas roseiras com ela, as quais foram colocadas diante da janela, e que todos os anos floriam as mais belas rosas, a branca e a vermelha.
 
-•	Texto em Espanhol e Inglês
-•	Maria Machado
+• Texto em Espanhol e Inglês
+• Maria Machado
 •

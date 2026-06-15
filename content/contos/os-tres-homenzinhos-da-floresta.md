@@ -20,7 +20,7 @@ A garota fez o que o pai havia falado, mas a água fez com que o buraco não se 
 
 Na manhã seguinte, quando as duas garotas se levantaram, eis que havia diante da filha do homem, leite para ela se banhar e vinho para ela beber, mas diante da filha da mulher havia água para ela se lavar e água para ela beber. Na segunda manhã, havia água para se levar e água para beber para a filha do homem bem como para a filha da mulher.
 
-E na manhã do terceiro dia; havia água para se banhar; e água para beber para a filha do homem, e leite para se lavar e vinho para beber, para a filha da mulher, e assim todos os dias. A mulher havia se tornado amarga e indelicada com a sua enteada, e a medida que os dias se passavam ela se esforçava o máximo para tratá-la ainda pior. Ela também era  invejosa porque a enteada dela era linda e adorável, e a sua filha era feia e repulsiva.
+E na manhã do terceiro dia; havia água para se banhar; e água para beber para a filha do homem, e leite para se lavar e vinho para beber, para a filha da mulher, e assim todos os dias. A mulher havia se tornado amarga e indelicada com a sua enteada, e a medida que os dias se passavam ela se esforçava o máximo para tratá-la ainda pior. Ela também era invejosa porque a enteada dela era linda e adorável, e a sua filha era feia e repulsiva.
 
 E porque é que eu teria de ir neste vestido de papel? Está tão frio lá fora que até a minha respiração congela! O vento irá soprar o vestido, e os espinhos irão machucar o meu corpo." "Você está me contrariando novamente?" disse a madrasta, "Trate de ir, e não me mostre a tua cara novamente até que retorne com um cesto cheio de morangos!"
 

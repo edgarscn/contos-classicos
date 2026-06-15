@@ -1,5 +1,5 @@
 ---
-title: "A Mulher \"Forte\""
+title: 'A Mulher "Forte"'
 author: "Domínio Público"
 year: "Desconhecido"
 category: "Contos brasileiros"

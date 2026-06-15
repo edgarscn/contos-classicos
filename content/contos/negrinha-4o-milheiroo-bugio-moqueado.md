@@ -70,7 +70,7 @@ Vexadissimo, mas sempre em guarda, achei de bom conselho engulir o insulto e cal
 
 — Pois não sabe o que perde !... philosophou elle diabolicamente piscando os olhinhos de cobra.
 
-Aqui o jogo interrompeu a historia. Melchor estava collocado e Gaspar, com tres pontos, sacava para Ugarte. Houve luta, mas um "camarote"  infeliz de Gaspar deu o ponto a Ugarte. "Pintou" a 13, que eu não tinha; jogo vae, jogo vem, despintou a 13 e deu a 23. Pela terceira vez Ugarte estragara-me o triangulo. Quiz insistir, mas não pude. A historia estava no apogêo e antes "perder de ganhar" a proxima quiniela do que perder um capitulo da tragedia. Fiquei no logar, attento, a ouvir o sujeito que continuava a sua historia, pachorrentamente:
+Aqui o jogo interrompeu a historia. Melchor estava collocado e Gaspar, com tres pontos, sacava para Ugarte. Houve luta, mas um "camarote" infeliz de Gaspar deu o ponto a Ugarte. "Pintou" a 13, que eu não tinha; jogo vae, jogo vem, despintou a 13 e deu a 23. Pela terceira vez Ugarte estragara-me o triangulo. Quiz insistir, mas não pude. A historia estava no apogêo e antes "perder de ganhar" a proxima quiniela do que perder um capitulo da tragedia. Fiquei no logar, attento, a ouvir o sujeito que continuava a sua historia, pachorrentamente:
 
 — "Quando me vi na estrada, longe daquelle antro, criei alma nova. Fiz cruz na porteira : aqui, nunca mais ! Credo ! E abri de galopada pela noite a dentro...
 

@@ -1,5 +1,5 @@
 ---
-title: "Negócio \"Chic\""
+title: 'Negócio "Chic"'
 author: "Domínio Público"
 year: "Desconhecido"
 category: "Contos brasileiros"

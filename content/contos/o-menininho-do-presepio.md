@@ -1,5 +1,5 @@
 ---
-title: "O \"menininho\" do presépio"
+title: 'O "menininho" do presépio'
 author: "Domínio Público"
 year: 1949
 category: "Contos brasileiros"

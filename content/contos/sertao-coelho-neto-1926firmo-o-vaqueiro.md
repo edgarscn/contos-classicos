@@ -8,9 +8,9 @@ slug: "sertao-coelho-neto-1926firmo-o-vaqueiro"
 
 Sentados na soleira da palhoça, em face do verde campo, à hora vesperal em que os rebanhos recolhem, o velho Firmo e eu fumávamos, relembrando passagens alegres da vida de outrora.
 
-Firmo era meu companheiro quando eu ia passar as férias na roça. O que ele sabia de histórias, e como as contava fazendo a voz enternecida e meiga para imitar as princesas que imploravam ou arremetendo com vozeirão terrível para que eu tivesse a impressão exata do bradar horrível dos gigantes antropófagos. E não só história dos livros, outras sabia que eu jamais em letras vira: a que descrevia a iara branca seduzindo o remador do Itapicuru e o conto do sucupira, com que no bom tempo faziam cessar a minha impertinência. Algumas eram inventadas por ele, diziam;  outras o velho Firmo, vaqueano e andejo, aprendera por esses sertões de Deus por onde caminhara.
+Firmo era meu companheiro quando eu ia passar as férias na roça. O que ele sabia de histórias, e como as contava fazendo a voz enternecida e meiga para imitar as princesas que imploravam ou arremetendo com vozeirão terrível para que eu tivesse a impressão exata do bradar horrível dos gigantes antropófagos. E não só história dos livros, outras sabia que eu jamais em letras vira: a que descrevia a iara branca seduzindo o remador do Itapicuru e o conto do sucupira, com que no bom tempo faziam cessar a minha impertinência. Algumas eram inventadas por ele, diziam; outras o velho Firmo, vaqueano e andejo, aprendera por esses sertões de Deus por onde caminhara.
 
-Andava pelos oitenta anos, mas quem o visse a cavalo, no campo, não lhe daria tanta idade. O diabo era o reumatismo que não lhe deixava as pernas.  No seu tempo ninguém levava o melhor ao Firmo do Curral Novo. Raparigas, que uma vez o viam montado no garboso fábrica, o laço em volta da cinta, a aguilhada firme sobre a coxa coberta de couro cru, perdiam-se de amor por ele.
+Andava pelos oitenta anos, mas quem o visse a cavalo, no campo, não lhe daria tanta idade. O diabo era o reumatismo que não lhe deixava as pernas. No seu tempo ninguém levava o melhor ao Firmo do Curral Novo. Raparigas, que uma vez o viam montado no garboso fábrica, o laço em volta da cinta, a aguilhada firme sobre a coxa coberta de couro cru, perdiam-se de amor por ele.
 
 Era um caboclo atirado, musculoso e rijo: grandes olhos negros brilhavam no rosto queimado pelos verões e os cachos do seu cabelo rolavam-lhe pelos ombros largos.
 
@@ -36,11 +36,11 @@ Firmo ficava enlevado acompanhando os movimentos da manada, inclinando-se para u
 
 – Eh! eh! eh cou! ruma! ruma! Eh! lou...
 
-E ficava longo tempo excitado, a olhar. Não perdia uma só das peripécias e, se um touro espirrava, correndo aos galões pela campina, o velho entrava a bramar do outeiro, tão alto, tão alto que as raparigas, que andavam na eira recolhendo a roupa ou socando o arroz, paravam assustadas erguendo os olhos para o lado da palhoça do vaqueiro velho.  Mas ninguém o acomodava antes de ser laçado o boi fujão e quando o vaqueiro aparecia, arrastando o animal laçado, Firmo suspirava baixinho:
+E ficava longo tempo excitado, a olhar. Não perdia uma só das peripécias e, se um touro espirrava, correndo aos galões pela campina, o velho entrava a bramar do outeiro, tão alto, tão alto que as raparigas, que andavam na eira recolhendo a roupa ou socando o arroz, paravam assustadas erguendo os olhos para o lado da palhoça do vaqueiro velho. Mas ninguém o acomodava antes de ser laçado o boi fujão e quando o vaqueiro aparecia, arrastando o animal laçado, Firmo suspirava baixinho:
 
 – Ah! Nossa Senhora! meu tempo!
 
-Foi pelo Natal que o vi pela última vez. Começavam os preparativos da festa, quando cheguei ao sitio.  Nas casas dos escravos, as velhas, à noite, ensaiavam as crianças. Na eira os rapazolas preparavam jiraus; colhia-se o arroz novo para os presepes e de todos  os lados, mal o sol fugia, começavam as toadas das cantigas ao Deus Menino e as falas dos infantes que figuravam no Mistério.
+Foi pelo Natal que o vi pela última vez. Começavam os preparativos da festa, quando cheguei ao sitio. Nas casas dos escravos, as velhas, à noite, ensaiavam as crianças. Na eira os rapazolas preparavam jiraus; colhia-se o arroz novo para os presepes e de todos os lados, mal o sol fugia, começavam as toadas das cantigas ao Deus Menino e as falas dos infantes que figuravam no Mistério.
 
 Firmo estava doente, mal podia mover-se: passava os dias na rede. Subi a vê-lo, uma noite, justamente na véspera do grande dia. Encontrei-o deitado, fumando, os olhos semicerrados.
 
@@ -86,7 +86,7 @@ O cafuzo, um codoense de fama, atravessou o limiar da porta:
 
 – Hen, hen, afirmou o cafuzo.
 
-– Negro, você não vai daqui hoje. Ah!  Patrãozinho, vosmecê vai ver o que é um diabo. Negro, ajunta a madeira ali atrás da arca...
+– Negro, você não vai daqui hoje. Ah! Patrãozinho, vosmecê vai ver o que é um diabo. Negro, ajunta a madeira ali atrás da arca...
 
 – Está encordoada?
 
@@ -107,7 +107,7 @@ Sentou-se no centro da sala, cruzou as pernas e, tombando a cabeça, gemeu a toa
 No coração de quem ama
 Nasce uma flor que envenena"
 
-– Eh!  gritou o Firmo entusiasmado, concluindo a quadra:
+– Eh! gritou o Firmo entusiasmado, concluindo a quadra:
 
 "Morena, essa flor que mata
 Chama-se paixão, morena."

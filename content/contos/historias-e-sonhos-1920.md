@@ -8,18 +8,18 @@ slug: "historias-e-sonhos-1920"
 
 — e —
 
-“Amplius! Amplius !” 
+“Amplius! Amplius !”
 Sim ; sempre mais longe!
 
 LIVRARIA EDITORA
-— de — 
+— de —
 GIANLORENZO SCHETTINO
 RUA SACHET, 18
 RIO DE JANEIRO
 
 LIMA BARRETO
 
-“Amplius! Amplius !” 
+“Amplius! Amplius !”
 Sim; sempre mais longe!
 
 GIANLORENZO SCHETTINO

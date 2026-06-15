@@ -1,5 +1,5 @@
 ---
-title: "A \"Divorciada\""
+title: 'A "Divorciada"'
 author: "Domínio Público"
 year: "Desconhecido"
 category: "Contos brasileiros"

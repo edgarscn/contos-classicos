@@ -16,7 +16,7 @@ E enquanto falava, ia-lhe apertando a cabeça ligeiramente grisalha, de encontro
 
 — E se casares? — teimou o marido.
 
-_ Não caso não, filhinho; fica tranqüilo.
+\_ Não caso não, filhinho; fica tranqüilo.
 
 — Jura, então!
 

@@ -1,5 +1,5 @@
 ---
-title: "O \"Bellerophon\""
+title: 'O "Bellerophon"'
 author: "Domínio Público"
 year: "Desconhecido"
 category: "Contos brasileiros"

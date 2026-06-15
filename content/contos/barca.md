@@ -1,5 +1,5 @@
 ---
-title: "\"Barca\""
+title: '"Barca"'
 author: "Artur de Azevedo"
 year: "Desconhecido"
 category: "Contos brasileiros"

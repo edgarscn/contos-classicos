@@ -14,7 +14,7 @@ Por baixo, num largo planalto de terra vermelha, limpa de fresco, recentemente d
 
 Do céu quente, sob a radiação nevrótica do sol, caia uma paz cansada, e na vasta planície nua, toda de rastolho, ceifada de extremo a extremo, erguia-se apenas um casebre tosco, baixo, metido dentro de um cercado, à sombra quieta de ramalhoso mangueiral.
 
-A par da estrada de um amarelo sujo e peco, orlada de espinhais mirrados, corria, murmuro e pesado, o rio sonolento, onde a figura solitária de uma lavadeira brandia panos, metida na água até os joelhos. 
+A par da estrada de um amarelo sujo e peco, orlada de espinhais mirrados, corria, murmuro e pesado, o rio sonolento, onde a figura solitária de uma lavadeira brandia panos, metida na água até os joelhos.
 No alto de um monte, fechado de mato intenso, ardia tremulamente, fumarando espirais cor de turquesa nova, um fogo de gravetos.
 
 Ouvia-se o chiar prolongado de um grande carro de bois.

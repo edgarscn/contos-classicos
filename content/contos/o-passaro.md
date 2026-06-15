@@ -1,5 +1,5 @@
 ---
-title: "O \"Pássaro\""
+title: 'O "Pássaro"'
 author: "Domínio Público"
 year: "Desconhecido"
 category: "Contos brasileiros"

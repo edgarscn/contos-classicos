@@ -1,5 +1,5 @@
 ---
-title: "O \"Magnificat\""
+title: 'O "Magnificat"'
 author: "Domínio Público"
 year: "Desconhecido"
 category: "Contos brasileiros"

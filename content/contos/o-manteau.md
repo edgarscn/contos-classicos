@@ -1,5 +1,5 @@
 ---
-title: "O \"Manteau\""
+title: 'O "Manteau"'
 author: "Domínio Público"
 year: "Desconhecido"
 category: "Contos brasileiros"

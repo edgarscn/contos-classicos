@@ -39,49 +39,49 @@ Alberto foi fazendo consigo as reflexões seguintes:
 Tempos depois Alberto recebia a seguinte carta de Porto Alegre, escrita pelo amigo Luís.
 
 Luís a Alberto.
- 
+
 Prezado amigo,
- 
+
 Só agora te escrevo porque só agora me é dado dispensar alguns minutos.
- 
+
 Se fosses alguma destas susceptibilidades que tantas vezes encontrei, dava-te outra razão, mentirosa de certo, mas suficiente para acalmar-te o espírito e consolar-te o coração.
- 
+
 Mas prefiro a verdade. Eu te conheço, tu me conheces, nós nos conhecemos.
- 
+
 Queres então saber que motivo me trouxe ao Rio Grande tão repentinamente? Um motivo simples: receber um legado. Tive notícia de que meu padrinho morrera e me deixara em testamento certa quantia assaz avultada para colocar-me acima das atribulações da vida.
- 
+
 Que tal? É ou não uma tigela de maná que me veio do céu? Eu bem te dizia muitas vezes que tinha fé na minha estrela, e que estava certo de que não havia de ganhar fortuna pela simples posição de advogado provinciano.
- 
+
 Mas já te ouço dizer contigo mesmo: Que tivesse um legado, concebe-se; mas que fosse ele próprio arrecadá-lo, isto é que eu acho esquisito.
- 
+
 Respondo à tua reflexão:
- 
+
 Podia dar procuração a alguém e ficar comodamente na corte à espera que lá me fosse ter às mãos a quantia legada por aquele chorado padrinho. Se não fiz isto foi por virtude de uma cláusula que o meu referido padrinho incluiu no testamento.
- 
+
 Esta cláusula é a seguinte:
- 
+
 Este legado só será entregue ao meu afilhado Luís depois que ele tiver, por virtude dos próprios esforços, descoberto em certo lugar, situado na casa tal, em Pelotas, um segredo que lá conservo.
- 
+
 Deves compreender que eu não podia, estando na corte, descobrir o segredo de Pelotas.
- 
+
 Por isso embarquei apenas recebi a notícia.
- 
+
 Muitas vezes te falei neste padrinho como o mais singular e extravagante dos padrinhos. Sobre a condição que ele punha tinha eu a curiosidade de saber qual era esta nova excentricidade do velho.
- 
+
 E parti.
- 
+
 Ainda não fui a Pelotas, mas tratei de indagar que casa era aquela e quem residia lá. Disseram-me que a casa era propriedade de meu padrinho e estava vazia há cinco anos.
- 
+
 Isto aguçou a minha curiosidade.
- 
+
 Decididamente temos um mistério neste negócio.
- 
+
 O que sobretudo me causa ainda maior assombro é não haver na cláusula a designação em que lugar da casa se acha o segredo. Será nas salas, nas alcovas, no terreiro, no teto ou no chão? Não sei. Mas o legado vale a pena, e eu tenho forças e tenacidade para levar a obra ao cabo.
- 
+
 Disponho-me a partir dentro de alguns dias, munido de instrumentos e acompanhado do meu guasca.
- 
+
 De tudo o que ocorrer dar-te-ei conta.
- 
+
 Adeus. Não sejas preguiçoso. Escreve-me.
 
 Alberto leu e releu esta carta. Sorriu à idéia de que Luís se achava envolvido em um mistério de romance. Ele sabia que o padrinho do advogado era um homem excêntrico, desta longa família que se ramifica por todas as raças e todos os países.
@@ -107,25 +107,25 @@ No fim de dois meses resolveu escrever uma carta em duplicata, mandando uma para
 A carta de Alberto dizia assim:
 
 Alberto a Luís.
- 
+
 — Resolvi escrever-te depois de esperar em vão uma carta tua. Esta vai em duplicata, uma para Porto Alegre, outra para Pelotas. Onde quer que estejas lá te há de achar.
- 
+
 Devo crer que estejas em Pelotas, e que o silêncio se explique pelas ocupações em que estás realmente com a procura desse segredo do teu finado padrinho.
- 
+
 Eu já sabia de quanta excentricidade era capaz esse sujeito, mas esta é de mestre, e eu não atino com o fim de toda esta meada.
- 
+
 Por isso mesmo é que é segredo.
- 
+
 O que for soará.
- 
+
 Peço-te que não te esqueças, se for possível, de me comunicares os progressos do trabalho, e, quando chegar a ocasião, a natureza do segredo que faz condição do legado.
- 
+
 Segredo em casa que se não abre há cinco anos... deve ser coisa misteriosa!
- 
+
 Olha lá; não vás esbarrar com alguma daquelas surpresas das fantasias alemãs... Quem sabe se o teu padrinho não tinha comércio com o diabo?
- 
+
 Disse uma tolice, perdoa-me.
- 
+
 Enfim, escreve-me. Sou curioso, como uma criança. Dize-me o que houver e continua a votar-me aquela amizade antiga.
 
 Alberto escreveu as duas cartas, subscritou-as e remeteu-as para o correio.
@@ -137,88 +137,88 @@ Daí a algum tempo recebeu uma carta de Luís.
 Dizia ele:
 
 Luís a Alberto.
- 
+
 — É segredo e segredo do diabo. Mas não é por ora o que pensas. O do padrinho ainda está por descobrir, pela razão de que ainda não fui a Pelotas. E não penses que é porque não possa. Não; tenho podido ir. Mas que me prende? perguntas tu.
- 
+
 Vais saber.
- 
+
 Prende-me um anjo...
- 
+
 Não te rias, lê até o fim.
- 
+
 Prende-me um anjo com formas de mulher. Ou anjo ou o diabo, que tanto importa esta criatura que conseguiu transtornar-me a razão e fazer do meu coração uma verdadeira ruína a respeito de todos os outros sentimentos.
- 
+
 Amo, meu Alberto, amo!
- 
+
 A primeira vez que a vi foi em uma noite... ah! até agora só a tenho visto à noite, pelo que já lhe pus um nome simbólico: Diana.
- 
+
 Mas, como dizia, foi em uma noite que a vi pela primeira vez, noite de sexta, noite de luar, noite de sedução: estava linda, como a irmã que então atravessava a planície celeste, calma e suave, influindo amor, inspiração, poesia...
- 
+
 Dessa noite para cá fiquei perdido. Bem sabes como nasce o amor; é de súbito. Eu senti que naquele momento o anjo encarregado de escrever no céu a minha biografia (porque eu acredito que há anjos biógrafos ao céu) adicionou ao capítulo do amor o nome de Diana.
- 
+
 Diana! sabes tu que beleza é esta? Como encanta, como fascina, como seduz? Tu não sabes nada, pobre lorpa, nessa cidade de lama e de prosa, cativo da prosa e da lama. Aqui, sim; aqui resido com este serafim, a luz, a vida, a poesia...
- 
+
 Reli o que tinha escrito até aqui e tive idéia de rasgar. Não irás tu pensar que eu estou doido ou caí na pieguice? Não creias nada que não seja isto: amo. É a palavra da criação, diz o poeta das Orientais.
- 
+
 Mas deixe-me contar como foi que eu vi e amei esta mulher.
 Costumava eu ir tomar chá em casa do major O..., meu parente afastado, bom velho que possui filhas bonitas e de excelentes qualidades.
- 
+
 Ia às oito horas e voltava à meia-noite para casa.
- 
+
 Ouvia lá falar muitas vezes da viúva Caldas, mas nunca prestei maior atenção a essa referência, e ouvia como se não ouvisse.
- 
+
 Uma noite, em que fui mais cedo, disseram-me as filhas do velho que esperavam a viúva Caldas para tomar chá.
- 
+
 Perguntei quem era essa viúva Caldas que eu não conhecia. Disseram-me que era a viúva de um homem do Norte que para ali fora há um ano, o qual tinha falecido cinco meses antes. A viúva desde que eu lá cheguei andava doente e por isso não tinha ido à casa do major.
- 
+
 Mas achava-se boa e ia lá naquela noite, pela primeira vez que saía depois da convalescença.
- 
+
 Não se trocou a este respeito uma só palavra mais.
- 
+
 Daí a bocado, estávamos assentados na chácara cujo portão dava para uma rua, aparecem a alguma distância uns vultos brancos. Era a viúva e a mãe.
- 
+
 As moças correram a ir buscá-las e eu acompanhei-as por delicadeza, não podendo supor que essa viúva Caldas fosse a mulher destinada a mudar completamente o meu destino.
- 
+
 O luar estava claro, suave, límpido.
- 
+
 Quando me aproximei da viúva e troquei com ela um olhar, senti uma comoção inexprimível. Estive alguns segundos sem desviar os olhos dos olhos da moça. Ela também não desviava os seus.
- 
+
 Tudo se preparava para que este encontro fosse decisivo da minha sorte: a noite era das mais adoráveis noites do Sul.
- 
+
 Conversou-se, tomou-se chá e à meia-noite fomos eu, o major e as filhas deste, acompanhar as visitas até a casa.
- 
+
 Diana (não quero dar-lhe outro nome) pareceu não ser indiferente aos sentimentos que me inspirou. Também ela parecia impressionada, comovida. Pela minha parte não sei se disse coisas acertadas naquela noite.
- 
+
 Daí para cá já a vi dez vezes, e sempre de noite. Imagine se a impressão produzida durante a noite podia enfraquecer; tem aumentado antes com força redobrada.
- 
+
 À quinta noite não me pude ter. Procurei um instante em que lhe pudesse falar a sós, e declarei-lhe indiretamente o que sentia por ela. Diana, ou respondesse do mesmo modo, ou fosse ilusão minha, o que é certo é que me disse algumas coisas indiretas assaz explícitas.
- 
+
 Olhe este espécime da nossa conversação:
- 
+
 Dizia eu:
- 
+
 — Quisera ser um coração viúvo.
- 
+
 — Por quê? perguntou ela.
- 
+
 — Porque os corações viúvos se consolam, respondi.
- 
+
 — Ah!
- 
+
 E suspirou.
- 
+
 É claro ou não?
- 
+
 Ah! eu creio que estou dizendo alguma extravagância, mas perdoa-me tu que sabes o que é amar, e conheces o meu coração nestas matérias.
- 
+
 O que te posso afiançar é que nunca amei como agora, nem mulher alguma se gabou ainda de possuir o meu coração como esta possui.
- 
+
 Quem dissera, meu Alberto, que vindo buscar uma fortuna e um segredo, levaria uma mulher, isto é, outro segredo e outra fortuna? Não estranhes a frase; estou disposto a casar com Diana, haja o que houver. É paixão doida...
- 
+
 Enfim o vapor está a partir, não posso demorar mais a carta. Adeus.
- 
+
 Dentro de poucos dias vou para Pelotas para ver se descubro que segredo é este de meu padrinho... Olha, se é alguma fortuna enterrada!
- 
+
 Talvez a felicidade me queira proteger agora de uma vez. Adeus.
 
 Um mês correu ainda entre esta carta e a terceira remetida por Luís ao amigo Alberto.
@@ -321,7 +321,7 @@ Qual era a significação do grito do rapaz?
 
 Era que o sonho que durante tantos dias criara e idealizara desfizera-se ali todo e de uma vez. Diana, a jovem, a bela, a sedutora mulher que tanto impressionara o advogado, era uma mulher amarela, sem beleza, sem mocidade; sem encanto algum. Todos os encantos dela eram artifícios comprados e aplicados diariamente com uma paciência de feia pretensiosa.
 
-Luís nunca a vira senão à noite, porque Diana, apesar dos artifícios, não queria expor-se à luz meridiana. Ainda assim pudera passar. Mas,  luz do dia, e sem os socorros da arte, caminhando em um jardim fechado, na plena confiança de quem não esperava àquela hora semelhante visita, não era feia, era horrenda!
+Luís nunca a vira senão à noite, porque Diana, apesar dos artifícios, não queria expor-se à luz meridiana. Ainda assim pudera passar. Mas, luz do dia, e sem os socorros da arte, caminhando em um jardim fechado, na plena confiança de quem não esperava àquela hora semelhante visita, não era feia, era horrenda!
 
 Calcula-se qual não seria o desencanto do rapaz. Aquele grito fora o grito do amor moribundo.
 
@@ -348,78 +348,78 @@ Não acabou a reflexão porque nesse momento apresentou-se-lhe o criado pergunta
 Tempos depois recebia Alberto na corte a terceira carta de Luís.
 
 Luís a Alberto.
- 
+
 — Esta carta há de chegar às tuas mãos poucos dias antes de mim. Estou em Porto Alegre em preparativos de viagem.
- 
+
 Podia guardar-me para contar-te de viva voz tudo o que me acontecesse depois da última que te escrevi (há um século?), mas prefiro dar-te já a grande notícia.
- 
+
 Naturalmente supões que vou chegar à corte casado com a bela Diana? Engano positivo; vou solteiro, como vim. E vou explicar-te a razão.
- 
+
 Tive ocasião de ver à luz do sol a mulher que eu só vira ao clarão da lua ou das velas da sala. Que abismo entre ambas! Passei do anjo ao dragão! A mulher era feia como um demônio; a noite e a tinta eram a solução daquela charada viva. Dei graças a Deus quando fiz a descoberta.
- 
+
 À vista te contarei mais detalhadamente o episódio desta descoberta, que só difere de Colombo em não ser de um novo mundo, mas de um velho mundo.
- 
+
 Desenganado dos meus amores, decidi partir para Pelotas.
- 
+
 Este episódio não é menos interessante. Ouve-me.
- 
+
 Cheguei a Pelotas e fui examinar a casa que há cinco anos não recebia um bocado de ar. Foram precisos alguns dias para que pudesse deixar entrar lá alguém.
- 
+
 Quando ficou em estado de receber-me, lá fui com o meu criado, e preparei tudo para proceder ao exame necessário.
- 
+
 Tive o cuidado de consultar as paredes para ver se eram ocas e podiam, portanto, encerrar alguma coisa que constituísse o segredo de que falava meu padrinho.
- 
+
 Nada.
- 
+
 Marquei um dia e começamos os nossos trabalhos.
- 
+
 Virei e revirei a casa. Comecei por escavar o chão, mas depois de pesados trabalhos consegui a certeza de que no chão não havia segredo de qualidade alguma.
- 
+
 Passei às paredes, porque, apesar do exame a que procedera de começo, podia haver algum ponto em que estivesse o tal segredo; mas qual!
- 
+
 Supus até que o segredo se achasse na parte da parede onde se achava pendurado um retrato a óleo de meu padrinho. Nada havia.
 Fui ao teto; fiz arrancar tábua por tábua, e depois de longos dias de exame nada encontrei.
- 
+
 Em resumo, nem as paredes, nem o chão, nem o teto, nem o quintal, em parte alguma encontrei o segredo de meu padrinho.
- 
+
 Então uma idéia dolorosa assaltou-me o espírito. Meu padrinho era excêntrico; ora, quem sabe se a maior excentricidade dele não seria a de me fazer procurar em vão um segredo imaginário, até convencer-me de que não valia a pena procurá-lo para receber um bocado de dinheiro?
- 
+
 Isto era muito provável e eu senti-me abalado com esta idéia.
- 
+
 Mas, passado o primeiro abalo, voltei de novo às minhas pesquisas. Esmerilhei, foi tudo vão.
- 
+
 Confesso que tive um acesso de matar-me.
- 
+
 Entretanto, era verdade; nada tinha encontrado; o segredo do meu padrinho fora uma brincadeira. Como ele se havia de rir naquele momento na eternidade!
- 
+
 Determinei voltar logo e logo para Porto Alegre, disposto a não receber nada e a voltar para a corte, a fim de começar de novo a vida de advogado.
- 
+
 Na ocasião em que arranjávamos as malas, vi que entre os objetos que o meu criado enrolava existia o retrato de meu padrinho.
- 
+
 — Para que trouxeste isso? perguntei eu.
- 
+
 — Eu mesmo não sei, disse o criado.
- 
+
 Tive então uma idéia, súbita.
- 
+
 Tomei o quadro das mãos do criado, e, com o auxilio de uma faca, destas de que usam os guascas, abri o quadro.
- 
+
 Caiu de dentro um papel dobrado.
- 
+
 Apanhei o papel com a mão trêmula.
- 
+
 Seria aquele o segredo?
- 
+
 Abri o papel e pude ler a custo as letras apagadas pelo tempo.
- 
+
 Queres saber o que dizia o papel?
- 
+
 Lê:
- 
+
 Conselho a meu afilhado. — Nunca te fies em aparências.
- 
+
 Se eu tivesse o segredo antes de ver Diana!...
- 
+
 Enfim estou hoje de posse de uma fortuna e de uma lição que me custaram alguma coisa.
- 
+
 Até breve!

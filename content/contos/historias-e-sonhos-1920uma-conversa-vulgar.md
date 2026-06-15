@@ -45,7 +45,7 @@ da sua aposentadoria no Tesouro. Florêncio disse-me logo, pela manhã,
 na segunda-feira:
 
 - Você, Bandeira, acompanha-me até o Tesouro, que quero ir
-com você até ao Pão de Açúcar, no tal bonde aéreo.
+  com você até ao Pão de Açúcar, no tal bonde aéreo.
 
 Sendo os primeiros dias do mês e eu não tendo faltado até ali,
 podia bem acompanhá-lo no passeio que premeditava.
@@ -90,7 +90,7 @@ dizendo:
 - Por que não vai para casa descansar um pouco?
 
 - "Seu" Florêncio, é longe... Aqui sempre faço os meus
-biscates...
+  biscates...
 
 - Bem. Tome lá, Ernesto.
 
@@ -120,12 +120,12 @@ disse:
 - Não se acredita.
 
 - Vou contar a você como ele o é. Quando Castanhal chegou
-aqui era simplesmente José da Silva. Homem tenaz, abriu, onde hoje
-é a luxuosa rua Gonçalves Dias, antiga dos Latoeiros, uma casa para
-vender leite em copos, em garrafas e lacticínios. Não havia dessas
-casas na cidade e logo foi a dele se afreguesando. Silva atendia à
-freguesia na sala; e no interior, para encher as garrafas, lavar os copos, cozinhar para ele e tratar da sua roupa, tinha uma preta com
-quem vivia amasiado.
+  aqui era simplesmente José da Silva. Homem tenaz, abriu, onde hoje
+  é a luxuosa rua Gonçalves Dias, antiga dos Latoeiros, uma casa para
+  vender leite em copos, em garrafas e lacticínios. Não havia dessas
+  casas na cidade e logo foi a dele se afreguesando. Silva atendia à
+  freguesia na sala; e no interior, para encher as garrafas, lavar os copos, cozinhar para ele e tratar da sua roupa, tinha uma preta com
+  quem vivia amasiado.
 
 Na rua Gonçalves Dias, canto da do Ouvidor,
 naquela época, vinham parar os bondes do Jardim Botânico, cujo título
@@ -144,23 +144,24 @@ não contei a você uma coisa.
 - Qual é?
 
 - O Silva e a crioula tiveram um filho e o mulatinho cresceu até
-aos cinco ou seis anos, na leiteria de Silva, conhecido dos fregueses
-como filho dele. Assim o conheci.
+  aos cinco ou seis anos, na leiteria de Silva, conhecido dos fregueses
+  como filho dele. Assim o conheci.
 
 Passaram-se cinco ou seis anos sem
 que eu soubesse do Silva, crioula e filho, quando, indo a Catumbi e
 passando na porta de uma estalagem, vejo aproximar-se de mim uma
 crioula que me tratava pelo nome. Disse-me que era a rapariga de
 José da Silva, em cuja casa de lacticínios me conheceu. Há três anos
+
 - é ela a falar - ele, o Silva, a abandonara, para casar-se
-convenientemente. Nada dera a ela nem ao filho; e a sua vida, com o
-pequeno Ernesto, havia sido até aquele dia um tormento de angústia
-e de misérias. Mandei que me procurasse em casa. Morava por esse
-tempo com minha mãe e irmãos na rua do Senado, numa casa de
-altos e baixos, com uma chácara que dava para o morro já
-desaparecido. Falei a minha mãe que a admitisse em casa ao que ela
-acedeu; e, por minha vez eu, que já estava na Marinha, consegui colocar o
-molecote no arsenal como aprendiz. Minha mãe morreu, etc., etc...
+  convenientemente. Nada dera a ela nem ao filho; e a sua vida, com o
+  pequeno Ernesto, havia sido até aquele dia um tormento de angústia
+  e de misérias. Mandei que me procurasse em casa. Morava por esse
+  tempo com minha mãe e irmãos na rua do Senado, numa casa de
+  altos e baixos, com uma chácara que dava para o morro já
+  desaparecido. Falei a minha mãe que a admitisse em casa ao que ela
+  acedeu; e, por minha vez eu, que já estava na Marinha, consegui colocar o
+  molecote no arsenal como aprendiz. Minha mãe morreu, etc., etc...
 
 O
 pequeno prosperou, aprendeu a ler, fez-se em breve oficial; e, quando
@@ -182,10 +183,10 @@ dou dinheiro.
 - Que pai!
 
 - Não há muito que censurá-lo. Hoje, não sei; mas, naquele
-tempo, essas ligações preliminares, intróito e prefácio do venerável
-casamento com bênção sacerdotal e sacramental da igreja, eram
-admitidas; e as suas rupturas simples, inflexíveis, assim como a do
-Silva com a mãe do Ernesto, não vexavam ninguém.
+  tempo, essas ligações preliminares, intróito e prefácio do venerável
+  casamento com bênção sacerdotal e sacramental da igreja, eram
+  admitidas; e as suas rupturas simples, inflexíveis, assim como a do
+  Silva com a mãe do Ernesto, não vexavam ninguém.
 
 Os futuros
 sogros, para dar o "sim" aos futuros genros, só admitiam uma coisa: e

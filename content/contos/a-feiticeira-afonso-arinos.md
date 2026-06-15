@@ -59,7 +59,8 @@ Grita na cidade:
 Viva o rei do Congo,
 Nossa majestade!
 
-		Viva!
+    	Viva!
+
 Viva Viva Viva
 Viva a majestade.
 

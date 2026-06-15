@@ -12,13 +12,13 @@ A informação acima será válida apenas para usos nos Estados Unidos — o que
 
 Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
 
-— Filhinha, seja boa e piedosa, e assim o bom Deus sempre te protegerá, e eu olharei por ti do céu e sempre estarei perto de ti.  Dito isto, ela fechou os seus olhos e morreu. Todos os dias a jovem visitava o túmulo de sua mãe e chorava, porém, ela permaneceu boa e piedosa. Quando chegou o inverno, a neve espalhou como que um lençol branco sobre o túmulo, e quando o sol da primavera se afastou novamente, o homem conheceu uma outra esposa.
+— Filhinha, seja boa e piedosa, e assim o bom Deus sempre te protegerá, e eu olharei por ti do céu e sempre estarei perto de ti. Dito isto, ela fechou os seus olhos e morreu. Todos os dias a jovem visitava o túmulo de sua mãe e chorava, porém, ela permaneceu boa e piedosa. Quando chegou o inverno, a neve espalhou como que um lençol branco sobre o túmulo, e quando o sol da primavera se afastou novamente, o homem conheceu uma outra esposa.
 
 A mulher trouxe consigo duas filhas para a casa com ela, que tinham um rosto lindo e eram muito belas, porém, tinham um coração malvado e negro. Começava agora um período ruim para a pobre criança adotiva.
 
 — Será que essa pata choca vai se sentar na sala conosco? diziam elas. Quem quer comer pão, deve trabalhar para consegui-lo; vai lá com a criada da cozinha. Elas tiraram as belas roupas que ela usava, vestiram-na com um camisolão velho e cinzento, e lhe calçaram os tamancos de madeira.
 
-— Olhem só a princesa orgulhosa, como ela está enfeitada!  elas gritavam, e riam, e a conduziram para a cozinha. Lá ela tinha de fazer o trabalho difícil desde manhã até a noite, levantar-se antes do sol raiar, carregar água, acender o fogo, cozinhar e lavar. Além disso, as irmãs a maltratavam de todas as formas possíveis — zombavam dela e derramavam todas as ervilhas e as lentilhas sobre a brasa, de modo que ela era forçada a sentar e a catar tudo de novo.
+— Olhem só a princesa orgulhosa, como ela está enfeitada! elas gritavam, e riam, e a conduziram para a cozinha. Lá ela tinha de fazer o trabalho difícil desde manhã até a noite, levantar-se antes do sol raiar, carregar água, acender o fogo, cozinhar e lavar. Além disso, as irmãs a maltratavam de todas as formas possíveis — zombavam dela e derramavam todas as ervilhas e as lentilhas sobre a brasa, de modo que ela era forçada a sentar e a catar tudo de novo.
 
 À noitinha, quando ela tinha trabalhado até se cansar, ela não tinha uma cama para dormir, mas tinha de dormir ao lado da lareira perto das cinzas. E por esse motivo ela estava sempre suja e empoeirada, e elas a chamavam de Cinderella. Aconteceu que um dia seu pai estava indo para a feira, e ele perguntou às suas duas filhas adotivas o que elas queriam que ele trouxesse para elas.
 
@@ -28,7 +28,7 @@ A mulher trouxe consigo duas filhas para a casa com ela, que tinham um rosto lin
 
 — E tu, Cinderella, disse ele, o que tu desejas?
 
-— Pai, traga para mim o primeiro galho de árvore que bater no seu chapéu ao voltar para casa.  Então ele comprou lindos vestidos, pérolas e joias para suas duas filhas adotivas, e ao retornar para casa, quando ele estava cavalgando através de um verde e denso matagal, um galho de um pé de avelã raspou nele e bateu no seu chapéu. Então ele quebrou o galho e o levou consigo. Quando ele chegou em casa, ele deu às suas duas filhas adotivas, as coisas que elas tinham pedido, e à Cinderella ele deu o galho do pé de avelã.
+— Pai, traga para mim o primeiro galho de árvore que bater no seu chapéu ao voltar para casa. Então ele comprou lindos vestidos, pérolas e joias para suas duas filhas adotivas, e ao retornar para casa, quando ele estava cavalgando através de um verde e denso matagal, um galho de um pé de avelã raspou nele e bateu no seu chapéu. Então ele quebrou o galho e o levou consigo. Quando ele chegou em casa, ele deu às suas duas filhas adotivas, as coisas que elas tinham pedido, e à Cinderella ele deu o galho do pé de avelã.
 
 Cinderella lhe agradeceu, foi até o túmulo de sua mãe e plantou o galho lá, e chorou tanto que as lágrimas caíram sobre ele e o regaram. Ele cresceu, contudo, e se tornou uma bela árvore. Três vezes por dia Cinderella ia e sentava debaixo da árvore, e chorava e orava, e um pequeno pássaro branco sempre vinha também na árvore, e se Cinderella expressava um desejo, o pássaro lançava para ela o que ela tinha desejado.
 
@@ -36,9 +36,9 @@ Um dia, porém, o rei anunciou que haveria uma festa, a qual haveria de durar tr
 
 — Penteie o nosso cabelo, engraxe os nossos sapatos e amarre os nossos cintos, pois estamos indo a uma festa no palácio do rei.
 
-Cinderella obedeceu, porém, chorou, porque ela também teria gostado de ir com elas para o baile, e implorou à sua madrasta que a deixasse ir. — Ires tu, Cinderella!  disse ela; — Estás suja e empoeirada, e queres ir à festa? Não tendes sapatos nem roupas, e ainda queres dançar! Mas como Cinderella continuasse insistindo, a madrasta disse afinal,
+Cinderella obedeceu, porém, chorou, porque ela também teria gostado de ir com elas para o baile, e implorou à sua madrasta que a deixasse ir. — Ires tu, Cinderella! disse ela; — Estás suja e empoeirada, e queres ir à festa? Não tendes sapatos nem roupas, e ainda queres dançar! Mas como Cinderella continuasse insistindo, a madrasta disse afinal,
 
-— Despejei um prato de lentilhas nas cinzas para ti, se conseguires catar todas elas em duas horas, tu irás conosco.  A jovem atravessou a porta dos fundos que dava para o jardim, e chamou, Oh, pombinhos bonzinhos, oh, rolinhas amorosas, e todas as aves que voam no céu, venham me ajudar
+— Despejei um prato de lentilhas nas cinzas para ti, se conseguires catar todas elas em duas horas, tu irás conosco. A jovem atravessou a porta dos fundos que dava para o jardim, e chamou, Oh, pombinhos bonzinhos, oh, rolinhas amorosas, e todas as aves que voam no céu, venham me ajudar
 
 As boas podem guardar
 
@@ -48,7 +48,7 @@ Então dois pombos brancos entraram pela janela da cozinha, e depois vieram as r
 
 Então a garota levou o prato de lentilhas para a sua madrasta, e ficou contente acreditando que agora a madrasta deixaria que ela as acompanhasse à festa. Mas a madrasta disse,
 
-— Se conseguires juntar para mim dois pratos de lentilhas das cinzas em uma hora, tu irá conosco.  E ela pensou consigo mesma, que ela com toda certeza não conseguiria.   Quando a madrasta esvaziou os dois pratos de lentilhas entre as cinzas, a donzela atravessou a porta dos fundos que dava para o jardim e gritou, Oh, pombinhos bonzinhos, oh, rolinhas amorosas, e todas as aves que voam no céu, venham me ajudar.
+— Se conseguires juntar para mim dois pratos de lentilhas das cinzas em uma hora, tu irá conosco. E ela pensou consigo mesma, que ela com toda certeza não conseguiria. Quando a madrasta esvaziou os dois pratos de lentilhas entre as cinzas, a donzela atravessou a porta dos fundos que dava para o jardim e gritou, Oh, pombinhos bonzinhos, oh, rolinhas amorosas, e todas as aves que voam no céu, venham me ajudar.
 
 As boas podem guardar
 
@@ -84,7 +84,7 @@ Então o pássaro lançou para ela um vestido mais lindo do que o dia anterior. 
 
 — Ela é a minha companheira. Quando a noite chegou ela quis sair, e o filho do rei a seguiu e queria ver em que casa ela tinha entrado.
 
-Mas ela escapou dele, e correu para o jardim que havia atrás da casa. Lá  ficava uma árvore bela e alta onde havia as peras mais maravilhosas. Ela subiu com tanta agilidade entre os galhos, como se fosse um esquilo, que o filho do rei não percebeu onde ela tinha ido. Ele esperou até que o pai dela chegasse, e disse-lhe, A estranha donzela fugiu de mim, e eu acho que ela subiu o pé de pera.  O pai dela pensou, Teria sido Cinderella? então ele pegou um machado e derrubou e destruiu a árvore, mas não havia ninguém nela. E quando eles chegaram à cozinha, Cinderella estava entre as cinzas, como sempre, pois ela tinha pulado do outro lado da árvore, tinha levado o lindo vestido para o pássaro que ficava no pequeno pé de avelãs, e vestiu o seu vestido cinzento.
+Mas ela escapou dele, e correu para o jardim que havia atrás da casa. Lá ficava uma árvore bela e alta onde havia as peras mais maravilhosas. Ela subiu com tanta agilidade entre os galhos, como se fosse um esquilo, que o filho do rei não percebeu onde ela tinha ido. Ele esperou até que o pai dela chegasse, e disse-lhe, A estranha donzela fugiu de mim, e eu acho que ela subiu o pé de pera. O pai dela pensou, Teria sido Cinderella? então ele pegou um machado e derrubou e destruiu a árvore, mas não havia ninguém nela. E quando eles chegaram à cozinha, Cinderella estava entre as cinzas, como sempre, pois ela tinha pulado do outro lado da árvore, tinha levado o lindo vestido para o pássaro que ficava no pequeno pé de avelãs, e vestiu o seu vestido cinzento.
 
 No terceiro dia, quando seus pais e suas irmãs já tinham ido para a festa, Cinderella foi mais uma vez ao túmulo de sua mãe e disse para a pequena árvore
 
@@ -100,7 +100,7 @@ Quando a noite chegou, Cinderella queria ir embora, e o filho do rei estava ansi
 
 Na manhã seguinte, ele levou o sapato para o seu pai, e disse para ele, — Ninguém será a minha esposa, exceto aquela cujo pé couber dentro destes sapatos de ouro.
 
-— Corte o dedão fora; quando fores a rainha não precisarás mais andar a pé.  A donzela cortou o dedão fora, forçou o pé dentro do sapato, engoliu a dor, e foi até o filho do rei. Então ele a levou em seu cavalo como sua noiva cavalgou para muito longe com ela. Contudo, eles foram obrigados a passar perto do túmulo, e lá, em cima do pé de avelãs, estavam dois pombos que gritavam,
+— Corte o dedão fora; quando fores a rainha não precisarás mais andar a pé. A donzela cortou o dedão fora, forçou o pé dentro do sapato, engoliu a dor, e foi até o filho do rei. Então ele a levou em seu cavalo como sua noiva cavalgou para muito longe com ela. Contudo, eles foram obrigados a passar perto do túmulo, e lá, em cima do pé de avelãs, estavam dois pombos que gritavam,
 
 Preste atenção, preste atenção,
 
@@ -124,7 +124,7 @@ A verdadeira noiva está te esperando.
 
 Ele olhos os pés dela e viu que sangue estava escorrendo de seu sapato, e que ele havia manchado as meias brancas dela. Então ele virou o seu cavalo e levou a falsa noiva novamente para casa. Esta também não é a verdadeira, disse ele, você não tem uma outra filha?
 
-— Não, disse o homem, — Há ainda uma pequena e raquítica ajudante de cozinha que a minha falecida esposa me deixou, mas possivelmente ela não poderá ser a noiva. O filho do rei exigiu que fosse chamá-la para que viesse até ele; mas a mãe respondeu, — Oh não, ela é muito suja, ela não pode se apresentar!  Ele voltou a insistir, e Cinderella teve de ser chamada.
+— Não, disse o homem, — Há ainda uma pequena e raquítica ajudante de cozinha que a minha falecida esposa me deixou, mas possivelmente ela não poderá ser a noiva. O filho do rei exigiu que fosse chamá-la para que viesse até ele; mas a mãe respondeu, — Oh não, ela é muito suja, ela não pode se apresentar! Ele voltou a insistir, e Cinderella teve de ser chamada.
 
 Ela lavou primeiro as suas mãos e o seu rosto, e depois foi e fez reverência diante do filho do rei, que ofereceu a ela o sapato de ouro. Então ela se sentou em um banquinho, e tirou de seus pés o pesado tamanco de madeira, e os colocou dentro do sapato, o qual entrou como uma luva. E quando ela se levantou e o filho do rei olhou para o rosto dela ele reconheceu a linda donzela que havia dançado com ele e gritou,
 

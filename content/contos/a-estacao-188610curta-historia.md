@@ -20,7 +20,7 @@ e um namorado. A desproporção era grande; mas
 explica-se pelo ardor com que ella amava aquelle
 unico namorado, Juvencio de tal. Note-se que elle
 não era bonito, nem affavel, era secco, andava com
-as pernas muito juntas, e com a cara no chão, procurando 
+as pernas muito juntas, e com a cara no chão, procurando
 alguma cousa. A linguagem delle era tal
 qual a pessoa, tambem secca, e tambem andando
 com os olhos no chão, uma linguagem que, para ser
@@ -60,7 +60,7 @@ si. Era melhor ouvir Romeo e olhar para elle...
 
 Cecilia era romanesca, e consolou-se depressa.
 Olhava para o panno, anciosa de o ver ergner-se.
-Uma prima, que ia com ella, chamar-lhe a attenção 
+Uma prima, que ia com ella, chamar-lhe a attenção
 para as toilettes elegantes, ou para as pessoas
 que iam entrando; mas Cecilia dava a tudo isso um
 olhar distrahido. Toda ella estava impaciente de
@@ -82,13 +82,13 @@ o que sabia, beben de longe as palavras eternamente
 bellas que iam cair dos labios de ambos.
 
 Foi o segundo acto que as trouxe; foi aquella
-scena immortal da janella que commoven até ás entranhas 
+scena immortal da janella que commoven até ás entranhas
 a pessoa de Cecilia. Ella ouvia as de Julieta,
 como se ella propria as dissesse; ouvia as de
 Romeo, como se Romeo fallasse a ella propria. Era
 Romeo que a amava. Ella era Cecilia on Julieta, ou
 qualquer outro nome, que aqui importava menos.
-que na peça. «Que importa nm nome?» perguntava 
+que na peça. «Que importa nm nome?» perguntava
 Julieta no drama; e Cecilia com os olhos em
 Romes parecia perguntar-lhe a mesma consa. Que
 importa que eu não seja a tua Julieta, sou a tua
@@ -107,7 +107,7 @@ entendendo tudo...
 
 Toda a peça foi para Cecilia um sonho. Ella
 viveu, amou, morreu com os namorados de Verona.
-E a figura de Romeo vinha com ella, viva e suspirando 
+E a figura de Romeo vinha com ella, viva e suspirando
 as mesmas palavras deliciosas. A prima, á
 salida, cuidava só da sahida. Olhava para os
 moços. Cecilia não olhava para ninguem, deixara
@@ -126,7 +126,7 @@ A manhã veiu com as suas cores vivas; o prestigio
 da noite passára um pouco, mas a commoção
 ficara ainda, a commoção da palavra divina. Nem
 se lembrou de mandar saber de Juvencio; a mãe é
-que mandou lá, como boa mãe, porque este Juvencio 
+que mandou lá, como boa mãe, porque este Juvencio
 tinha certo numero de apolices, que... Mandou
 saber; o rapaz estava bom; lá iria logo.
 

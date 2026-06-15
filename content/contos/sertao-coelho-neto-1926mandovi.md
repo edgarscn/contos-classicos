@@ -104,7 +104,7 @@ e continuou assobiando. Calou-se para chupar o cachimbo que se havia apagado de 
 
 – Han, diabo de rapariga... Depois a gente faz uma côsa e tá aí... porque andou virando a cabeça da muié dos ôtro, e mais isto e mais aquilo. Por causa disso memo é que acontece tanta desgraça neste mundo de Deus. A gente vai memo e tá aí. Atirou uma cusparada e, sacudindo a cabeça, exclamou: Quá! Casimiro não tá seguro. Aquela roxa é o diabo!
 
-De repente um grito silvou na mata. O cão estacou, de orelhas fitas. Mandovi deteve o andar, olhando. 
+De repente um grito silvou na mata. O cão estacou, de orelhas fitas. Mandovi deteve o andar, olhando.
 O luar, cada vez mais brilhante, cintilava na água rasa do córrego que seguia a par da estrada. O silêncio era grande, não bolia folha. O cão ladrou para a mata e seguiu farejando a poeira.
 
 Mandovi retomou a cantilena, mas não havia dado seis passos, quando, de novo, ouviu o grito agudo que, dessa vez, parecia dizer o seu nome, como se o chamasse "Mandovi!"
@@ -121,7 +121,7 @@ Depois de uma hesitação, o caboclo decidiu-se:
 
 O cão arremeteu, mas de repente, numa volta súbita, recuou ganindo, de orelhas murchas e, em corrida desabalada, veio atropelar o caboclo, esfregando-se-lhe nas pernas, com um choro covarde. Mandovi, com os cabelos espetados, furioso, atirou um pontapé, que apanhando o cão pela barriga, virou-o na estrada. O animal não fugiu e, apesar de repelido, tornou para junto do senhor de rasto, agachado, com a cauda encolhida.
 
-– Quá! resmungou Mandovi, isso não tá bom, não. Esse caminho tem cosa. Gente não é...  cachorro não foge de gente. Isso é cosa... E, parado, com os olhos enormes, o coração batendo precipitadamente, perscrutava as cercanias, quando, de novo, ouviu o grito agudo "Ma...andovi!" Estremeceu tão violentamente que o cajado quase lhe escapou da mão. "Nossa Senhora!" persignou-se e ficou preso à terra, agarrado ao solo como aquelas árvores frondosas que pareciam esconder o assombro.
+– Quá! resmungou Mandovi, isso não tá bom, não. Esse caminho tem cosa. Gente não é... cachorro não foge de gente. Isso é cosa... E, parado, com os olhos enormes, o coração batendo precipitadamente, perscrutava as cercanias, quando, de novo, ouviu o grito agudo "Ma...andovi!" Estremeceu tão violentamente que o cajado quase lhe escapou da mão. "Nossa Senhora!" persignou-se e ficou preso à terra, agarrado ao solo como aquelas árvores frondosas que pareciam esconder o assombro.
 
 Uma lembrança sinistra aumentou-lhe o pavor: "Eh! quem fala verdade é Jirimia..." Meteu a mão no bolso e, convencendo-se de que tinha o seu isqueiro, tranquilizou-se. "Ainda se for só mode pedir fogo... E a gente que não acredite..." Levantou os olhos – uma estrela cadente rastejou o espaço iluminado. "Deus te guie..."
 
@@ -253,9 +253,9 @@ Passavam justamente no sítio assombrado e Mandovi convenceu-se do que dissera o
 
 Apartaram-se. O negro seguiu pela estrada larga e alumiada e estendeu a voz:
 
-Sapateia, moreninha 
+Sapateia, moreninha
 Que ocê não bate no chão;
-Pode batê sem receio 
+Pode batê sem receio
 Que bate num coração
 
 – Eh! medo, bradou o Amaro, a rir; e Simeão, já longe, respondeu:

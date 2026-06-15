@@ -1,5 +1,5 @@
 ---
-title: "\"Tendresse\""
+title: '"Tendresse"'
 author: "Domínio Público"
 year: "Desconhecido"
 category: "Contos brasileiros"

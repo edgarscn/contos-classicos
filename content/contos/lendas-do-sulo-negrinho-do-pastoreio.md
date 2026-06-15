@@ -31,7 +31,7 @@ ponta de surrões cheios de onças e meias doblas
 o mais muita prataria; porem era muito cauila e
 muito máu, muito.
 
-Não dava pouzada a ninguem, não emprestava 
+Não dava pouzada a ninguem, não emprestava
 um cavallo a um andante; no inverno o
 fogo da sua caza não fazia brazas; as geadas e
 o minuano podiam entanguir gente, que a sua
@@ -43,7 +43,7 @@ Mas tambem quando tinha serviço na estancia,
 ninguem vinha de vontade dar-lhe um ajutorio;
 e a campeirada folheira não gostava de
 conchavar-se com elle, porque o homem só dava
-para comer um churrasco de tourito magro, farinha 
+para comer um churrasco de tourito magro, farinha
 grossa e herva cauna e nem nm naco de
 fumo... e tudo, debaixo de tanta somiticaría e
 choradeira, que parecia que era o seu proprio
@@ -52,8 +52,8 @@ couro que elle estava lonqueando...
 Só para tres viventes elle olhava nos olhos:
 era para o filho, menino cargozo como uma mosca,
 para um baio cabos negros, que era o seu
-parelheiro de confiança, e para um escravo, pequeno 
-ainda, muito bonitinho e preto como carvão 
+parelheiro de confiança, e para um escravo, pequeno
+ainda, muito bonitinho e preto como carvão
 e a quem todos chamavam sómente o — Negrinho.
 
 A este não deram padrinhos nem nome; por isso o Negrinho se dizia afilhado da Virgem, Senhora nossa, que é a madrinha de quem não a tem.

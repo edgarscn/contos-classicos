@@ -26,7 +26,7 @@ Como a velhinha falava de um modo tão gentil com ela, a garota tomou coragem e 
 
 Durante algum tempo ela ficou em companhia de Dona Ola, e depois ela começou a ficar triste. A princípio, ela não sabia qual era o problema que a aborrecia, mas aos poucos ela foi descobrindo que era saudade da sua casa: embora ela fosse mil vezes mais feliz aqui do que na sua casa, mesmo assim ela sentia uma grande vontade de estar lá. Por fim, ela acabou dizendo para a velhinha, "Estou com muita saudades de casa; e embora eu seja muito feliz aqui, não posso ficar mais; preciso voltar para a minha família."
 
-Dona Ola disse, "Fico feliz que você sinta saudade da tua casa, e como você me serviu com tanta dedicação, eu mesma vou te levar de volta." Dito isto, ela pegou a menina pela mão, e a levou até uma porta muito grande. A porta estava aberta, e assim que a donzela estava passando bem debaixo dela, uma pesada chuva de ouro começou a cair, e todo ouro ficava colado no corpo dela, até que ela ficou completamente coberta do  metal.
+Dona Ola disse, "Fico feliz que você sinta saudade da tua casa, e como você me serviu com tanta dedicação, eu mesma vou te levar de volta." Dito isto, ela pegou a menina pela mão, e a levou até uma porta muito grande. A porta estava aberta, e assim que a donzela estava passando bem debaixo dela, uma pesada chuva de ouro começou a cair, e todo ouro ficava colado no corpo dela, até que ela ficou completamente coberta do metal.
 
 "Tudo isso será teu porque você é muito esforçada," disse a Dona Ola; e ao mesmo tempo deu de volta a ela a bobina que ela havia deixado cair dentro do poço. E então a porta se fechou, e a pequena donzela se viu deitada no chão, não muito distante da casa da sua madrasta.
 

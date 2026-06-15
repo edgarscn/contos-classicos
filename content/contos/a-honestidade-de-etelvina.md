@@ -119,7 +119,7 @@ Esperei o gabinete vazio do Tavares, onde ninguêm nunca se lembrara de tomar ch
 
 — Calculista a rapariga!
 
-— Pensei exactamente assim. Ao pagar a conta a um criado que sorria, jurei profundo desprêzo por todas as mulheres e por aquela em particular. Estava envergonhado, humilhado, e temendo que alguêm desconfiasse da minha triste aventura, fui ao teatro, conversei nos bastidores, acabei por convidar os dois primeiros  cómicos para cear no Imperial uns pratos copiosos, regados a vinhos espêssos. Estávamos em meio da ceia, quando vieram chamar-me. Fora, numa tipóia, esperava por mim, uma senhora. Corri. Era Etelvina. Tinha os olhos vermelhos de chorar. — «Que é isso?» — «Entra!» — «Alguma desgraça. Viram-te?» O meu ódio desaparecia diante daquela dôr. — «Entra!» — «Mas que há?» — «Não posso falar aqui.» — «Para onde queres ir?» — «Para tua casa!» — «Não tenho casa.» — «Para o teu quarto, então.» — «Seja!» Dei a direcção. A tipóia rodou. Ela rompeu em chôro. — «Mas conta, rapariga. Se ninguêm morreu ainda, não há nada perdido. Que há?» Ela olhou-me: — «Gastão, deixei o Eusébio para sempre! Eu não sou mulher que engane o homem com quem está. Eusébio ama-me. Eu já não o amo. Seria entretanto indigna se o enganasse. Depois do seu beijo, ao voltar à casa, não tive mais coragem de o encarar.» — «Mas recusaste o beijo...» — «Sim. É porém superior às minhas fôrças. Não o posso ver. Lutei todo êste tempo em vão. Acabei por escrever-lhe uma carta, contando-lhe tudo! — «Tu fizeste isso?» —«Fiz, fui franca, disse-lhe que vinha para a tua companhia... Amanhã mandarei buscar as malas. Pronto! Esqueçamos ...»
+— Pensei exactamente assim. Ao pagar a conta a um criado que sorria, jurei profundo desprêzo por todas as mulheres e por aquela em particular. Estava envergonhado, humilhado, e temendo que alguêm desconfiasse da minha triste aventura, fui ao teatro, conversei nos bastidores, acabei por convidar os dois primeiros cómicos para cear no Imperial uns pratos copiosos, regados a vinhos espêssos. Estávamos em meio da ceia, quando vieram chamar-me. Fora, numa tipóia, esperava por mim, uma senhora. Corri. Era Etelvina. Tinha os olhos vermelhos de chorar. — «Que é isso?» — «Entra!» — «Alguma desgraça. Viram-te?» O meu ódio desaparecia diante daquela dôr. — «Entra!» — «Mas que há?» — «Não posso falar aqui.» — «Para onde queres ir?» — «Para tua casa!» — «Não tenho casa.» — «Para o teu quarto, então.» — «Seja!» Dei a direcção. A tipóia rodou. Ela rompeu em chôro. — «Mas conta, rapariga. Se ninguêm morreu ainda, não há nada perdido. Que há?» Ela olhou-me: — «Gastão, deixei o Eusébio para sempre! Eu não sou mulher que engane o homem com quem está. Eusébio ama-me. Eu já não o amo. Seria entretanto indigna se o enganasse. Depois do seu beijo, ao voltar à casa, não tive mais coragem de o encarar.» — «Mas recusaste o beijo...» — «Sim. É porém superior às minhas fôrças. Não o posso ver. Lutei todo êste tempo em vão. Acabei por escrever-lhe uma carta, contando-lhe tudo! — «Tu fizeste isso?» —«Fiz, fui franca, disse-lhe que vinha para a tua companhia... Amanhã mandarei buscar as malas. Pronto! Esqueçamos ...»
 
 Passou o lenço nos olhos, alisou os cabelos, como quem volta de uma dôr tremenda. — «E tua filha», indaguei atónito. — «Fica com o Eusébio. Se não a quiser, mando-a a viver com a mãe na minha casa do Lumiar, onde estão os outros». — «E o Eusébio?» [ — «]Acabou!...» Encolhido no fundo da tipóia eu não pensava, sentia apenas um Vago horror, uma incompreensão dolorosa. Ela continuou: — «A não ser que a tua simpatia fôsse brincadeira e que receies alguma coisa... — «Eu não receio nada!» — «Nêsse caso, tratarei só da minha vida...»
 
@@ -140,13 +140,13 @@ A porta fechou-se. Enquanto subíamos as escadas, íamos
 como pisando nos ais do pobre homem em baixo. — «Etelvina!
 Etelvina!» gania a criatura. Agarrada a mim, na treva, Etelvina
 tinha as mãos de gêlo. Desgraçadamente tenho visto comigo, que
-não sou melhor nem pior que os outros homens, o efeito desastroso 
-do choque dos preconceitos sociais sôbre a nossa animalidade. 
+não sou melhor nem pior que os outros homens, o efeito desastroso
+do choque dos preconceitos sociais sôbre a nossa animalidade.
 Eu era abjecto. Aquela criatura que se agarrava a mim
-era refinadamente miserável. Abandonara a filha, deixara um homem 
+era refinadamente miserável. Abandonara a filha, deixara um homem
 a soluçar, por outro a quem não podia ainda amar e que
 ainda não a amava. E apesar de tudo, talvez por tudo, o desejo
-como uma alucinação queimava-nos. No meu quarto era impossível falar. 
+como uma alucinação queimava-nos. No meu quarto era impossível falar.
 A vizinhança protestaria. Se tivéssemos falado, talvez
 nos contivéssemos. As palavras fizeram-se para desvirtuar a
 vida... Calados, ela tremia, eu tremia. Rolámos no leito. Foi a
@@ -160,11 +160,11 @@ idade em que os homens tanto se importam com a psicologia das
 mulheres como com a sua certidão de idade. Também não era
 amor. Fiquei simplesmente porque ela se fazia carinho, ternura,
 o dia inteiro. Fiquei por sensualidade. Nunca lhe vi os filhos e a
-mãe. Ela achava inútil. Nunca perguntei quantos anos tinha. Obedecia-me 
+mãe. Ela achava inútil. Nunca perguntei quantos anos tinha. Obedecia-me
 de tal modo que eu era muito mais Velho sempre. E
 quanto à ordem, à dedicação — que dona de casa e que esposa!
-Falava pouco. Nunca me fez uma scena. Eu era o seu Deus. Esperava-me  quando mandava que esperasse; dormia quando não
-lhe dizia nada. Macia, silenciosa, boa. Para comprar-lhe um vestido, 
+Falava pouco. Nunca me fez uma scena. Eu era o seu Deus. Esperava-me quando mandava que esperasse; dormia quando não
+lhe dizia nada. Macia, silenciosa, boa. Para comprar-lhe um vestido,
 tinha de zangar-me. Ela própria os transformava. Fazíamos
 economias. Dei-lhe certa Vez um anel. Pois chorou!...
 
@@ -172,12 +172,12 @@ economias. Dei-lhe certa Vez um anel. Pois chorou!...
 
 — Ah! é verdade! O Eusébio... Enquanto existiu, manteve
 na nossa união um ar de delírio. Imagine você que o Eusébio ia
-para o teatro com a pequena. O teatro inteiro censurava Etelvina. 
-Etelvina amimava a filha como se amima a filha de um conhecido, 
-e não falava ao Eusébio. Levava de capricho. O pobre diabo 
+para o teatro com a pequena. O teatro inteiro censurava Etelvina.
+Etelvina amimava a filha como se amima a filha de um conhecido,
+e não falava ao Eusébio. Levava de capricho. O pobre diabo
 exibia de mais a desgraça. Deu mesmo para o fim em ir cear
 com a pequena, que poderia ter nêsse tempo pouco mais de um
-ano. Ficava bêbedo debruçado sobre as mesas, enquanto a criancinha 
+ano. Ficava bêbedo debruçado sobre as mesas, enquanto a criancinha
 dormia nas banquetas. Um horror!
 
 — Isso não os envergonhava?
@@ -185,13 +185,13 @@ dormia nas banquetas. Um horror!
 Exasperava-nos. Era uma raiva... Quando o Eusébio, doente
 do peito, subiu para a Serra da Estrêla, deixando a filha com a
 avó, é que notei a normalização da nossa vida. Acordávamos
-tarde. Almoçávamos. Ela saía para o ensaio. Eu às vezes ia levá-la. 
-De outras ia conversar aos cafés. Voltávamos a jantar. Ríamos, 
+tarde. Almoçávamos. Ela saía para o ensaio. Eu às vezes ia levá-la.
+De outras ia conversar aos cafés. Voltávamos a jantar. Ríamos,
 contávamo-nos mutuamente o nosso dia. Era bom. Depois
 ela ia para o teatro e eu aparecia a buscá-la, indo mesmo cear
 com camaradas. Passámos assim ano e meio. Devia ser por toda
 a vida! Ao cabo dessa maravilha de temporada, recebi uma carta
-anónima, assegurando que Etelvina 
+anónima, assegurando que Etelvina
 entrava em francos colóquios
 com um jovem cómico, o Justino.
 
@@ -202,15 +202,15 @@ Esta página contém uma imagem. É necessário extraí-la e inserir o novo arqu
 — Não sei se era verdade. No
 momento perdi a cabeça, lembrei
 o Eusébio, a minha felicidade.
-Corri ao teatro. A um canto Etelvina 
+Corri ao teatro. A um canto Etelvina
 justamente conversava com
 o Justino. Atirei-me vomitando
-impropérios e ali mesmo espanquei 
+impropérios e ali mesmo espanquei
 o cómico. Houve pânico,
 gritaria, sangue, portas fechadas. Toda a companhia berrava,
-ameaçando-me. Eu sacudia furioso a bengala. Só Etelvina, branca 
+ameaçando-me. Eu sacudia furioso a bengala. Só Etelvina, branca
 e impassível, assistia à scena. Fiquei louco de ira. Agarreia-a
-pelo braço, levei-a aos encontrões até à rua, atirei-a num trem que passava, e, durante a corrida, insultei-a. Insultei-a de desespêro, 
+pelo braço, levei-a aos encontrões até à rua, atirei-a num trem que passava, e, durante a corrida, insultei-a. Insultei-a de desespêro,
 porque ela sem dizer palavra, olhava fixamente a ponta dos
 botins, distante de mim, cada vez mais distante à proporção que
 os meus insultos cresciam.
@@ -226,7 +226,7 @@ e chorar!», pensei. Mas quando cheguei acima, Etelvina estava
 — «Sabes bem que não faço scenas.
 
 Tomei apenas uma resolução irrevogável».
-— «Qual?» — «Parto !»— «Estás 
+— «Qual?» — «Parto !»— «Estás
 louca.» — «Cometeste um acto
 indigno. Desmoralizaste-me diante da
 companhia». — «Minha querida, nada
@@ -235,11 +235,11 @@ dava que falar até aos anónimos. 0lha
 esta carta! Conheço-te». — «Deves
 pois saber que não é meu costume
 enganar o homem com quem vivo.
-Quando a harmonia cessa — desapareço». 
+Quando a harmonia cessa — desapareço».
 — «Olha que eu não sou o
 Eusébio.» —«Não, porque o Eusébio nunca me insultou!» —
 «Etelvina, não me enfuries!» —«Farei o possível. O senhor
-duvida de mim; o senhor espancou um pobre rapaz; o senhor 
+duvida de mim; o senhor espancou um pobre rapaz; o senhor
 insultou-me, dando-me nêsse tremendo escândalo como
 amante de outro. Não podemos viver juntos, para a sua própria
 dignidade. Seja feliz!» — «Vais ter com êle, como fizeste comigo
@@ -249,8 +249,8 @@ Vou de aqui para a casa de minha mãe». Dei uma gargalhada de
 desafio : — «Pois até à vista!» — «Adeus, Gastão...»
 
 Ao vê-la sair, esperei um instante, por orgulho, por vaidade.
-Depois, sentindo o desastre, atirei-me com vontade de espancá-la, 
-de pedir-lhe perdão e ao mesmo tempo certo do irremediável. 
+Depois, sentindo o desastre, atirei-me com vontade de espancá-la,
+de pedir-lhe perdão e ao mesmo tempo certo do irremediável.
 Desci, chamei. Já não estava. Corri ao Lumiar, à casa onde
 tinha a mãe. Não aparecera. Fui ao teatro, sem saber o que ia
 fazer. Etelvina representava. A minha entrada tinha sido proibida
