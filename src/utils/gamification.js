@@ -273,23 +273,12 @@ export const isFavorite = slug => {
   return !!(stats.favorites && stats.favorites.includes(slug))
 }
 
-// Get average rating and vote count for a story (dynamic local stats + base ratings)
+// Get average rating and vote count for a story (only actual user ratings)
 export const getAverageRating = slug => {
   if (!slug) return { average: 0, totalVotes: 0 }
 
-  // 1. Get deterministic base rating based on slug hash
-  let hash = 0
-  for (let i = 0; i < slug.length; i++) {
-    hash = slug.charCodeAt(i) + ((hash << 5) - hash)
-  }
-
-  // Base rating between 4.1 and 4.9 (highly rated classics)
-  const baseRating = parseFloat((Math.abs(hash % 9) / 10 + 4.1).toFixed(1))
-  // Base votes count between 60 and 460
-  const baseVotes = Math.abs(hash % 400) + 60
-
-  let totalSum = baseRating * baseVotes
-  let totalCount = baseVotes
+  let totalSum = 0
+  let totalCount = 0
 
   // 2. Add local storage accounts ratings
   if (typeof window !== "undefined") {
@@ -328,10 +317,13 @@ export const getAverageRating = slug => {
     }
   }
 
+  if (totalCount === 0) {
+    return { average: 0, totalVotes: 0 }
+  }
+
   const average = parseFloat((totalSum / totalCount).toFixed(1))
   return {
     average,
     totalVotes: totalCount,
   }
 }
-
