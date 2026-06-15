@@ -9,10 +9,12 @@ import {
   isFavorite,
   rateStory,
   getRating,
+  getAverageRating,
 } from "../utils/gamification"
 import { getAuthorBio } from "../utils/authorMetadata"
 import { getComments, addComment, voteComment } from "../utils/comments"
 import { getCurrentUser } from "../utils/auth"
+import StoryCard from "../components/StoryCard"
 
 const StoryTemplate = ({ data }) => {
   const story = data.markdownRemark
@@ -23,6 +25,10 @@ const StoryTemplate = ({ data }) => {
   const [currentUser, setCurrentUser] = useState(null)
   const [favorited, setFavorited] = useState(false)
   const [rating, setRating] = useState(0)
+  const [avgRatingInfo, setAvgRatingInfo] = useState({
+    average: 0,
+    totalVotes: 0,
+  })
   const [comments, setComments] = useState([])
   const [newCommentText, setNewCommentText] = useState("")
   const [replyingTo, setReplyingTo] = useState(null)
@@ -31,6 +37,59 @@ const StoryTemplate = ({ data }) => {
 
   const observerRef = useRef(null)
   const isCompletedRef = useRef(false)
+
+  // Mulberry32 generator for seeded pseudo-random numbers
+  const mulberry32 = a => {
+    return function () {
+      let t = (a += 0x6d2b79f5)
+      t = Math.imul(t ^ (t >>> 15), t | 1)
+      t ^= t + Math.imul(t ^ (t >>> 7), t | 61)
+      return ((t ^ (t >>> 14)) >>> 0) / 4294967296
+    }
+  }
+
+  // Seeded shuffle helper
+  const seededShuffle = (array, seed) => {
+    let hash = 0
+    for (let i = 0; i < seed.length; i++) {
+      hash = seed.charCodeAt(i) + ((hash << 5) - hash)
+    }
+    const rand = mulberry32(Math.abs(hash))
+    const shuffled = [...array]
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(rand() * (i + 1))
+      ;[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
+    }
+    return shuffled
+  }
+
+  // Get 3 smart recommendations
+  const getSuggestions = () => {
+    if (!data || !data.allMarkdownRemark) return []
+    const allStories = data.allMarkdownRemark.nodes
+    const currentSlug = story.frontmatter.slug
+    const otherStories = allStories.filter(
+      s => s.frontmatter.slug !== currentSlug
+    )
+
+    // Sort stories: same category first, same author second, other stories last
+    const sorted = [...otherStories].sort((a, b) => {
+      const catA = a.frontmatter.category === story.frontmatter.category ? 1 : 0
+      const catB = b.frontmatter.category === story.frontmatter.category ? 1 : 0
+      if (catA !== catB) return catB - catA // same category first
+
+      const autA = a.frontmatter.author === story.frontmatter.author ? 1 : 0
+      const autB = b.frontmatter.author === story.frontmatter.author ? 1 : 0
+      return autB - autA // same author second
+    })
+
+    // Seeded shuffle top 8 related stories to give variety, then pick top 3
+    const pool = sorted.slice(0, 8)
+    const shuffledPool = seededShuffle(pool, currentSlug)
+    return shuffledPool.slice(0, 3)
+  }
+
+  const suggestions = getSuggestions()
 
   // Track reading progress bar
   useEffect(() => {
@@ -53,6 +112,7 @@ const StoryTemplate = ({ data }) => {
       const slug = story.frontmatter.slug
       setFavorited(isFavorite(slug))
       setRating(getRating(slug))
+      setAvgRatingInfo(getAverageRating(slug))
       setComments(
         getComments(slug, story.frontmatter.author, story.frontmatter.title)
       )
@@ -172,6 +232,7 @@ const StoryTemplate = ({ data }) => {
     const slug = story.frontmatter.slug
     rateStory(slug, stars)
     setRating(stars)
+    setAvgRatingInfo(getAverageRating(slug))
 
     window.dispatchEvent(
       new CustomEvent("badge_unlocked", {
@@ -571,6 +632,25 @@ const StoryTemplate = ({ data }) => {
               <h1 className="story-title">{story.frontmatter.title}</h1>
               <div className="story-meta">
                 por {story.frontmatter.author} &bull; {story.frontmatter.year}
+                {avgRatingInfo.average > 0 && (
+                  <>
+                    {" "}
+                    &bull;{" "}
+                    <span
+                      style={{
+                        color: "#eab308",
+                        fontWeight: 700,
+                        display: "inline-flex",
+                        alignItems: "center",
+                        gap: "0.15rem",
+                      }}
+                      title={`${avgRatingInfo.totalVotes} avaliações`}
+                    >
+                      ★ {avgRatingInfo.average.toFixed(1)} (
+                      {avgRatingInfo.totalVotes} avaliações)
+                    </span>
+                  </>
+                )}
               </div>
               <div className="divider"></div>
 
@@ -760,6 +840,45 @@ const StoryTemplate = ({ data }) => {
           </article>
         </div>
 
+        {/* Recommended stories suggestions */}
+        {suggestions.length > 0 && (
+          <div className="reader-container" style={{ marginTop: "2.5rem" }}>
+            <h3
+              style={{
+                fontFamily: "var(--font-serif)",
+                fontWeight: 700,
+                fontSize: "1.4rem",
+                marginBottom: "1.25rem",
+                borderBottom: "1px solid var(--border)",
+                paddingBottom: "0.5rem",
+                textAlign: "left",
+              }}
+            >
+              📖 Sugestões de Leitura
+            </h3>
+            <div
+              style={{
+                display: "grid",
+                gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
+                gap: "1.25rem",
+                width: "100%",
+              }}
+            >
+              {suggestions.map(node => (
+                <StoryCard
+                  key={node.id}
+                  title={node.frontmatter.title}
+                  author={node.frontmatter.author}
+                  year={node.frontmatter.year}
+                  category={node.frontmatter.category}
+                  slug={node.frontmatter.slug}
+                  excerpt={node.excerpt}
+                />
+              ))}
+            </div>
+          </div>
+        )}
+
         {/* Reddit-style comments section */}
         <div className="reader-container" style={{ marginTop: "2rem" }}>
           <div className="card" style={{ padding: "2rem 1.5rem" }}>
@@ -860,6 +979,20 @@ export const query = graphql`
         year
         category
         slug
+      }
+    }
+    allMarkdownRemark {
+      nodes {
+        id
+        timeToRead
+        frontmatter {
+          title
+          author
+          year
+          category
+          slug
+        }
+        excerpt(pruneLength: 120)
       }
     }
   }

@@ -3,7 +3,7 @@ import { useState, useEffect } from "react"
 import { graphql, Link } from "gatsby"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
-import { getStats } from "../utils/gamification"
+import { getStats, getAverageRating } from "../utils/gamification"
 import { getCurrentUser } from "../utils/auth"
 
 // PRNG Generator (Mulberry32)
@@ -70,6 +70,9 @@ const IndexPage = ({ data }) => {
     }
     setLoading(false)
   }, [data])
+  const dailyRatingInfo = dailyStory
+    ? getAverageRating(dailyStory.frontmatter.slug)
+    : null
 
   return (
     <Layout>
@@ -137,7 +140,7 @@ const IndexPage = ({ data }) => {
                 style={{
                   display: "flex",
                   justifyContent: "space-between",
-                  alignItems: "baseline",
+                  alignItems: "center",
                   marginBottom: "0.5rem",
                 }}
               >
@@ -151,11 +154,39 @@ const IndexPage = ({ data }) => {
                 >
                   Estrela do Dia 🌟
                 </span>
-                <span
-                  style={{ fontSize: "0.85rem", opacity: 0.6, fontWeight: 500 }}
+                <div
+                  style={{
+                    display: "flex",
+                    alignItems: "center",
+                    gap: "0.5rem",
+                  }}
                 >
-                  {dailyStory.frontmatter.year}
-                </span>
+                  {dailyRatingInfo && dailyRatingInfo.average > 0 && (
+                    <span
+                      style={{
+                        fontSize: "0.85rem",
+                        color: "#eab308",
+                        fontWeight: 700,
+                        display: "inline-flex",
+                        alignItems: "center",
+                        gap: "0.15rem",
+                      }}
+                      title={`${dailyRatingInfo.totalVotes} avaliações`}
+                    >
+                      ★ {dailyRatingInfo.average.toFixed(1)} (
+                      {dailyRatingInfo.totalVotes})
+                    </span>
+                  )}
+                  <span
+                    style={{
+                      fontSize: "0.85rem",
+                      opacity: 0.6,
+                      fontWeight: 500,
+                    }}
+                  >
+                    {dailyStory.frontmatter.year}
+                  </span>
+                </div>
               </div>
 
               <h1
@@ -259,16 +290,48 @@ const IndexPage = ({ data }) => {
                     }}
                   >
                     <div style={{ flexGrow: 1, minWidth: "250px" }}>
-                      <span
-                        className="badge"
+                      <div
                         style={{
-                          fontSize: "0.7rem",
-                          padding: "0.2rem 0.5rem",
+                          display: "flex",
+                          alignItems: "center",
+                          gap: "0.5rem",
                           marginBottom: "0.4rem",
                         }}
                       >
-                        {story.frontmatter.category}
-                      </span>
+                        <span
+                          className="badge"
+                          style={{
+                            fontSize: "0.7rem",
+                            padding: "0.2rem 0.5rem",
+                            margin: 0,
+                          }}
+                        >
+                          {story.frontmatter.category}
+                        </span>
+                        {(() => {
+                          const ratingInfo = getAverageRating(
+                            story.frontmatter.slug
+                          )
+                          return ratingInfo.average > 0 ? (
+                            <span
+                              style={{
+                                fontSize: "0.8rem",
+                                color: "#eab308",
+                                fontWeight: 700,
+                                display: "inline-flex",
+                                alignItems: "center",
+                                gap: "0.15rem",
+                              }}
+                              title={`${ratingInfo.totalVotes} avaliações`}
+                            >
+                              ★ {ratingInfo.average.toFixed(1)}
+                            </span>
+                          ) : null
+                        })()}
+                        <span style={{ fontSize: "0.8rem", opacity: 0.5 }}>
+                          &bull; {story.frontmatter.year}
+                        </span>
+                      </div>
                       <h4
                         style={{
                           margin: 0,

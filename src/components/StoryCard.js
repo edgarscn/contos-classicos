@@ -1,7 +1,14 @@
-import React from "react"
+import React, { useState, useEffect } from "react"
 import { Link } from "gatsby"
+import { getAverageRating } from "../utils/gamification"
 
 const StoryCard = ({ title, author, year, category, slug, excerpt }) => {
+  const [ratingInfo, setRatingInfo] = useState({ average: 0, totalVotes: 0 })
+
+  useEffect(() => {
+    setRatingInfo(getAverageRating(slug))
+  }, [slug])
+
   // Truncate excerpt to avoid very long cards
   const truncatedExcerpt =
     excerpt && excerpt.length > 180
@@ -17,7 +24,7 @@ const StoryCard = ({ title, author, year, category, slug, excerpt }) => {
         style={{
           display: "flex",
           justifyContent: "space-between",
-          alignItems: "flex-start",
+          alignItems: "center",
           marginBottom: "0.5rem",
         }}
       >
@@ -31,9 +38,26 @@ const StoryCard = ({ title, author, year, category, slug, excerpt }) => {
         >
           {category}
         </span>
-        <span style={{ fontSize: "0.85rem", opacity: 0.6, fontWeight: 500 }}>
-          {year}
-        </span>
+        <div style={{ display: "flex", alignItems: "center", gap: "0.4rem" }}>
+          {ratingInfo.average > 0 && (
+            <span
+              style={{
+                fontSize: "0.85rem",
+                color: "#eab308",
+                fontWeight: 700,
+                display: "inline-flex",
+                alignItems: "center",
+                gap: "0.15rem",
+              }}
+              title={`${ratingInfo.totalVotes} avaliações`}
+            >
+              ★ {ratingInfo.average.toFixed(1)}
+            </span>
+          )}
+          <span style={{ fontSize: "0.85rem", opacity: 0.6, fontWeight: 500 }}>
+            {year}
+          </span>
+        </div>
       </div>
 
       <h3

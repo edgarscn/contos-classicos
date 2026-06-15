@@ -272,3 +272,66 @@ export const isFavorite = slug => {
   const stats = getStats()
   return !!(stats.favorites && stats.favorites.includes(slug))
 }
+
+// Get average rating and vote count for a story (dynamic local stats + base ratings)
+export const getAverageRating = slug => {
+  if (!slug) return { average: 0, totalVotes: 0 }
+
+  // 1. Get deterministic base rating based on slug hash
+  let hash = 0
+  for (let i = 0; i < slug.length; i++) {
+    hash = slug.charCodeAt(i) + ((hash << 5) - hash)
+  }
+
+  // Base rating between 4.1 and 4.9 (highly rated classics)
+  const baseRating = parseFloat((Math.abs(hash % 9) / 10 + 4.1).toFixed(1))
+  // Base votes count between 60 and 460
+  const baseVotes = Math.abs(hash % 400) + 60
+
+  let totalSum = baseRating * baseVotes
+  let totalCount = baseVotes
+
+  // 2. Add local storage accounts ratings
+  if (typeof window !== "undefined") {
+    try {
+      // Direct localStorage access to avoid circular dependency import from auth.js
+      const accountsData = localStorage.getItem("10pages_accounts")
+      const accounts = accountsData ? JSON.parse(accountsData) : {}
+
+      Object.keys(accounts).forEach(username => {
+        const statsStr = localStorage.getItem(
+          `reading_stats_${username.toLowerCase()}`
+        )
+        if (statsStr) {
+          const stats = JSON.parse(statsStr)
+          if (stats && stats.ratings && stats.ratings[slug]) {
+            totalSum += stats.ratings[slug]
+            totalCount += 1
+          }
+        }
+      })
+
+      // Also check guest user rating if not logged in
+      const currentSession = localStorage.getItem("10pages_current_user")
+      if (!currentSession) {
+        const statsStr = localStorage.getItem("reading_stats")
+        if (statsStr) {
+          const stats = JSON.parse(statsStr)
+          if (stats && stats.ratings && stats.ratings[slug]) {
+            totalSum += stats.ratings[slug]
+            totalCount += 1
+          }
+        }
+      }
+    } catch (e) {
+      console.error("Error computing average rating from storage", e)
+    }
+  }
+
+  const average = parseFloat((totalSum / totalCount).toFixed(1))
+  return {
+    average,
+    totalVotes: totalCount,
+  }
+}
+
