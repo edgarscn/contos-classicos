@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "os-musicos-de-bremen"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 — Lá, ele pensou, — poderei ser músico na cidade. Quando ele tinha caminhado uma certa distância, ele encontrou um cachorro deitado na estrada, abrindo a boca como alguém que houvesse corrido tanto que estava cansado.
 
 — Porque estás assim tão cansado?, meu grande amigo?, perguntou o burro.

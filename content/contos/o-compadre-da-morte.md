@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-compadre-da-morte"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Eu irei segurar a criança durante o batismo, e irei cuidar dela e a farei feliz enquanto viver." O homem disse, "Quem você é?" "Eu sou Deus." "Então, eu não quero tê-lo como padrinho," disse o homem; "o senhor favorece os ricos, e deixa que os pobres passem fome." Assim disse o homem, porque ele não conhecia a sabedoria com que Deus reparte a riqueza e a pobreza. Então, ele saiu de perto do Senhor, e foi embora.
 
 Então, o diabo chegou perto dele e disse, "O que você está procurando? Se você me aceitar como padrinho do teu filho, eu darei a ele ouro e fartura e todas as alegrias do mundo também." O homem perguntou, "Quem você é?" "Eu sou o Filho do Cão." "Então, eu não quero tê-lo como padrinho," disse o homem; "você engana as pessoas e as leva para o mau caminho." Ele continuou andando, e em seguida veio a morte caminhando em direção a ele com as pernas atrofiadas e foi logo dizendo, "Aceite-me como seu padrinho."

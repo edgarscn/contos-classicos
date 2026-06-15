@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "a-buzina"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 Quando o Pulcherio entrou para o serviço do dr. Borges Bastos, com as funções de "chaffeur" viu, logo, que, mais cedo, ou mais tarde, ficaria comprometido: a Maria Luíza, mulata escura, cria da casa, era uma verdadeira tentação, com aquele corpo coleante e, sobretudo, com aquele colo atrevido, que era um desafio permanente à instintiva brutalidade dos homens.
 
 Maria Luíza sabia o valor desses atributos, e procurava, sempre, pô-los em destaque. E tanto sabia, que, à tarde, antes do doutor voltar para casa, no automóvel, desabotoava o corpilho, atirava-o para o canto, deixando que o busto se manifestasse livre, farto, opulento, balouçando sob a camisinha leve, que tinha, por cima, a blusinha de cassa ordinária.

@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "irmao-lustig"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 O Irmão Lustig respondeu, "Meu pobre mendigo, o que tenho para te dar? Toda vida lutei na guerra, e agora fui demitido, e nada recebi como recompensa além deste pedaço de pão, e quatro cruzados de prata; quando isso acabar, terei de mendigar assim como você. Mesmo assim faço questão de te oferecer alguma coisa." Então ele pegou o pão e o dividiu em quatro pedaços, e ofereceu uma parte para o apóstolo de Jesus, além de uma moeda de prata. São Pedro lhe agradeceu, e seguiu andando, e pouco depois, se colocou novamente no caminho do soldado como pedinte, porém se utilizando de outro disfarce; e quando o militar apareceu, ele lhe pediu uma esmola assim como antes.
 
 O Irmão Lustig disse o que havia dito anteriormente, e novamente lhe ofereceu a quarta parte do seu pão e um cruzado de prata. São Pedro lhe agradeceu, e seguiu seu caminho, e pela terceira vez se disfarçou novamente como mendigo de rua, e falou para o Irmão Lustig. O Irmão Lustig deu-lhe também a terceira parte de seu pão e o terceiro cruzado de prata. São Pedro lhe agradeceu, e o Irmão Lustig continuou em frente, e tinha apenas um segundo quarto do pão, e um cruzado de prata. Levando consigo somente o que lhe restava, ele entrou numa estalagem, comeu o pedaço de pão, e pediu o equivalente a um cruzado de prata de cerveja.

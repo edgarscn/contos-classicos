@@ -119,9 +119,3 @@ Que impressão a sua, quando lhe tiraram a venda dos olhos ! Não se cansava de
 E lá voltou para a terra dos verdes mares onde canta a jandaia. Voltou a nado — nadando em felicidade. A filha, a filha !...
 
 — Eu não dizia? Eu não dizia que se encontrasse o meu capitão até a luz dos olhos me haveria de voltar ?
-
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)

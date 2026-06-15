@@ -227,5 +227,3 @@ N. 7
 - - A Pulga - -
 
 Todas as obras oriundas do Brasil e de Portugal, publicadas pela primeira vez até 1925 e de autoria desconhecida, entrarão em domínio público no dia 1º de Janeiro posterior aos 70 anos de primeira publicação.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)

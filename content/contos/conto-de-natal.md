@@ -6,12 +6,6 @@ category: "Contos brasileiros"
 slug: "conto-de-natal"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Ao Afonso, o meu filhinho mais velho
 
 Naquele ano, em Santa Catarina, dezembro andara a lembrar julho, com semanas de dias sombrios, de aguaceiros seguidos e de ventos hibernais. Mas a véspera de Natal chegara. O sol, que ainda pela manhã se conservara oculto nos densos nevoeiros da costa, se mostrava plenamente à tarde, envolvendo todo o arraial das Aranhas na luz purpurina e de ouro de um dos seus mais lindos ocasos.

@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "a-conselho-do-marido"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 Estamos a bordo de um grande paquete da Messagéries Maritimes, em pleno Atlântico, entre os dois hemisférios. Dois passageiros, que embarcaram no Rio de Janeiro, um de quarenta e outro de vinte e cinco anos, conversam animadamente, sentados ambos nas suas cadeiras de bordo.
 
 — Pois é como lhe digo, meu amiguinho! — dizia o passageiro de quarenta anos — o homem, todas as vezes que é provocado pela mulher, seja a mulher quem for, deve mostrar que é homem! Do contrário, arrisca-se a uma vingança! O caso da mulher de Putifar reproduz-se todos os dias!

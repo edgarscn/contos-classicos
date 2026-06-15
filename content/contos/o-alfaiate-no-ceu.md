@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-alfaiate-no-ceu"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 "Honesto de verdade," disse Pedro, "como o ladrão que foge da forca! Foste sim um mão leve atrevido a surrupiar as roupas das pessoas. Não poderá entrar no céu. O Senhor me proibiu de deixar qualquer um entrar enquanto ele estiver fora." "Deixa disso, seja misericordioso," exclamou o alfaiate. " Migalhas que caem da mesa por conta própria não são roubadas, e nem vale a pena ficar falando sobre essas coisas. Veja, eu sou manco, estou com bolhas nos pés de tanto caminhar até aqui, possivelmente não conseguirei voltar. Apenas me deixe entrar, e eu farei todo trabalho duro. Carregarei as crianças, lavarei as roupas delas, lavarei e limparei os bancos onde elas ficaram brincando, e remendarei todas as roupas rasgadas delas.
 
 Ele foi obrigado a se sentar num cantinho atrás da porta, e teve de ficar quieto e sossegado ali, para que o Senhor, quando Ele retornasse, não o visse e ficasse bravo. O alfaiate obedeceu, mas assim que São Pedro saiu de perto da porta, ele se levantou, e cheio de curiosidade, começou a passear por todos os cantos do céu, bisbilhotando tudo em todos os lugares. Até que ele chegou num lugar onde havia muitas cadeiras lindas e confortáveis, e no centro havia uma cadeira de ouro toda decorada com joias brilhantes, e também ficava num plano mais alto que as outras cadeiras, e na frente dela havia um escabelo[1] de ouro.

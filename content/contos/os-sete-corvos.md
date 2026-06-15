@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "os-sete-corvos"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 E lá ficaram eles desesperados e não sabiam o que fazer, e nenhum deles se atrevia a voltar para casa. Como eles estavam demorando para voltar, o pai começou a ficar impaciente, e disse, “Os garotos certamente se esqueceram porque ficaram brincando, aqueles garotos malvados!” E ele receava que a garota fosse morrer sem ser batizada, e louco de raiva ele gritou, “Tomara que todos eles se transformem em corvos.” Mal tinha ele pronunciado estas palavras e eis que ele ouviu o adejar de asas em cima de sua cabeça, olhou para o alto e viu sete corvos pretos como carvões voando para longe.
 
 Os pais não conseguiram se lembrar da maldição, e por mais que sentissem a falta de seus sete filhos, eles ainda de alguma forma se consolavam com a pequena filha, que logo ficou forte e a cada dia ficava mais linda. Durante muito tempo ela não ficou sabendo que tinha irmãos, pois os seus pais tinham o cuidado de não mencioná-los diante dela, mas um dia acidentalmentee ela ouviu que algumas pessoas falavam dela, “que a garota era realmente bonita, mas que na verdade ela era a culpada pelo infortúnio que havia acontecido com seus sete irmãos.”

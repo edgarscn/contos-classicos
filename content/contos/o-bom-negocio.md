@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-bom-negocio"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Os sapos, no entanto, continuavam a mesma ladainha, “Iquá, quá, quá, quá!” — “O quê, vocês não acreditam, eu posso mostrar na frente de vocês,” e ele tirou o dinheiro do bolso e contou os sete táleres, levando-se em conta que vinte e quatro grosches equivalem a um táler. Os sapos, todavia, sem saber o que ele dizia, continuam dizendo “Iquá, quá, quá, quá!” — “O quê, exclamou o camponês que já estava ficando zangado, — “já que vocês acham que sabem mais do que eu, contem vocês mesmos,” e jogou todo o dinheiro na água.
 
 Ele ficou parado e ficou esperando até que tivessem terminado de contar e lhe devolvessem o dinheiro de novo, mas os sapos ficaram imóveis e gritavam sem parar: “Iquá, quá, quá, quá!” e além disso, não jogaram o dinheiro de volta para ele. Ele ainda esperou um bom tempo até que a noite chegou e ele foi obrigado a ir para casa.

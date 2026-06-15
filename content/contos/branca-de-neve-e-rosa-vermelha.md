@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "branca-de-neve-e-rosa-vermelha"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 As duas meninas gostavam tanto uma da outra que quando elas andavam pelas ruas, elas sempre seguravam uma na mão da outra, e quando Branca de Neve dizia, "Jamais nos separaremos um dia," Rosa Vermelha respondia, "Jamais, enquanto vivermos," e a mãe delas completou, "O que uma tinha, fazia questão de dividir com a outra."
 
 Muitas vezes, elas gostavam de correr pela floresta sozinhas para colher frutas vermelhas, e nenhum animal nunca fez mal algum a elas, mas gostavam de ficar perto delas, porque confiavam nelas. A pequenina lebre gostava de comer folhas de repolho na mão delas, o cabritinho gostava de ficar pulando perto delas, o veadinho saltitava alegremente nos arredores, e os passarinhos ficavam pousados nos galhos das árvoes, e cantarolavam canções maravilhosas para elas.

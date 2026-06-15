@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-lobo-e-os-sete-cabritinhos"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 — “Queridos filhinhos, eu preciso ir para a floresta, fiquem atentos com o lobo, se ele aparecer, ele irá devorar vocês inteirinho com pele e osso. O infeliz vem sempre disfarçado, mas vocês o reconhecerão imediatamente por causa da sua voz grossa e seus pés pretos.” Os cabritinhos disseram:
 
 — “Querida mãezinha, nós vamos tomar muito cuidado, a senhora pode ir sem preocupação.” Então, a cabrita velha deu um berro e foi embora muito tranquila.

@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-pescador-e-a-sua-esposa"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 E um dia ele pegou a vara de pescar, e estava sentado, olhando para as águas claras do oceano, quando subitamente sentiu que a vara era puxada, num lugar que era bem profundo, e quando ele puxou a linha novamente, e encontrou um belo Linguado. Então, o linguado disse para ele:
 
 — “Ei, pescador, eu te imploro, me deixe viver, na verdade, eu não sou um linguado, mas um príncipe encantado. De que vai adiantar você me matar? Eu não fui feito para ser comido, coloque-me na água novamente, e me solte, por favor."

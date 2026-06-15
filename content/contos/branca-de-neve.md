@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "branca-de-neve"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 ra uma vez em pleno inverno, quando os flocos de neve estavam caindo como se fossem plumas do céu, uma rainha se sentou à janela enquanto costurava, e a moldura da janela era feita de ébano negro. E enquanto ela estava costurando e olhando a neve que caía lá fora da janela, ela picou o dedo com a agulha, e três gotas de sangue caíram sobre a neve. E a cor vermelha do sangue parecia bela sobre a neve branca, e ela pensou consigo mesma:
 
 — Ah se eu tivesse uma filha que fosse tão branca como a neve, tão vermelha como o sangue, e tão negra como a madeira da moldura da janela.

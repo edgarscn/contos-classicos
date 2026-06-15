@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "como-se-inventaram-os-almanaques"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 Some-te, bibliógrafo! Não tenho nada contigo. Nem contigo, curioso de histórias poentas. Sumam-se todos; o que vou contar interessa a outras pessoas menos especiais e muito menos aborrecidas. Vou dizer como se inventaram os almanaques.
 
 Sabem que o Tempo é, desde que nasceu, um velho de barbas brancas. Os poetas não lhe dão outro nome: o velho Tempo. Ninguém o pintou de outra maneira. E como há quem tome liberdades com os velhos, uns batem-lhe na barriga (são os patuscos), outros chegam a desafiá-lo; outros lutam com ele, mas o diabo vence-os a todos; é de regra.

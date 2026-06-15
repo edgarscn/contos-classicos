@@ -6,12 +6,6 @@ category: "Contos brasileiros"
 slug: "o-natal-dos-coleirinhos"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Foi o menino da quitanda quem lhe vendeu o alçapão. Custou mil reis, juntados em um mês, de tostão a tostão. E foi um triunfo memorável quando ele apareceu no morro, entre os outros, sobraçando a gaiola com a chama, um embrulhinho de alpiste e o alçapão de cana todo novo. Quem não foi rei um dia na vida?
 
 — Bota na paineira, Maneco. Já tem prego.

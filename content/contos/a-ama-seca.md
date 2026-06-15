@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "a-ama-seca"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 O Romualdo, marido de D. Eufêmia, era um rapaz sério, lá isso era, e tão incapaz de cometer a mais leve infidelidade conjugal como de roubar o sino de São Francisco de Paula; mas — vejam como o diabo as arma! Um dia D. Eufêmia foi chamada, a toda a pressa, a Juiz de Fora, para ver o pai que estava gravemente enfermo, e como o Romualdo não podia naquela ocasião deixar a casa comercial de que era guarda-livros (estavam a dar balanço), resignou-se a ver partir a senhora acompanhada pelos três meninos, o Zeca, o Cazuza, o Bibi, e a ama-seca deste último, que era ainda de colo.
 
 Foi a primeira vez que o Romualdo se separou da família. Custou-lhe muito, coitado, e mais lhe custou quando, ao cabo de uma semana, D. Eufêmia lhe escreveu, dizendo que o velho estava livre de perigo, mas a convalescença seria longa, e o seu dever de filha era ficar junto dele um mês pelo menos.

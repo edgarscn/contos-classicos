@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-ganso-de-ouro"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Era uma vez um homem que tinha três filhos. O mais moço era chamado de Dummling[1] — mais conhecido como João Bocó, pois todos achavam que ele era mais do que a metade de um tolo, — e ele era o tempo todo zombado e mal tratado por todos da casa.
 Aconteceu que o filho mais velho cismou de ir à floresta para buscar lenha, e a sua mãe lhe deu um bolo delicioso e uma garrafa de vinho para ele levar, para que ele pudesse se refrescar e se alimentar durante o trabalho.
 Quando ele entrou na floresta, um pequeno velhinho cinzento lhe disse bom dia, e falou:

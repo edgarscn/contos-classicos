@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "introducao"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Pode parecer desnecessário prefaciar qualquer livro que possua o grande benefício de uma Introdução feita pelo Sr. Andrew Lang, especialmente quando se trata de um livro que tem sido tão popular neste país que mostrou totalmente o direito que possui ao nome que lhe foi originalmente concedido.
 
 O leitor, todavia, provavelmente gostaria de conhecer a sua história como foi contada por um dos seus autores no prefácio da segunda edição, que foi publicada em 1819. A primeira edição, originalmente, era constituída de dois volumes, tendo o primeiro desses volumes aparecido em 1812. Os Irmãos Grimm passaram treze anos colecionando as histórias para esse volume. Todas elas foram reunidas uma a uma pela boca da pessoas que viviam em Hesse e Hanau, os distritos mais conhecidos pelos autores.

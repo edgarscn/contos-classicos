@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "cinderella"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 — Filhinha, seja boa e piedosa, e assim o bom Deus sempre te protegerá, e eu olharei por ti do céu e sempre estarei perto de ti. Dito isto, ela fechou os seus olhos e morreu. Todos os dias a jovem visitava o túmulo de sua mãe e chorava, porém, ela permaneceu boa e piedosa. Quando chegou o inverno, a neve espalhou como que um lençol branco sobre o túmulo, e quando o sol da primavera se afastou novamente, o homem conheceu uma outra esposa.
 
 A mulher trouxe consigo duas filhas para a casa com ela, que tinham um rosto lindo e eram muito belas, porém, tinham um coração malvado e negro. Começava agora um período ruim para a pobre criança adotiva.

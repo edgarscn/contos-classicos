@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "a-duracao-da-vida"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 — Senhor, quanto tempo viverei?
 
 — Trinta anos, Deus respondeu, isso está bom para você?

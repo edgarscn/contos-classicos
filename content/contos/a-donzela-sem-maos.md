@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "a-donzela-sem-maos"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Era uma vez, há alguns anos, um homem que ficava na estrada e que possuía uma pedra enorme de fazer farinha, com a qual moia cereal da aldeia. Esse moleiro estava passando por dificuldades e não restava nada além da enorme pedra de moinho e da grande macieira florida atrás da construção.
 
 Um dia, quando ele entrava na floresta com seu machado de gume de prata para cortar lenha, um velho estranho surgiu atrás de uma árvore.

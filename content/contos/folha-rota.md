@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "folha-rota"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 Tinham dado ave-marias; a Sra. D. Ana Custódia saiu para ir levar umas costuras à loja que era na Rua do Hospício. Pegou das costuras, entrouxou-as, pôs um xale às costas, um rosário ao pescoço, deu cinco ou seis ordens à sobrinha e caminhou para a porta.
 
 — Venha quem vier, não abras, disse ela com a mão no ferrolho; já sabes o costume.

@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "a-heranca"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 Venância tinha dois sobrinhos, Emílio e Marcos; o primeiro de vinte e oito, o segundo de trinta e quatro anos. Marcos era o seu mordomo, esposo, pai, filho, médico e capelão. Ele cuidava-lhe da casa e das contas, aturava os seus reumatismos e arrufos, ralhava-lhe às vezes, brandamente, obedecia-lhe sem murmúrio, cuidava-lhe da saúde e dava-lhe bons conselhos. Era um rapaz tranqüilo, medido, geralmente silencioso, pacato, avesso a mulheres, indiferente a teatros, a saraus. Não se irritava nunca, não teimava, parecia não ter opiniões nem simpatias. O único sentimento manifesto era a dedicação a D. Venância.
 
 Emílio era em muitos pontos o contraste de Marcos, seu irmão. Primeiramente, era um dândi, turbulento, frívolo, sedento de diversões, vivendo na rua e na casa dos outros, dans le monde. Tinha cóleras, que duravam o tempo das opiniões; minutos apenas. Era alegre, falador, expansivo, como um namorado de primeira mão. Gastava às mãos largas. Vivia duas horas por dia em casa do alfaiate, uma hora em casa do cabeleireiro, o resto do tempo na Rua do Ouvidor; salvo o tempo em que dormia em casa, que não era a mesma casa de D. Venância, e o pouco em que ia visitar a tia. Exteriormente era um elegante; interiormente era um bom rapaz, mas um verdadeiro bom rapaz.

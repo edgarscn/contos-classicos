@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-anao-saltador"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 — Eu tenho uma filha que pode transformar palha em ouro. O rei disse ao moleiro:
 
 — Essa é uma qualidade que me agrada muito, se a tua filha for tão inteligente como dizes, traga-a amanhã até o meu palácio, e faremos um teste com o poder dela.

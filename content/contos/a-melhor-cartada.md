@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "a-melhor-cartada"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 Estava uma coisa insípida aquele dia. Uma hora da tarde. Muito mor­maço. Nem uma gargalhada. Triste realmente.
 
 Os hóspedes que jejuavam alegravam-se agora no seu jantar, servin­do-se grandes pratos de peixe, hortaliças, camarões, frutos, vinhos, re­queijão e bolos; com tanto que os outros, almoçados por cerca das doze, tinham era tédio por aquela petisqueira. Na rua não havia o que fazer, e pior em casa. A leitura nem para todos era divertimento, e acabava por cansar miseravelmente a um sujeito farto.

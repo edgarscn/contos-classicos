@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "o-relogio-de-ouro"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 Agora contarei a história do relógio de ouro. Era um grande cronômetro, inteiramente novo, preso a uma elegante cadeia. Luís Negreiros tinha muita razão em ficar boquiaberto quando viu o relógio em casa, um relógio que não era dele, nem podia ser de sua mulher. Seria ilusão dos seus olhos? Não era; o relógio ali estava sobre uma mesa da alcova, a olhar para ele, talvez tão espantado, como ele, do lugar e da situação.
 
 Clarinha não estava na alcova quando Luís Negreiros ali entrou. Deixou-se ficar na sala, a folhear um romance, sem corresponder muito nem pouco ao ósculo com que o marido a cumprimentou logo à entrada. Era uma bonita moça esta Clarinha, ainda que um tanto pálida, ou por isso mesmo. Era pequena e delgada; de longe parecia uma criança; de perto, quem lhe examinasse os olhos, veria bem que era mulher como poucas. Estava molemente reclinada no sofá, com o livro aberto, e os olhos no livro, os olhos apenas, porque o pensamento, não tenho certeza se estava no livro, se em outra parte. Em todo o caso parecia alheia ao marido e ao relógio.

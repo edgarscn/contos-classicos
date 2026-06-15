@@ -190,9 +190,3 @@ Tudo adormecera na terra, em breve pausa de vida, para o resurgir do dia seguint
 Só não resurgiria Timotheo. Lá agoniza elle ao pé da porteira. Lá morre. E lá o encontrará a manhã, enrijecido pelo relento, de bôrco na grama orvalhada, com a mão estendida para a fazenda, num derradeiro gesto de ameaça :
 
 — Deixa estar !...
-
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)

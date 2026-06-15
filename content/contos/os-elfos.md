@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "os-elfos"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Ele pegou os sapatos nas mãos para observá-los melhor, e eles estavam tão perfeitamente acabados que não havia nem sequer uma costura mal feita nele, como se tivessem sido feitos para se tornarem obras primas. Pouco depois, um comprador entrou, e como os sapatos haviam lhe agradado bastante, ele pagou por eles um valor melhor do que o habitual, e, com o dinheiro, o sapateiro conseguiu comprar couro para fazer dois pares de sapatos. Eles os cortou durante a noite, e na manhã seguinte ele estava preparado para começar a trabalhar totalmente reanimado, mas, não foi preciso fazer isso, porque, quando ele se levantou, eles já estavam prontos, e compradores também não faltavam, os quais lhe pagaram o bastante para ele comprar couro para quatro pares de sapatos.
 
 Na manhã seguinte, também, ele encontrou quatro pares de sapatos, e assim foi aumentando constantemente, o que ele recortava durante a noite estava acabado na manhã seguinte, de modo que em breve ele ganhava honestamente a sua independência, e finalmente se tornou um homem rico. Ora, e aconteceu que uma noite, pouco antes do Natal, quando o sapateiro havia feito alguns recortes, ele falou para a sua esposa, antes de ir para a cama: "O que você acharia se nós ficássemos até tarde da noite para ver quem é que está nos dando esta ajuda?" A mulher gostou da ideia, e acendeu uma vela, e eles ficaram escondidos num canto da sala, atrás de algumas roupas que estavam penduradas num canto, e ficaram olhando.

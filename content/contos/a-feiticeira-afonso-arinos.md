@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "a-feiticeira-afonso-arinos"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 Não. Não aguento tamanho pouco caso: era o que faltava! E, diante destes olhos, fazer o que ele fez, minha Senhora da Conceição!
 
 Assim pensando aí vinha a Benedita - alta, esbelta, mostrando na saia leve de cambraia a opulência dos quadris de mulata bem fornida. Sacudia a cabeça, enraivecida, endireitava o corpo e, pousando as mãos na cintura, parava de repente, em atitude de desafio. Continuava depois a marcha, perseguida pela mesma ideia má; estrada afora, ia esmagando, sob os sapatinhos de couro cheios de pelos brancos, as flores e os arbustos. Às vezes, num gesto estouvado, desmanchava a laçada do lenço de seda cor de ouro fosco, que tão bem lhe coifava a grenha luzidia.

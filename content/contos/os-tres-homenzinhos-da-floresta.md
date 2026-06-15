@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "os-tres-homenzinhos-da-floresta"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Então disse a mulher para a filha do homem, "Ouça, diga ao teu pai que eu gostaria de me casar com ele, e então você poderá tomar banho de leite todas as manhãs, e beber vinho, mas a minha própria filha irá se banhar com água e também só poderá beber água." A garota foi para casa, e contou ao pai dela o que a mulher havia dito. O homem disse, "O que devo fazer? O casamento é uma felicidade, mas também é um tormento."
 
 Com o passar do tempo ele não conseguia tomar uma decisão, então ele tirou a bota, e disse, "Peguee esta bota, ela tem um buraco na sola. Suba até o sótão, pendure-o no prego da parede, e depois coloque água dentro dele. Se a água não vazar, então eu me casarei novamente, mas se a água escorrer, não me casarei."

@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-piolho-e-a-pulga"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 "Porque o piolho se queimou."
 
 Louca de dor, a porta começou a ranger. Foi aí que uma vassoura, que estava encostada num canto, falou para a porta, "Porque você está rangendo, pequena porta?" "Não tenho eu razões para me lamentar?"

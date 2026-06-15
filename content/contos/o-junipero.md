@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-junipero"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Já faz muito tempo, há quase dois mil anos atrás, quando havia um homem rico que tinha uma esposa linda e piedosa, e eles tinham muito amor um pelo outro. No entanto, eles não tinham filhos, apesar de desejarem muito, e a esposa rezava todos os dias e todas as noites para que isso acontecesse, mas esse dia nunca chegava.
 
 Na frente da casa deles havia um pátio onde um pé de junípero havia nascido, e num dia de inverno a mulher estava sentada debaixo dele, descascando uma maçã, e quando ela estava descascando a maçã, ela cortou o dedo, e o sangue caiu sobre a neve.

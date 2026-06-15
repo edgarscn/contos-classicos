@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "os-tres-irmaos"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Os filhos ficaram todos satisfeitos com isto, e o mais velho decidiu que seria ferreiro, o segundo barbeiro, e o terceiro professor de esgrima. Eles fixaram uma data quando todos deveriam voltar para casa, e assim cada um seguiu seu caminho.
 
 E aconteceu que todos eles encontraram mestres bastante habilidosos, que ensinaram muito bem a eles todas as profissões. O ferreiro tinha de cuidar das patas dos cavalos do rei, e ele pensava consigo mesmo, "A casa será minha sem dúvida." O barbeiro fazia a barba somente de pessoas importantes, e ele também acreditava que a casa seria dele. O professor de esgrima também era muito habilidoso com seus golpes, mas ele mordia os lábios, e não deixava que nada o aborrecesse; "pois," dizia para si mesmo, "se você tiver medo de enfrentar, você jamais ficará com a casa."

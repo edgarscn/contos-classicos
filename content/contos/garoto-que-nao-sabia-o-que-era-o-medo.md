@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "garoto-que-nao-sabia-o-que-era-o-medo"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 — “Este é um garoto que dará muito trabalho ao pai!”
 
 Quando algo precisava ser feito, era sempre o mais velho que fazia, mas se o seu pai pedia ao mais velho que fosse buscar qualquer coisa quando já era tarde, ou já estivesse escuro, e o caminho tivesse de passar perto do cemitério, ou de qualquer outro lugar assustador, ele respondia:

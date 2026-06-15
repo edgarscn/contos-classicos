@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "os-mensageiros-da-morte"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 O gigante seguiu o seu caminho, e a Morte ficou ali desolada, e estava tão fraquinha que não conseguia se levantar novamente. "O que será que vai acontecer agora," disse a morte, "se eu ficar deitada aqui num cantinho? Ninguém mais vai morrer no mundo, e ele vai ficar tão cheio de pessoas que não vai haver mais espaço e eles terão de ficar um ao lado do outro." Enquanto isso, um jovem passava pela estrada, ele era forte e saudável, e cantava uma canção, e olhava para todos os lados. Quando ele viu a criatura meio desmaiada, ele ficou tomado de compaixão, levantou o infeliz, ofereceu-lhe uma bebida restauradora que trazia num frasco, e esperou que ele se recuperasse.
 
 "Tendes noção," disse o estranho, enquanto se levantava, "de quem sou, e de quem se trata aquele a quem ajudaste a se levantar novamente?" "Não," respondeu o jovem, "Não conheço a ti." "Eu sou a Morte," respondeu a criatura. "Eu nunca poupo ninguém, e não posso fazer uma exceção para você, — mas podes ver que sou grato, e te prometo que não irei te buscar inesperadamente, mas enviarei meus mensageiros para ti antes de chegar a tua hora." "Bem," disse o jovem, "já é uma grande vitória o conhecimento de que saberei o dia da tua chegada, e que de qualquer forma estarei livre de tua presença por tempo tão longo."

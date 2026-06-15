@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "o-estorvo"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 Muito, mas muito, contente sempre de si e comsigo mesmo o Amaro Esteves, sobretudo agora que ganhára, por bamburrio, não pouco dinheiro no encilhamento. Por cima, o premio integral de cem contos de reis na loteria da Bahia.
 
 Sim senhor, graças aos inesperados e meigos sorrisos da sorte, se tornára, nada mais, nada menos, um capitalista importante.

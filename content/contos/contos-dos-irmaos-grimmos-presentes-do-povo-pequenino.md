@@ -33,9 +33,3 @@ Então reconheceu que tudo isso era o justo castigo da sua cubiça, e chorou ama
 « Tudo não está perdido para ti; és pobre, mas és meu amigo e vou dar-te a metade do meu ouro; com o que me resta, ainda sou mais rico do que nunca esperei sêr. »
 
 O bom alfaiate cumprio a sua palavra; o ourives poude estabelecer-se e chegou a ter um bem-estar honesto, mas como castigo da excessiva cubiça, teve toda a vida de aguentar com a segunda marreca e usar sempre um barrete para esconder a careca.
-
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)

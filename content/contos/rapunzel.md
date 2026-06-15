@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "rapunzel"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Um dia, a mulher estava de pé ao lado da janela e olhava para o jardim, quando ela viu um canteiro onde haviam plantado o mais lindo rapôncio (ou rapunzel) que ela jamais vira, e a planta era tão verde e fresca que ela queria pegar algumas, e desejava muito comê-las. Este desejo aumentava a cada dia que passava, e como ela sabia que não havia jeito de conseguir nem um pouquinho delas, ela começou a definhar, e foi ficando triste e abatida.
 Até que um dia o marido dela ficou assustado, e perguntou:
 — O que você tem, minha querida esposa?

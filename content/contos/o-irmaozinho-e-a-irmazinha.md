@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-irmaozinho-e-a-irmazinha"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Eles andaram o dia todo pelas pradarias, campos, e lugares cheios de pedras, e quando chovia a irmãzinha dizia: — “O céu e os nossso corações estão chorando juntos.” À noite, eles chegaram a uma grande floresta, e eles estavam tão cansados de tristeza e fome, e também por causa da longa caminhada, que eles se deitaram numa árvore oca e dormiram.
 
 No dia seguinte quando eles acordaram, o sol já ía alto no céu, e lançava seus raios escaldantes sobre as árvores. Então, o irmão disse: — “Irmãzinha, estou com sede, se eu conhecesse algum riacho por aqui, eu iria para pegar água para beber, acho que estou ouvindo um aqui perto.” O irmão se levantou e pegou a irmãzinha pela mão, e partiram para encontrar o riacho.

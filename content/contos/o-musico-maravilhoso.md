@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-musico-maravilhoso"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 — “O tempo passa muito lentamente aqui na floresta, eu preciso buscar alguém para me fazer companhia.” Então, ele colocou a rabeca nos ombros, e tocava tão bem que a música ecoava por toda a floresta. Não passou muito tempo e um lobo veio saltitando pelo matagal em direção a ele.
 
 — “Ah, aí vem um lobo! Mas eu não estava pensando num lobo!” disse o músico, mas o lobo chegou mais perto e disse para o músico:

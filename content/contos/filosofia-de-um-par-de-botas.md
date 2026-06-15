@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "filosofia-de-um-par-de-botas"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 Uma destas tardes, como eu acabasse de jantar, e muito, lembrou-me dar um passeio à Praia de Santa Luzia, cuja solidão é propícia a todo homem que ama digerir em paz. Ali fui, e com tal fortuna que achei uma pedra lisa para me sentar, e nenhum fôlego vivo nem morto. — Nem morto, felizmente. Sentei-me, alonguei os olhos, espreguicei a alma, respirei à larga, e disse ao estômago: — Digere a teu gosto, meu velho companheiro. Deus nobis haec otia fecit.
 
 Digeria o estômago, enquanto o cérebro ia remoendo, tão certo é, que tudo neste mundo se resolve na mastigação. E digerindo, e remoendo, não reparei logo que havia, a poucos passos de mim, um par de coturnos velhos e imprestáveis. Um e outro tinham a sola rota, o tacão comido do longo uso, e tortos, porque é de notar que a generalidade dos homens camba, ou para um ou para outro lado. Um dos coturnos (digamos botas, que não lembra tanto a tragédia), uma das botas tinha um rasgão de calo. Ambas estavam maculadas de lama velha e seca; tinham o couro ruço, puído, encarquilhado.

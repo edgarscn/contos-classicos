@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "pele-de-urso"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Os irmãos dele todavia, eram duros de coração e disseram: — “O que você poderia fazer aqui? você não tem utilidade para nós, vá e viva a sua própria vida.” O soldado não possuía nada além de uma carabina, ele a colocou no ombro, e partiu para o mundo. E chegou a um grande matagal, onde não conseguia enxergar nada além de um pequeno círculo de árvores, e debaixo destas árvores ele se sentou triste, e começou a pensar no seu destino.
 
 — “Não tenho dinheiro,” pensou ele, “não tenho profissão, só sei lutar, e agora que só existe paz, eles não precisam mais de mim, então, já estou pressentindo que vou morrer de fome.”

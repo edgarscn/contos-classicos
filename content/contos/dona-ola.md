@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "dona-ola"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 E então aconteceu que um dia a bobina ficou manchada com o sangue dela, então ela mergulhou a bobina no poço, para remover as marcas de sangue; mas a bobina escorregou das suas mãos e caiu no fundo do poço. Ela começou a chorar, e correu até a sua madrasta e contou a ela o seu infortúnio. Esta porém, repreendeu-a com severidade, e foi tão impiedosa a ponto de dizer, "Como foi você que deixou a bobina cair dentro do poço, você deve pegá-la de volta."
 
 Então a garota voltou até o poço, e não sabia como fazer isso; e como o seu coração estava aflito, ela pulou dentro do poço para pegar a bobina. Ela perdeu os sentidos; e quando acordou e voltou a si novamente, percebeu que estava num lindo campo onde o sol brilhava e milhares de flores estavam desabrochando. Ela começou a vagar pelo campo, e finalmente avistou um forno de padaria repleto de pães, e o pão gritava para ela, "Oh, me tire daqui! me tire daqui! ou eu vou me queimar; já estou assado há muito tempo!" Então ela se aproximou dele, e tirou todos os pães, um após o outro, com uma pá de pegar pães.

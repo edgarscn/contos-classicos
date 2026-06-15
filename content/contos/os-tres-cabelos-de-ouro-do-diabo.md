@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "os-tres-cabelos-de-ouro-do-diabo"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 — “Uma criança acaba de nascer com uma coifa amnial na cabeça, qualquer um que tenha nascido assim, significa que vai ser muito feliz. Foi profetizado também, que aos quatorze anos ele terá a filha do rei como esposa.”
 
 O rei, que não tinha bom coração, ficou furioso com a profecia, e foi até os pais da criança, e aparentando franca amizade, disse:

@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "a-protegida-de-nossa-senhora"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 — “Eu sou a Virgem Maria, mãe do menino Jesus. Você é pobre e necessitado, traga a tua filha para mim, eu vou levá-la comigo e serei a mãe dela, e cuidarei dela.”
 
 O lenhador obedeceu, trouxe a sua filha, e a deu para a Virgem Maria, que a levou com ela para o céu. Lá, a criança passava bem, comia pães doces, e bebia leite com açúcar, e suas roupas eram de ouro, e os anjinhos brincavam com ela. E quando ela tinha quatorze anos de idade, a Virgem Maria a chamou um dia e disse: “— Querida filhinha, eu preciso fazer uma longa viagem, então, e ficarão sob tua guarda as chaves das treze portas do céu.

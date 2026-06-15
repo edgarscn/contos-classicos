@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "a-doenca-do-fabricio"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 O Fabrício era amanuense numa repartição pública, e gostava muito da Zizinha, filha única do Major Sepúlveda.
 
 O seu desejo era casar-se com ela, mas para isso era preciso ser promovido porque os vencimentos de amanuense não davam para sustentar família. Portanto, o Fabrício limitava-se à posição de namorado, esperando ansioso o momento em que pudesse ter a de noivo.

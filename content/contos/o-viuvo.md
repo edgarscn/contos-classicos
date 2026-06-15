@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "o-viuvo"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 Na véspera de partir para a Europa, o doutor Claudino, sem prever o fúnebre espetáculo de que ia ser testemunha, foi despedir-se do seu velho camarada Tertuliano.
 
 Ao aproximar-se da casa, ouviu berreiro de crianças e mulheres, e a voz de Tertuliano, que dominava de vez em quando o alarido geral, soltando, num tom estrídulo e angustioso, esta palavra: “Xandoca.”

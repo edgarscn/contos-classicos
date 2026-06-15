@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "a-noiva-do-ladrao"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 A jovem, contudo, não tinha a menor inclinação por ele, assim como uma garota deve gostar de um homem a quem ela foi prometida, e nem confiança lhe inspirava o rapaz. Quando ela o via, ou pensava nele, ela sentia uma aversão profunda. Uma vez ele disse a ela: — “Tu és a minha prometida, — “no entanto, jamais me fizeste uma visita.” A jovem respondeu: — “Não sei onde fica a tua casa.” Então, o noivo respondeu — “Minha casa fica lá longe na floresta escura.” Ela tentou se desculpar, e disse que não sabia o caminho até lá. O noivo respondeu: — “Domingo que vem, tu deves ir lá me fazer uma visita — “já chamei os convidados, e eu jogarei cinzas para que possas encontrar o caminho pela floresta.”
 
 Quando chegou o domingo, e a donzela se pôs a caminho, ela ficou apreensiva, mas não sabia exatamente porque, e para garantir de que não se perderia na volta, ela encheu seus dois bolsos com ervilhas e lentilhas. Cinzas foram espalhadas na entrada da floresta, servindo de caminho para ela, porém, a cada passo, ela espalhava algumas ervilhas no chão.

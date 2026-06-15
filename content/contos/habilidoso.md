@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "habilidoso"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 Paremos neste beco. Há aqui uma loja de trastes velhos, e duas dúzias de casas pequenas, formando tudo uma espécie de mundo insulado. Choveu de noite, e o sol ainda não acabou de secar a lama da rua, nem o par de calças que ali pende de uma janela, ensaboado de fresco. Pouco adiante das calças, vê-se chegar à rótula a cabeça de uma mocinha, que acabou agora mesmo o penteado, e vem mostrá-lo cá fora; mas cá fora estamos apenas o leitor e eu, mais um menino, a cavalo no peitoril de outra janela, batendo com os calcanhares na parede, à guisa de esporas, e ainda outros quatro, adiante, à porta da loja de trastes, olhando para dentro.
 
 A loja é pequena, e não tem muito que vender, coisa pouco sensível ao dono, João Maria, que acumula o negócio com a arte, e dá-se à pintura nas horas que lhe sobram da outra ocupação, e não são raras. Agora mesmo está diante de uma pequena tela, tão metido consigo e com o trabalho, que podemos examiná-lo a gosto, antes que dê por nós.

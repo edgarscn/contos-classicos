@@ -23,9 +23,3 @@ Depois, o exemplo dos irmãos Grimm foi seguido um pouco em todas as nações e 
 Julgamos esses velhos contos de muito preferiveis para a infancia á essas narrações pseudoscientificas que para ella se compuzeram n'estes ultimos tempos, e que tèm o grave inconyeniente de introduzir a falsidade da ficção precisamente no dominio onde a exactidão deve existir exclusivamente. Só ellas enganam verdadeiramente a criança. As antigas magicas são, pelo contrario, exemptas de perigo, agradam á imaginação sem falsear o espirito encantando-a como sonhos agradaveis. Servem de involucro ás verdades importantes que assim gravam na memoria; produzem uma impressão moral salutar, porque o bem é ahi sempre recompensado e o mal castigado; provocam nas almas jovens « o desejo de se assemelharem aos que se tornam felizes, como dizia C. Perrault e o receio das desventuras em que caíram os máos pelas suas maldades. »
 
 Um grande parte dos contos que se não lêm não foram traduzidos nas obras que já sairam. Comtudo foi-nos inmpossivel deixar de publicar alguns dos contos mais celebres que se citam por toda a parte, como o Pescador e a sua mulher, Branca Neve os Presentes do povo pequonino, os tres Rebentos verdes. Mas o elemento inedito ou pouco conhecido é bastante lato n’este volume para não poder ser considerado como a repetição das publicações anteriores. Procurámos tornar a nossa traducção tão fiel quanto simples possível, preoccupando-nos sobretudo de fallar claro o que é preciso para as jovens intelligencias ás quaes é destinada.
-
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)

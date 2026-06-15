@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-pequeno-polegar"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 — Como é triste não termos filhos! Aqui tudo é tão calmo, e nas outras casas há muito barulho e alegria.
 
 — Sim, respondeu a esposa, e suspirava, — mesmo que nós tivéssemos só um, e ele fosse bem pequeno, ainda que do tamanho de um polegar, eu ficaria muito satisfeita, e nós mesmo assim o amaríamos com todo o nosso coração.

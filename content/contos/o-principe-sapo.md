@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-principe-sapo"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Perto do castelo do rei havia uma escura e imensa floresta, e debaixo de um pé de lima que havia na floresta também ficava um poço, e quando o dia estava muito quente, a filha do rei saía para a floresta e se sentava ao lado de uma fonte fresca, e quando ela ficava aborrecida, ela pegava uma bola de ouro, e a atirava para o alto e a pegava, e esta bola era o brinquedo favorito dela.
 
 Ora, aconteceu que em uma ocasião, a bola de ouro da princesa não caiu em suas lindas mãozinhas quando estava esperando por ela, mas no chão ao longe, e rolou direto dentro da água.

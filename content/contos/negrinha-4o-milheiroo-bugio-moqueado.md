@@ -105,9 +105,3 @@ A historia complicava-se e eu, aparvalhado, esperei a decifração.
 — Pois então ! Moqueado, sim, como um bugio. E comido, dizem. Penduraram-lhe a carne na dispensa e todos os dias vinha á mesa um pedacinho delle, para a patrôa comer... A coitada..."
 
 Mudei-me de logar. Fui assistir o fim da quiniela a cincoenta passos de distancia. Mas não pude acompanhar o jogo. Por mais que arregalasse os olhos, olhava para a "cancha" mas não via coisa nenhuma, e até hoje não sei se deu ou não deu a 13...
-
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)

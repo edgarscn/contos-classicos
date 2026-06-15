@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "a-serpente-branca"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Há muito tempo atrás vivia um rei que era famoso por sua grande sabedoria em todo o reino. Nada podia se esconder dele, era como se as informações dos assuntos mais secretos chegassem até ele através do ar. Mas ele tinha um costume muito estranho: todos os dias depois do jantar, quando a mesa era tirada, e não havia mais ninguém, um criado de confiança vinha de lhe trazer mais um prato. Todavia, o prato era coberto e nem o servo sabia o que havia nele, e nem ninguém poderia saber, porque o rei só tirava a tampa para comer depois que ele estava sozinho.
 
 Isso aconteceu há muito tempo atrás, quando um dia o criado, que levava o prato embora, não aguentava mais de tanta curiosidade, que ele não conseguiu segurar a vontade de levar o prato para o seu quarto. Depois que ele fechou cuidadosamente com chave a porta, ele levantou a tampa, e viu uma serpente branca no fundo do prato. Mas quando ele viu a serpente, ele não conseguiu negar a si mesmo o direito de provar o prato, de modo que ele cortou um pedacinho da serpente e o colocou em sua boca.

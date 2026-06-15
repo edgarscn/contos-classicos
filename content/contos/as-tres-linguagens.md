@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "as-tres-linguagens"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 “Vou te mandar para uma outra cidade, e para um outro mestre." O jovem então, foi levado para esse lugar, e ali também ficou um ano aprendendo com seu mestre. Quando ele retornou para casa o pai voltou a perguntar, "Meu filho, o que aprendeste de bom?" Ele respondeu, "Pai, eu aprendi o entender o que dizem os pássaros." Então, o pai ficou tomado de raiva e falou, "Oh, és mesmo um caso perdido, haveis desperdiçado um tempo precioso e não aprendeste nada; não te sentes envergonhado de te apresentares diante de mim? Desta vez te enviarei a um terceiro mestre, mas também desta vez se não aprenderes nada, não me consideres mais teu pai." E assim o jovem permaneceu durante um ano com o terceiro mestre, e quando ele voltou para casa novamente, seu pai perguntou:
 
 "Meu filho, o que aprendeste?" ele respondeu, "Querido pai, este ano eu aprendi a entender a linguagem do coaxar dos sapos." Então, o seu pai ficou extremamente transtornado, começou a dar pulos, chamou todas as pessoas que estavam por ali, e disse, "Esta criatura não é mais meu filho, eu o expulso, e ordeno que vocês o levem para fora da floresta, e o matem." Eles o tiraram dali, mas quando estavam para matá-lo, eles não conseguiram fazer isso porque sentiram dó dele, e o deixaram fugir, e eles arrancaram os olhos e a língua de um cervo para que eles pudem levá-los para o velhinho como prova.

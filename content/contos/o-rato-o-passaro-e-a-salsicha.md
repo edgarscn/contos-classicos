@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "o-rato-o-passaro-e-a-salsicha"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Quem está muito bem está sempre desejando algo melhor. Um dia, portanto, o pássaro conheceu um outro pássaro no caminho, a quem ele relatou a ótima situação em que se encontrava e que era motivo de muito orgulho para ele. O outro pássaro, todavia, disse que ele era um tolo por trabalhar tanto assim, e disse que os dois que ficavam em casa se divertiam muito mais. Pois quando o rato tivesse acendido o fogo e ido buscar água, ele ia para a sua pequena caminha descansar até que o chamassem de novo para colocar a mesa. A salsicha tinha de ficar perto da panela, observando se a comida estava cozinhando bem, e, quando estava quase chegando a hora do jantar, a salsicha entrava dentro do caldo e ficava se mexendo uma ou duas vezes nos vegetais e para que o caldo ficasse engordurado, salgado e estivesse pronto. Quando o pássaro voltou para casa e descarregou a lenha que trazia, eles se sentaram para jantar, e depois de terem comido toda a refeição, eles dormiram até não aguentar mais até a manhã seguinte, e aquela era uma vida maravilhosa.
 
 No próximo dia o pássaro, aconselhado pelo outro pássaro, não queria mais ir para a floresta, dizendo que ele estava cansado de ser escravo, e que havia sido enganado pelos dois, e que a tarefa que eles faziam, precisava ser diferente, e que as tarefas deveriam ser trocadas. E mesmo que o rato e a salsicha implorassem para ele com toda sinceridade, o pássaro se manteve irredutível, e disse que eles deveriam tentar. Eles fizeram um sorteio, e a sorte caiu sobre a salsicha que deveria ir buscar lenha, o rato deveria cozinhar, e o pássaro buscar água.

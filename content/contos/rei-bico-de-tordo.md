@@ -6,12 +6,6 @@ category: "Contos internacionais"
 slug: "rei-bico-de-tordo"
 ---
 
-Todas as obras publicadas antes de 1.º de janeiro de 1931, independentemente do país de origem, se encontram em domínio público.
-
-A informação acima será válida apenas para usos nos Estados Unidos — o que inclui a disponibilização no Wikisource. (detalhes)
-
-Utilize esta marcação apenas se não for possível apresentar outro raciocínio para a manutenção da obra. (mais...)
-
 Certa vez o Rei fez um grande banquete e convidou então, de longe e de perto, todos os jovens que pudessem casar. Eles estavam todos organizados em uma linha de acordo com seus níveis e reputação; primeiro vieram os reis, então os grão-duques, então os príncipes, condes, barões, e os gentios. Então a filha do rei passou pelas fileiras, mas para cada um ela tinha alguma objeção para fazer; um era muito gordo, "O barril de vinho", ela disse. Outro era muito alto, "longo e magro com pouco dentro." O terceiro era muito baixo, "pequeno e grosso nunca é rápido." O quarto era muito pálido, "Tão pálido quanto a morte." O quinto era muito ruivo, "Um galo de briga." O sexto não era direito o suficiente, "Um galho verde seco atrás do fogão."
 
 Então ela tinha algo para dizer contra cada um, mas ela se fez especialmente agradável sobre o bom rei que estava quieto bem no final da fila, e cujo queixo cresceu um pouco curvo. "Bem," ela gritou e riu, "ele tem um queixo parecido com uma bico-de-tordo!" e a partir de então ele ganhou o apelido de Rei bico-de-tordo.

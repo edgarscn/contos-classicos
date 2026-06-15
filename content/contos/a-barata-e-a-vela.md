@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "a-barata-e-a-vela"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 Conheci uma baratinha que abominava a luz tanto quanto adorava escuridão.
 
 Como todas as baratas, obrigada a viver entoupeirada, no fundo do baú, só arriscava-se ao ar exterior à noite, quando a vela se extinguia.

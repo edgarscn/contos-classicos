@@ -6,8 +6,6 @@ category: "Contos brasileiros"
 slug: "a-carteira"
 ---
 
-Todas as obras escritas por autores brasileiros falecidos até 31 de dezembro de 1935 se encontram em domínio público nos Estados Unidos, independentemente de quando foram publicadas, inclusive obras póstumas já publicadas e ainda não publicadas. Além disso, essas obras estão também em domínio público no Brasil, em Portugal e nos demais países onde os direitos autorais expiram após 70 anos da morte do autor. (detalhes)
-
 ... De repente, Honório olhou para o chão e viu uma carteira. Abaixar-se, apanhá-la e guardá-la foi obra de alguns instantes. Ninguém o viu, salvo um homem que estava à porta de uma loja, e que, sem o conhecer, lhe disse rindo:
 
 — Olhe, se não dá por ela; perdia-a de uma vez.
