@@ -52,58 +52,7 @@ const StoryTemplate = ({ data, pageContext }) => {
   const observerRef = useRef(null)
   const isCompletedRef = useRef(false)
 
-  // Mulberry32 generator for seeded pseudo-random numbers
-  const mulberry32 = a => {
-    return function () {
-      let t = (a += 0x6d2b79f5)
-      t = Math.imul(t ^ (t >>> 15), t | 1)
-      t ^= t + Math.imul(t ^ (t >>> 7), t | 61)
-      return ((t ^ (t >>> 14)) >>> 0) / 4294967296
-    }
-  }
-
-  // Seeded shuffle helper
-  const seededShuffle = (array, seed) => {
-    let hash = 0
-    for (let i = 0; i < seed.length; i++) {
-      hash = seed.charCodeAt(i) + ((hash << 5) - hash)
-    }
-    const rand = mulberry32(Math.abs(hash))
-    const shuffled = [...array]
-    for (let i = shuffled.length - 1; i > 0; i--) {
-      const j = Math.floor(rand() * (i + 1))
-      ;[shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]]
-    }
-    return shuffled
-  }
-
-  // Get 3 smart recommendations
-  const getSuggestions = () => {
-    if (!pageContext || !pageContext.allStories) return []
-    const allStories = pageContext.allStories
-    const currentSlug = story.frontmatter.slug
-    const otherStories = allStories.filter(
-      s => s.frontmatter.slug !== currentSlug
-    )
-
-    // Sort stories: same category first, same author second, other stories last
-    const sorted = [...otherStories].sort((a, b) => {
-      const catA = a.frontmatter.category === story.frontmatter.category ? 1 : 0
-      const catB = b.frontmatter.category === story.frontmatter.category ? 1 : 0
-      if (catA !== catB) return catB - catA // same category first
-
-      const autA = a.frontmatter.author === story.frontmatter.author ? 1 : 0
-      const autB = b.frontmatter.author === story.frontmatter.author ? 1 : 0
-      return autB - autA // same author second
-    })
-
-    // Seeded shuffle top 8 related stories to give variety, then pick top 3
-    const pool = sorted.slice(0, 8)
-    const shuffledPool = seededShuffle(pool, currentSlug)
-    return shuffledPool.slice(0, 3)
-  }
-
-  const suggestions = getSuggestions()
+  const suggestions = pageContext.suggestions || []
 
   // Track reading progress bar
   useEffect(() => {
@@ -1377,115 +1326,44 @@ const StoryTemplate = ({ data, pageContext }) => {
                   display: "flex",
                   flexDirection: "column",
                   gap: "1rem",
-                  marginTop: "1rem",
+                  marginTop: "1.5rem",
                   textAlign: "center",
                 }}
               >
+                <div style={{ fontSize: "3rem" }}>✉️</div>
+                <p
+                  style={{
+                    fontSize: "1.1rem",
+                    color: "var(--text)",
+                    fontWeight: 700,
+                    lineHeight: 1.4,
+                  }}
+                >
+                  Relatório de erro enviado com sucesso!
+                </p>
                 <p
                   style={{
                     fontSize: "0.95rem",
                     color: "var(--text-muted)",
-                    lineHeight: 1.4,
+                    lineHeight: 1.5,
                   }}
                 >
-                  O relatório de erro foi salvo localmente no navegador e
-                  enviado via formulário Netlify!
+                  Muito obrigado por nos ajudar a melhorar o acervo. A informação foi enviada diretamente para o administrador no e-mail <strong>edgarscnobrega@gmail.com</strong>.
                 </p>
-                <p
-                  style={{
-                    fontSize: "0.9rem",
-                    color: "var(--text-muted)",
-                    fontWeight: 500,
-                  }}
-                >
-                  Para garantir o recebimento imediato pelo administrador, envie
-                  também por um dos canais abaixo:
-                </p>
-
-                <div
-                  style={{
-                    display: "flex",
-                    flexDirection: "column",
-                    gap: "0.75rem",
-                    margin: "0.5rem 0",
-                  }}
-                >
-                  <a
-                    href={getWhatsAppLink()}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="btn-primary"
-                    style={{
-                      background: "#25d366",
-                      color: "white",
-                      borderColor: "#25d366",
-                      justifyContent: "center",
-                      padding: "0.7rem",
-                      fontWeight: 600,
-                      textDecoration: "none",
-                      display: "flex",
-                      alignItems: "center",
-                      gap: "0.5rem",
-                      borderRadius: "10px",
-                    }}
-                  >
-                    💬 Enviar via WhatsApp
-                  </a>
-
-                  <a
-                    href={getEmailLink()}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="btn-primary"
-                    style={{
-                      justifyContent: "center",
-                      padding: "0.7rem",
-                      fontWeight: 600,
-                      textDecoration: "none",
-                      display: "flex",
-                      alignItems: "center",
-                      gap: "0.5rem",
-                      borderRadius: "10px",
-                    }}
-                  >
-                    ✉️ Enviar via E-mail
-                  </a>
-
-                  <button
-                    onClick={handleCopyReport}
-                    className="btn-secondary"
-                    style={{
-                      justifyContent: "center",
-                      padding: "0.7rem",
-                      fontWeight: 600,
-                      display: "flex",
-                      alignItems: "center",
-                      gap: "0.5rem",
-                      borderRadius: "10px",
-                      cursor: "pointer",
-                      background: "none",
-                      border: "1px solid var(--border)",
-                      color: "var(--text)",
-                    }}
-                  >
-                    📋 {reportCopied ? "Copiado!" : "Copiar Relatório de Erro"}
-                  </button>
-                </div>
 
                 <button
                   onClick={handleCloseReportModal}
-                  className="btn-secondary"
+                  className="btn-primary"
                   style={{
-                    background: "none",
-                    border: "none",
-                    color: "var(--text-muted)",
-                    cursor: "pointer",
-                    fontSize: "0.9rem",
-                    marginTop: "0.5rem",
+                    justifyContent: "center",
+                    padding: "0.75rem",
+                    marginTop: "1rem",
                     fontWeight: 600,
+                    borderRadius: "10px",
+                    width: "100%",
                   }}
                 >
-                  Fechar Janela
+                  Fechar
                 </button>
               </div>
             )}
