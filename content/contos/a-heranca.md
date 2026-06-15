@@ -1,7 +1,7 @@
 ---
 title: "A herança"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1877
 category: "Contos brasileiros"
 slug: "a-heranca"
 ---

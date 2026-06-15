@@ -1,7 +1,7 @@
 ---
 title: "O bom negócio"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "o-bom-negocio"
 ---

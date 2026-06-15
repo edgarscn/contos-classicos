@@ -1,7 +1,7 @@
 ---
 title: "O Pecado (Olavo Bilac)"
 author: "Olavo Bilac"
-year: "Desconhecido"
+year: 1904
 category: "Contos brasileiros"
 slug: "o-pecado-olavo-bilac"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "A egreja do diabo"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1883
 category: "Contos brasileiros"
 slug: "a-egreja-do-diabo"
 ---

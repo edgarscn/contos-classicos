@@ -1,7 +1,7 @@
 ---
 title: "Garoto que não sabia o que era o medo"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "garoto-que-nao-sabia-o-que-era-o-medo"
 ---

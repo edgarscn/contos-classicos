@@ -1,7 +1,7 @@
 ---
 title: "A Culpa do Trem"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "a-culpa-do-trem"
 ---

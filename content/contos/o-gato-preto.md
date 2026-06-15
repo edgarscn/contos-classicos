@@ -1,7 +1,7 @@
 ---
 title: "O gato preto"
 author: "Edgar Allan Poe"
-year: "Desconhecido"
+year: 1843
 category: "Contos internacionais"
 slug: "o-gato-preto"
 ---

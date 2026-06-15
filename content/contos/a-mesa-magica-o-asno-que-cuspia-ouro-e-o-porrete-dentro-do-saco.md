@@ -1,7 +1,7 @@
 ---
 title: "A mesa mágica, o asno que cuspia ouro e o porrete dentro do saco"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "a-mesa-magica-o-asno-que-cuspia-ouro-e-o-porrete-dentro-do-saco"
 ---

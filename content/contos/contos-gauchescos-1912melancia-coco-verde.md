@@ -1,7 +1,7 @@
 ---
 title: "Contos gauchescos (1912)/Melancia - coco verde"
 author: "João Simões Lopes Neto"
-year: "Desconhecido"
+year: 1912
 category: "Contos brasileiros"
 slug: "contos-gauchescos-1912melancia-coco-verde"
 ---

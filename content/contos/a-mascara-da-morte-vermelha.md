@@ -1,7 +1,7 @@
 ---
 title: "A máscara da Morte Vermelha"
 author: "Edgar Allan Poe"
-year: "Desconhecido"
+year: 1842
 category: "Contos internacionais"
 slug: "a-mascara-da-morte-vermelha"
 ---

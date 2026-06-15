@@ -1,7 +1,7 @@
 ---
 title: "A Doença do Fabrício"
 author: "Artur Azevedo"
-year: "Desconhecido"
+year: 1902
 category: "Contos brasileiros"
 slug: "a-doenca-do-fabricio"
 ---

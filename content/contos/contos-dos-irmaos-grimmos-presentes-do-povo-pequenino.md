@@ -1,7 +1,7 @@
 ---
 title: "Contos dos Irmãos Grimm/Os Presentes do povo pequenino"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "contos-dos-irmaos-grimmos-presentes-do-povo-pequenino"
 ---

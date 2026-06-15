@@ -1,7 +1,7 @@
 ---
 title: "Historias e sonhos (1920)/Agaricus auditæ"
 author: "Conceição Veloso"
-year: "Desconhecido"
+year: 1900
 category: "Contos brasileiros"
 slug: "historias-e-sonhos-1920agaricus-audit"
 ---

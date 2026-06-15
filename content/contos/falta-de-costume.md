@@ -1,7 +1,7 @@
 ---
 title: "Falta de Costume"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "falta-de-costume"
 ---

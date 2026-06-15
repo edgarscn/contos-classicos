@@ -1,7 +1,7 @@
 ---
 title: "O ganso de ouro"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "o-ganso-de-ouro"
 ---

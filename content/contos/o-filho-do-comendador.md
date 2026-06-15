@@ -1,7 +1,7 @@
 ---
 title: "O Filho do Comendador"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "o-filho-do-comendador"
 ---

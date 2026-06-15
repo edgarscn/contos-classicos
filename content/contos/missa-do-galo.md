@@ -1,7 +1,7 @@
 ---
 title: "Missa do galo"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1899
 category: "Contos brasileiros"
 slug: "missa-do-galo"
 ---

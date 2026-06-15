@@ -1,7 +1,7 @@
 ---
 title: "De Cima para Baixo"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1902
 category: "Contos brasileiros"
 slug: "de-cima-para-baixo"
 ---

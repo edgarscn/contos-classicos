@@ -1,7 +1,7 @@
 ---
 title: "A Tia Aninha"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1908
 category: "Contos brasileiros"
 slug: "a-tia-aninha"
 ---

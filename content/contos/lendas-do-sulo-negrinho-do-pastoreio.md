@@ -1,7 +1,7 @@
 ---
 title: "Lendas do Sul/O Negrinho do Pastoreio"
 author: "João Simões Lopes Neto"
-year: "Desconhecido"
+year: 1913
 category: "Contos brasileiros"
 slug: "lendas-do-sulo-negrinho-do-pastoreio"
 ---

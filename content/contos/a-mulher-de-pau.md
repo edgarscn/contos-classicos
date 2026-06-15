@@ -1,7 +1,7 @@
 ---
 title: "A Mulher de Pau"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "a-mulher-de-pau"
 ---

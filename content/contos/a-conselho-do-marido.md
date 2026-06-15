@@ -1,7 +1,7 @@
 ---
 title: "A Conselho do Marido"
 author: "Artur Azevedo"
-year: "Desconhecido"
+year: 1902
 category: "Contos brasileiros"
 slug: "a-conselho-do-marido"
 ---

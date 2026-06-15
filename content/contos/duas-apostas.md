@@ -1,7 +1,7 @@
 ---
 title: "Duas Apostas"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1902
 category: "Contos brasileiros"
 slug: "duas-apostas"
 ---

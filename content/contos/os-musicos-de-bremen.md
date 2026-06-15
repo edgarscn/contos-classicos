@@ -1,7 +1,7 @@
 ---
 title: "Os músicos de Bremen"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1819
 category: "Contos internacionais"
 slug: "os-musicos-de-bremen"
 ---

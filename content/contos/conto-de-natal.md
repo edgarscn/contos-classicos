@@ -1,7 +1,7 @@
 ---
 title: "Conto de Natal"
 author: "Virgílio Várzea"
-year: "Desconhecido"
+year: 1893
 category: "Contos brasileiros"
 slug: "conto-de-natal"
 ---

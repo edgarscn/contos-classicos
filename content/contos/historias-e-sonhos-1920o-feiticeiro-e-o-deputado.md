@@ -1,7 +1,7 @@
 ---
 title: "Historias e sonhos (1920)/O Feiticeiro e o Deputado"
 author: "Lima Barreto"
-year: "Desconhecido"
+year: 1920
 category: "Contos brasileiros"
 slug: "historias-e-sonhos-1920o-feiticeiro-e-o-deputado"
 ---

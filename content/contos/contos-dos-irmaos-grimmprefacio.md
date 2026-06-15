@@ -1,7 +1,7 @@
 ---
 title: "Contos dos Irmãos Grimm/Prefacio"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "contos-dos-irmaos-grimmprefacio"
 ---

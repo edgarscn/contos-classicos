@@ -1,7 +1,7 @@
 ---
 title: "Cantiga de esponsaes"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1884
 category: "Contos brasileiros"
 slug: "cantiga-de-esponsaes"
 ---

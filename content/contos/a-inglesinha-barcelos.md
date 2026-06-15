@@ -1,7 +1,7 @@
 ---
 title: "A inglesinha Barcelos"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1886
 category: "Contos brasileiros"
 slug: "a-inglesinha-barcelos"
 ---

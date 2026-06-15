@@ -1,7 +1,7 @@
 ---
 title: "A Serpente de Bronze"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "a-serpente-de-bronze"
 ---

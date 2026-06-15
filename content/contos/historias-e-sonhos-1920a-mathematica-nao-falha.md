@@ -1,7 +1,7 @@
 ---
 title: "Historias e sonhos (1920)/A mathematica não falha"
 author: "Lima Barreto"
-year: "Desconhecido"
+year: 1920
 category: "Contos brasileiros"
 slug: "historias-e-sonhos-1920a-mathematica-nao-falha"
 ---

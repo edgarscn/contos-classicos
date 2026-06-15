@@ -1,7 +1,7 @@
 ---
 title: "O Lapso"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1884
 category: "Contos brasileiros"
 slug: "o-lapso"
 ---

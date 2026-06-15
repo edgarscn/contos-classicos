@@ -1,7 +1,7 @@
 ---
 title: "Comes e Bebes"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1902
 category: "Contos brasileiros"
 slug: "comes-e-bebes"
 ---

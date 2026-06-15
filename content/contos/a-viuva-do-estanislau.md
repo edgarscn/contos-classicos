@@ -1,7 +1,7 @@
 ---
 title: "A Viúva do Estanislau"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1908
 category: "Contos brasileiros"
 slug: "a-viuva-do-estanislau"
 ---

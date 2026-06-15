@@ -1,7 +1,7 @@
 ---
 title: "O Soldado Jacob"
 author: "Medeiros e Albuquerque"
-year: "Desconhecido"
+year: 1900
 category: "Contos brasileiros"
 slug: "o-soldado-jacob"
 ---

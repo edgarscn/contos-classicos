@@ -1,7 +1,7 @@
 ---
 title: "O machete"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1878
 category: "Contos brasileiros"
 slug: "o-machete"
 ---

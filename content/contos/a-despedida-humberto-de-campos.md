@@ -1,7 +1,7 @@
 ---
 title: "A despedida (Humberto de Campos)"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "a-despedida-humberto-de-campos"
 ---

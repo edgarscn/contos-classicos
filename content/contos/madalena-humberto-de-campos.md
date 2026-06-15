@@ -1,7 +1,7 @@
 ---
 title: "Madalena (Humberto de Campos)"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "madalena-humberto-de-campos"
 ---

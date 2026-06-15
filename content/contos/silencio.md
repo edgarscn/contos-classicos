@@ -1,7 +1,7 @@
 ---
 title: "Silencio"
 author: "Edgar Allan Poe"
-year: "Desconhecido"
+year: 1840
 category: "Contos internacionais"
 slug: "silencio"
 ---

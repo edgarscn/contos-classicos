@@ -1,7 +1,7 @@
 ---
 title: "A nova Califórnia"
 author: "Lima Barreto"
-year: "Desconhecido"
+year: 1910
 category: "Contos brasileiros"
 slug: "a-nova-california"
 ---

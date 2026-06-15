@@ -1,7 +1,7 @@
 ---
 title: "O caso da vara"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1891
 category: "Contos brasileiros"
 slug: "o-caso-da-vara"
 ---

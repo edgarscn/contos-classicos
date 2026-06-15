@@ -1,7 +1,7 @@
 ---
 title: "Black"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1902
 category: "Contos brasileiros"
 slug: "black"
 ---

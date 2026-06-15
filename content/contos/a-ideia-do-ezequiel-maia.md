@@ -1,7 +1,7 @@
 ---
 title: "A idéia do Ezequiel Maia"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1883
 category: "Contos brasileiros"
 slug: "a-ideia-do-ezequiel-maia"
 ---

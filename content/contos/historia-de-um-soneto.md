@@ -1,7 +1,7 @@
 ---
 title: "História de um Soneto"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1902
 category: "Contos brasileiros"
 slug: "historia-de-um-soneto"
 ---

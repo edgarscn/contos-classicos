@@ -1,7 +1,7 @@
 ---
 title: "A serpente branca"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "a-serpente-branca"
 ---

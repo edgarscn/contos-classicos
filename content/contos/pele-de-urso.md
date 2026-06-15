@@ -1,7 +1,7 @@
 ---
 title: "Pele de urso"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1815
 category: "Contos internacionais"
 slug: "pele-de-urso"
 ---

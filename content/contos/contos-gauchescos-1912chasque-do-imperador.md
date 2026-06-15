@@ -1,7 +1,7 @@
 ---
 title: "Contos gauchescos (1912)/Chasque do Imperador"
 author: "João Simões Lopes Neto"
-year: "Desconhecido"
+year: 1912
 category: "Contos brasileiros"
 slug: "contos-gauchescos-1912chasque-do-imperador"
 ---

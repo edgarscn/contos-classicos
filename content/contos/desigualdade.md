@@ -1,7 +1,7 @@
 ---
 title: "Desigualdade"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "desigualdade"
 ---

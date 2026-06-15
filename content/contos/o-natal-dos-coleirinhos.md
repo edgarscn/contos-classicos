@@ -1,7 +1,7 @@
 ---
 title: "O Natal dos Coleirinhos"
 author: "Domingos Ribeiro Filho"
-year: "Desconhecido"
+year: 1900
 category: "Contos brasileiros"
 slug: "o-natal-dos-coleirinhos"
 ---

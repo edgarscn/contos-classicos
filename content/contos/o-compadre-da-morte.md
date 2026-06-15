@@ -1,7 +1,7 @@
 ---
 title: "O compadre da morte"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "o-compadre-da-morte"
 ---

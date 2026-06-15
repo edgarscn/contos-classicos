@@ -1,7 +1,7 @@
 ---
 title: "Como o Diabo as Arma!"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1902
 category: "Contos brasileiros"
 slug: "como-o-diabo-as-arma"
 ---

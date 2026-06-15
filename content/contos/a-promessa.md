@@ -1,7 +1,7 @@
 ---
 title: "A Promessa"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "a-promessa"
 ---

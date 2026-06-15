@@ -1,7 +1,7 @@
 ---
 title: "A Noiva dos Regimentos"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "a-noiva-dos-regimentos"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Mal Por Mal..."
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1902
 category: "Contos brasileiros"
 slug: "mal-por-mal"
 ---

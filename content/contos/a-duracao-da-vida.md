@@ -1,7 +1,7 @@
 ---
 title: "A duração da vida"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1840
 category: "Contos internacionais"
 slug: "a-duracao-da-vida"
 ---

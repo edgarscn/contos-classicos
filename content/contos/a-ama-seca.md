@@ -1,7 +1,7 @@
 ---
 title: "A Ama-Seca"
 author: "Artur Azevedo"
-year: "Desconhecido"
+year: 1908
 category: "Contos brasileiros"
 slug: "a-ama-seca"
 ---

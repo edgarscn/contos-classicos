@@ -1,7 +1,7 @@
 ---
 title: "Miss Corisco"
 author: "Alcântara Machado"
-year: "Desconhecido"
+year: 1927
 category: "Contos brasileiros"
 slug: "miss-corisco"
 ---

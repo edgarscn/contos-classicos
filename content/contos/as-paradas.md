@@ -1,7 +1,7 @@
 ---
 title: "As Paradas"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1908
 category: "Contos brasileiros"
 slug: "as-paradas"
 ---

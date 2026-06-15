@@ -1,7 +1,7 @@
 ---
 title: "Os três irmãos"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "os-tres-irmaos"
 ---

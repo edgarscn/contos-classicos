@@ -1,7 +1,7 @@
 ---
 title: "O lobo e os sete cabritinhos"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "o-lobo-e-os-sete-cabritinhos"
 ---

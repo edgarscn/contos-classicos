@@ -1,7 +1,7 @@
 ---
 title: "O Inglês tal... qual se o pinta"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "o-ingles-tal-qual-se-o-pinta"
 ---

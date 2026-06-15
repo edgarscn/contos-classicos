@@ -1,7 +1,7 @@
 ---
 title: "As Asneiras do Guedes"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1908
 category: "Contos brasileiros"
 slug: "as-asneiras-do-guedes"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "O Menino do Gouveia"
 author: "Capadocio Maluco"
-year: "Desconhecido"
+year: 1900
 category: "Contos brasileiros"
 slug: "o-menino-do-gouveia"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Branca de Neve e Rosa Vermelha"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1833
 category: "Contos internacionais"
 slug: "branca-de-neve-e-rosa-vermelha"
 ---

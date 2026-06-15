@@ -1,7 +1,7 @@
 ---
 title: "Bebida para Viúvo"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "bebida-para-viuvo"
 ---

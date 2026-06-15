@@ -1,7 +1,7 @@
 ---
 title: "Lição Póstuma"
 author: "Emília Moncorvo Bandeira de Melo"
-year: "Desconhecido"
+year: 1900
 category: "Contos brasileiros"
 slug: "licao-postuma"
 ---

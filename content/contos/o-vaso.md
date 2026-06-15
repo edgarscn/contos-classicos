@@ -1,7 +1,7 @@
 ---
 title: "O Vaso"
 author: "Olavo Bilac"
-year: "Desconhecido"
+year: 1904
 category: "Contos brasileiros"
 slug: "o-vaso"
 ---

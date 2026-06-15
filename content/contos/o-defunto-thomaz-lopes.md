@@ -1,7 +1,7 @@
 ---
 title: "O Defunto (Thomaz Lopes)"
 author: "Thomaz Lopes"
-year: "Desconhecido"
+year: 1900
 category: "Contos brasileiros"
 slug: "o-defunto-thomaz-lopes"
 ---

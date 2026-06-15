@@ -1,7 +1,7 @@
 ---
 title: "O filho de Gabriela"
 author: "Lima Barreto"
-year: "Desconhecido"
+year: 1920
 category: "Contos brasileiros"
 slug: "o-filho-de-gabriela"
 ---

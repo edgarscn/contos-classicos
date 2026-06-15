@@ -1,7 +1,7 @@
 ---
 title: "O Maltusianismo de Bismichnitt"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "o-maltusianismo-de-bismichnitt"
 ---

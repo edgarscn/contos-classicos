@@ -1,7 +1,7 @@
 ---
 title: "Anedota Pecuniária"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1884
 category: "Contos brasileiros"
 slug: "anedota-pecuniaria"
 ---

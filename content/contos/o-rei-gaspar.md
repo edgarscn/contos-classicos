@@ -1,7 +1,7 @@
 ---
 title: "O Rei Gaspar"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "o-rei-gaspar"
 ---

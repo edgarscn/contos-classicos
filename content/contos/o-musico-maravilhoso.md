@@ -1,7 +1,7 @@
 ---
 title: "O músico maravilhoso"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "o-musico-maravilhoso"
 ---

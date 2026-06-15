@@ -1,7 +1,7 @@
 ---
 title: "Entre duas datas"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1884
 category: "Contos brasileiros"
 slug: "entre-duas-datas"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "A Nota de Cem Mil-Réis"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1902
 category: "Contos brasileiros"
 slug: "a-nota-de-cem-mil-reis"
 ---

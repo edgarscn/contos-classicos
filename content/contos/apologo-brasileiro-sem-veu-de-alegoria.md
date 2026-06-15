@@ -1,7 +1,7 @@
 ---
 title: "Apólogo Brasileiro sem Véu de Alegoria"
 author: "Alcântara Machado"
-year: "Desconhecido"
+year: 1927
 category: "Contos brasileiros"
 slug: "apologo-brasileiro-sem-veu-de-alegoria"
 ---

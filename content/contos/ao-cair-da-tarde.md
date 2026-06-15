@@ -1,7 +1,7 @@
 ---
 title: "Ao cair da tarde"
 author: "Manuel de Oliveira Paiva"
-year: "Desconhecido"
+year: 1892
 category: "Contos brasileiros"
 slug: "ao-cair-da-tarde"
 ---

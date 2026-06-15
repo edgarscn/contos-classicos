@@ -1,7 +1,7 @@
 ---
 title: "O Ar do vento, Ave Maria"
 author: "Manuel de Oliveira Paiva"
-year: "Desconhecido"
+year: 1892
 category: "Contos brasileiros"
 slug: "o-ar-do-vento-ave-maria"
 ---

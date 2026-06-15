@@ -1,7 +1,7 @@
 ---
 title: "Inocência (Humberto de Campos)"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "inocencia-humberto-de-campos"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Rei bico-de-tordo"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "rei-bico-de-tordo"
 ---

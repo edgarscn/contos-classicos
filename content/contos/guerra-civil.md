@@ -1,7 +1,7 @@
 ---
 title: "Guerra Civil"
 author: "Alcântara Machado"
-year: "Desconhecido"
+year: 1927
 category: "Contos brasileiros"
 slug: "guerra-civil"
 ---

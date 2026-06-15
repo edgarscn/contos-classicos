@@ -1,7 +1,7 @@
 ---
 title: "Morta Que Mata"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1902
 category: "Contos brasileiros"
 slug: "morta-que-mata"
 ---

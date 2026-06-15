@@ -1,7 +1,7 @@
 ---
 title: "Berenice"
 author: "Edgar Allan Poe"
-year: "Desconhecido"
+year: 1835
 category: "Contos internacionais"
 slug: "berenice"
 ---

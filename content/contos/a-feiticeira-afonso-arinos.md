@@ -1,7 +1,7 @@
 ---
 title: "A feiticeira (Afonso Arinos)"
 author: "Afonso Arinos"
-year: "Desconhecido"
+year: 1898
 category: "Contos brasileiros"
 slug: "a-feiticeira-afonso-arinos"
 ---

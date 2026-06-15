@@ -1,7 +1,7 @@
 ---
 title: "O Cego e o Paralítico"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "o-cego-e-o-paralitico"
 ---

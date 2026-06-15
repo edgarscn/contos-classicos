@@ -1,7 +1,7 @@
 ---
 title: "Irmã Tereza"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "irma-tereza"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "A Estação (1886)/10/Curta historia"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1884
 category: "Contos brasileiros"
 slug: "a-estacao-188610curta-historia"
 ---

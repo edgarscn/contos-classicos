@@ -1,7 +1,7 @@
 ---
 title: "Os três cabelos de ouro do diabo"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "os-tres-cabelos-de-ouro-do-diabo"
 ---

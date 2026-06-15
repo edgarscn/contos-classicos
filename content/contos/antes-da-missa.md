@@ -1,7 +1,7 @@
 ---
 title: "Antes da missa"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1877
 category: "Contos brasileiros"
 slug: "antes-da-missa"
 ---

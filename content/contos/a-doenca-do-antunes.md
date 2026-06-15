@@ -1,7 +1,7 @@
 ---
 title: "A Doença do Antunes"
 author: "Lima Barreto"
-year: "Desconhecido"
+year: 1920
 category: "Contos brasileiros"
 slug: "a-doenca-do-antunes"
 ---

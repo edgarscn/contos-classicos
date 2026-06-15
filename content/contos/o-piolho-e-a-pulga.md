@@ -1,7 +1,7 @@
 ---
 title: "O piolho e a pulga"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "o-piolho-e-a-pulga"
 ---

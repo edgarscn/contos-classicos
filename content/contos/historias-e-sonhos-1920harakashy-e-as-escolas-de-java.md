@@ -1,7 +1,7 @@
 ---
 title: "Historias e sonhos (1920)/Harakashy e as Escolas de Java"
 author: "João de Barros"
-year: "Desconhecido"
+year: 1900
 category: "Contos brasileiros"
 slug: "historias-e-sonhos-1920harakashy-e-as-escolas-de-java"
 ---

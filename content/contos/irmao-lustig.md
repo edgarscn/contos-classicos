@@ -1,7 +1,7 @@
 ---
 title: "Irmão Lustig"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1815
 category: "Contos internacionais"
 slug: "irmao-lustig"
 ---

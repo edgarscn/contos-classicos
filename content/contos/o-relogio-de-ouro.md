@@ -1,7 +1,7 @@
 ---
 title: "O relógio de ouro"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1873
 category: "Contos brasileiros"
 slug: "o-relogio-de-ouro"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "A Buzina"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1918
 category: "Contos brasileiros"
 slug: "a-buzina"
 ---

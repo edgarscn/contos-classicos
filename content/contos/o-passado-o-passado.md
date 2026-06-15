@@ -1,7 +1,7 @@
 ---
 title: "O Passado, o passado"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1884
 category: "Contos brasileiros"
 slug: "o-passado-o-passado"
 ---

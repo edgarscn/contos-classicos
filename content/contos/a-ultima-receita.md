@@ -1,7 +1,7 @@
 ---
 title: "A última receita"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1899
 category: "Contos brasileiros"
 slug: "a-ultima-receita"
 ---

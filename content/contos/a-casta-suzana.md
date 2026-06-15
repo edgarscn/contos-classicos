@@ -1,7 +1,7 @@
 ---
 title: "A Casta Suzana"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1918
 category: "Contos brasileiros"
 slug: "a-casta-suzana"
 ---

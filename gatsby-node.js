@@ -24,11 +24,16 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
     query {
       allMarkdownRemark {
         nodes {
+          id
+          timeToRead
           frontmatter {
             slug
             title
+            author
+            year
+            category
           }
-          id
+          excerpt(pruneLength: 120)
         }
       }
     }
@@ -42,6 +47,20 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const storyTemplate = path.resolve(`src/templates/conto-template.js`)
   const stories = result.data.allMarkdownRemark.nodes
 
+  // Pre-serialize all stories to pass to pageContext
+  const allStoriesContext = stories.map(s => ({
+    id: s.id,
+    timeToRead: s.timeToRead,
+    frontmatter: {
+      slug: s.frontmatter.slug,
+      title: s.frontmatter.title,
+      author: s.frontmatter.author,
+      year: s.frontmatter.year,
+      category: s.frontmatter.category,
+    },
+    excerpt: s.excerpt,
+  }))
+
   stories.forEach(node => {
     if (node.frontmatter.slug) {
       createPage({
@@ -50,6 +69,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
         context: {
           id: node.id,
           slug: node.frontmatter.slug,
+          allStories: allStoriesContext,
         },
       })
     }

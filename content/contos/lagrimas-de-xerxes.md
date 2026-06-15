@@ -1,7 +1,7 @@
 ---
 title: "Lágrimas de Xerxes"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1884
 category: "Contos brasileiros"
 slug: "lagrimas-de-xerxes"
 ---

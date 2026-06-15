@@ -1,7 +1,7 @@
 ---
 title: "Marcha Fúnebre (Machado de Assis)"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1883
 category: "Contos brasileiros"
 slug: "marcha-funebre-machado-de-assis"
 ---

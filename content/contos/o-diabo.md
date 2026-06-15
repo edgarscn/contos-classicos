@@ -1,7 +1,7 @@
 ---
 title: "O Diabo"
 author: "Olavo Bilac"
-year: "Desconhecido"
+year: 1904
 category: "Contos brasileiros"
 slug: "o-diabo"
 ---

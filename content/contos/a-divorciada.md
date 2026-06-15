@@ -1,7 +1,7 @@
 ---
 title: 'A "Divorciada"'
 author: "Domínio Público"
-year: "Desconhecido"
+year: 1885
 category: "Contos brasileiros"
 slug: "a-divorciada"
 ---

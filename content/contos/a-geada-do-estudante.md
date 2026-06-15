@@ -1,7 +1,7 @@
 ---
 title: "A Geada do Estudante"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "a-geada-do-estudante"
 ---

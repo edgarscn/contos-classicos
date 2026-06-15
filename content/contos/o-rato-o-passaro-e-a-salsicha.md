@@ -1,7 +1,7 @@
 ---
 title: "O rato, o pássaro e a salsicha"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "o-rato-o-passaro-e-a-salsicha"
 ---

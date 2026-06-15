@@ -1,7 +1,7 @@
 ---
 title: "14 de Julho na Roça"
 author: "Raul Pompeia"
-year: "Desconhecido"
+year: 1888
 category: "Contos brasileiros"
 slug: "14-de-julho-na-roca"
 ---

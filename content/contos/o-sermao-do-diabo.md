@@ -1,7 +1,7 @@
 ---
 title: "O Sermão do Diabo"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1884
 category: "Contos brasileiros"
 slug: "o-sermao-do-diabo"
 ---

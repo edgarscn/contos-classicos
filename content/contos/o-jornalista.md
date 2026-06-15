@@ -1,7 +1,7 @@
 ---
 title: "O Jornalista"
 author: "Lima Barreto"
-year: "Desconhecido"
+year: 1920
 category: "Contos brasileiros"
 slug: "o-jornalista"
 ---

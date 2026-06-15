@@ -1,7 +1,7 @@
 ---
 title: "O Perigo das Profecias"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "o-perigo-das-profecias"
 ---

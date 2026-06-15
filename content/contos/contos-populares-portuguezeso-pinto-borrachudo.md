@@ -1,7 +1,7 @@
 ---
 title: "Contos Populares Portuguezes/O pinto borrachudo"
 author: "Adolfo Coelho"
-year: "Desconhecido"
+year: 1879
 category: "Contos portugueses"
 slug: "contos-populares-portuguezeso-pinto-borrachudo"
 ---

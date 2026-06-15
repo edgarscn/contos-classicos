@@ -1,7 +1,7 @@
 ---
 title: "Conjugo Vobis"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1908
 category: "Contos brasileiros"
 slug: "conjugo-vobis"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "A barata e a vela"
 author: "Manuel de Oliveira Paiva"
-year: "Desconhecido"
+year: 1892
 category: "Contos brasileiros"
 slug: "a-barata-e-a-vela"
 ---

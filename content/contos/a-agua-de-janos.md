@@ -1,7 +1,7 @@
 ---
 title: "A Água de Janos"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1902
 category: "Contos brasileiros"
 slug: "a-agua-de-janos"
 ---

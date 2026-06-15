@@ -1,7 +1,7 @@
 ---
 title: 'Negócio "Chic"'
 author: "Domínio Público"
-year: "Desconhecido"
+year: 1885
 category: "Contos brasileiros"
 slug: "negocio-chic"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Como os Cães"
 author: "Olavo Bilac"
-year: "Desconhecido"
+year: 1904
 category: "Contos brasileiros"
 slug: "como-os-caes"
 ---

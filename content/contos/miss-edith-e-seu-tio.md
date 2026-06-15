@@ -1,7 +1,7 @@
 ---
 title: "Miss Edith e seu tio"
 author: "Lima Barreto"
-year: "Desconhecido"
+year: 1920
 category: "Contos brasileiros"
 slug: "miss-edith-e-seu-tio"
 ---

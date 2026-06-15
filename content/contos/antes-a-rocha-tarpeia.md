@@ -1,7 +1,7 @@
 ---
 title: "Antes a rocha Tarpéia"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1885
 category: "Contos brasileiros"
 slug: "antes-a-rocha-tarpeia"
 ---

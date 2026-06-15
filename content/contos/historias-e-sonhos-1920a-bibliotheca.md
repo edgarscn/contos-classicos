@@ -1,7 +1,7 @@
 ---
 title: "Historias e sonhos (1920)/A Bibliotheca"
 author: "Gonçalves Dias"
-year: "Desconhecido"
+year: 1850
 category: "Contos brasileiros"
 slug: "historias-e-sonhos-1920a-bibliotheca"
 ---

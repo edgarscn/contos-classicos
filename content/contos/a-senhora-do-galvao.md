@@ -1,7 +1,7 @@
 ---
 title: "A senhora do Galvão"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1896
 category: "Contos brasileiros"
 slug: "a-senhora-do-galvao"
 ---

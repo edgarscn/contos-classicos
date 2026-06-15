@@ -16,7 +16,7 @@ import { getComments, addComment, voteComment } from "../utils/comments"
 import { getCurrentUser } from "../utils/auth"
 import StoryCard from "../components/StoryCard"
 
-const StoryTemplate = ({ data }) => {
+const StoryTemplate = ({ data, pageContext }) => {
   const story = data.markdownRemark
   const [fontSize, setFontSize] = useState(1.15) // in rem
   const [scrollProgress, setScrollProgress] = useState(0)
@@ -65,8 +65,8 @@ const StoryTemplate = ({ data }) => {
 
   // Get 3 smart recommendations
   const getSuggestions = () => {
-    if (!data || !data.allMarkdownRemark) return []
-    const allStories = data.allMarkdownRemark.nodes
+    if (!pageContext || !pageContext.allStories) return []
+    const allStories = pageContext.allStories
     const currentSlug = story.frontmatter.slug
     const otherStories = allStories.filter(
       s => s.frontmatter.slug !== currentSlug
@@ -979,20 +979,6 @@ export const query = graphql`
         year
         category
         slug
-      }
-    }
-    allMarkdownRemark {
-      nodes {
-        id
-        timeToRead
-        frontmatter {
-          title
-          author
-          year
-          category
-          slug
-        }
-        excerpt(pruneLength: 120)
       }
     }
   }

@@ -1,7 +1,7 @@
 ---
 title: "Filosofia de um par de botas"
 author: "Machado de Assis"
-year: "Desconhecido"
+year: 1878
 category: "Contos brasileiros"
 slug: "filosofia-de-um-par-de-botas"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "O Papagaio Traído"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "o-papagaio-traido"
 ---

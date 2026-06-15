@@ -1,7 +1,7 @@
 ---
 title: "De preto e de vermelho"
 author: "Manuel de Oliveira Paiva"
-year: "Desconhecido"
+year: 1892
 category: "Contos brasileiros"
 slug: "de-preto-e-de-vermelho"
 ---

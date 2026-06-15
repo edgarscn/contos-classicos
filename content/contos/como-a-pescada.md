@@ -1,7 +1,7 @@
 ---
 title: "Como a Pescada..."
 author: "Olavo Bilac"
-year: "Desconhecido"
+year: 1904
 category: "Contos brasileiros"
 slug: "como-a-pescada"
 ---

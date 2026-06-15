@@ -1,7 +1,7 @@
 ---
 title: "Assunto Para um Conto"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1908
 category: "Contos brasileiros"
 slug: "assunto-para-um-conto"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Julieta à Janela"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "julieta-a-janela"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Denúncia Involuntária"
 author: "Artur de Azevedo"
-year: "Desconhecido"
+year: 1902
 category: "Contos brasileiros"
 slug: "denuncia-involuntaria"
 ---

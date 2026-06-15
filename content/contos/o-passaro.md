@@ -1,7 +1,7 @@
 ---
 title: 'O "Pássaro"'
 author: "Domínio Público"
-year: "Desconhecido"
+year: 1885
 category: "Contos brasileiros"
 slug: "o-passaro"
 ---

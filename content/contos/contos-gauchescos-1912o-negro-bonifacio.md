@@ -1,7 +1,7 @@
 ---
 title: "Contos gauchescos (1912)/O negro Bonifácio"
 author: "João Simões Lopes Neto"
-year: "Desconhecido"
+year: 1912
 category: "Contos brasileiros"
 slug: "contos-gauchescos-1912o-negro-bonifacio"
 ---

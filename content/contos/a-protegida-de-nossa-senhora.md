@@ -1,7 +1,7 @@
 ---
 title: "A protegida de Nossa Senhora"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "a-protegida-de-nossa-senhora"
 ---

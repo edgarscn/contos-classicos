@@ -1,7 +1,7 @@
 ---
 title: "Morfina"
 author: "Humberto de Campos"
-year: "Desconhecido"
+year: 1924
 category: "Contos brasileiros"
 slug: "morfina"
 ---

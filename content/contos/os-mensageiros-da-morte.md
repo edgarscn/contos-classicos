@@ -1,7 +1,7 @@
 ---
 title: "Os mensageiros da morte"
 author: "Irmãos Grimm"
-year: "Desconhecido"
+year: 1812
 category: "Contos internacionais"
 slug: "os-mensageiros-da-morte"
 ---
