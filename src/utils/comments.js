@@ -5,142 +5,46 @@ const COMMENTS_KEY = "10pages_comments"
 
 const isBrowser = typeof window !== "undefined"
 
-// Generate mock comments if a story has no comments yet
-const generateMockComments = (slug, authorName, title) => {
-  const authorLower = authorName ? authorName.toLowerCase() : ""
+// Helper to recursively filter out mock comments
+const filterMockComments = commentsList => {
+  if (!commentsList) return []
+  return commentsList
+    .filter(comment => comment && comment.id && !comment.id.startsWith("mock-"))
+    .map(comment => {
+      if (comment.replies && comment.replies.length > 0) {
+        return {
+          ...comment,
+          replies: filterMockComments(comment.replies),
+        }
+      }
+      return comment
+    })
+}
 
-  let specificComments = []
+// Purge any pre-existing mock comments from the local database on load
+if (isBrowser) {
+  try {
+    const data = localStorage.getItem(COMMENTS_KEY)
+    if (data) {
+      const database = JSON.parse(data)
+      let modified = false
 
-  if (authorLower.includes("machado")) {
-    specificComments = [
-      {
-        id: "mock-1",
-        username: "Machadiano_Carioca",
-        text: `A ironia do Machado nesta obra é simplesmente cirúrgica! A forma como ele analisa a vaidade humana em pouquíssimas páginas é de uma genialidade absurda. O que vocês acharam do desfecho?`,
-        timestamp: new Date(Date.now() - 3600000 * 24).toISOString(), // 1 day ago
-        upvotes: 24,
-        downvotes: 2,
-        userVote: null,
-        replies: [
-          {
-            id: "mock-1-1",
-            username: "Leitora_Atenta",
-            text: "Totalmente de acordo! O desfecho é ambíguo de propósito. Ele joga a responsabilidade do julgamento moral para o leitor. Típico dele.",
-            timestamp: new Date(Date.now() - 3600000 * 20).toISOString(),
-            upvotes: 12,
-            downvotes: 1,
-            userVote: null,
-            replies: [],
-          },
-        ],
-      },
-      {
-        id: "mock-2",
-        username: "Bento_Santiago",
-        text: `O realismo psicológico aqui me impressiona mais a cada releitura. Não há heróis nem vilões óbvios, apenas a fragilidade humana sendo exposta.`,
-        timestamp: new Date(Date.now() - 3600000 * 12).toISOString(), // 12 hours ago
-        upvotes: 15,
-        downvotes: 0,
-        userVote: null,
-        replies: [],
-      },
-    ]
-  } else if (authorLower.includes("poe")) {
-    specificComments = [
-      {
-        id: "mock-1",
-        username: "Gothic_Poeta",
-        text: `Que atmosfera densa e claustrofóbica. Ninguém constrói o suspense e a decadência mental dos personagens como o Poe. Ler isso à noite dá uma sensação indescritível de arrepio.`,
-        timestamp: new Date(Date.now() - 3600000 * 18).toISOString(),
-        upvotes: 31,
-        downvotes: 1,
-        userVote: null,
-        replies: [
-          {
-            id: "mock-1-1",
-            username: "Raven_Shadow",
-            text: "Exatamente! O ritmo que ele cria com as repetições e a escolha das palavras é quase hipnótico. Sensacional.",
-            timestamp: new Date(Date.now() - 3600000 * 15).toISOString(),
-            upvotes: 14,
-            downvotes: 0,
-            userVote: null,
-            replies: [],
-          },
-        ],
-      },
-      {
-        id: "mock-2",
-        username: "Detetive_Dupin",
-        text: `Reparem como a mente humana é o verdadeiro monstro nesta narrativa. O terror psicológico supera qualquer criatura física.`,
-        timestamp: new Date(Date.now() - 3600000 * 8).toISOString(),
-        upvotes: 18,
-        downvotes: 2,
-        userVote: null,
-        replies: [],
-      },
-    ]
-  } else if (authorLower.includes("grimm") || authorLower.includes("coelho")) {
-    specificComments = [
-      {
-        id: "mock-1",
-        username: "Folclore_Total",
-        text: `É fascinante ler as versões clássicas originais. Elas são muito mais sombrias, misteriosas e cheias de simbolismos do que as adaptações infantis modernas.`,
-        timestamp: new Date(Date.now() - 3600000 * 36).toISOString(),
-        upvotes: 19,
-        downvotes: 1,
-        userVote: null,
-        replies: [
-          {
-            id: "mock-1-1",
-            username: "Chapeuzinho_Retro",
-            text: "Sim! Essas histórias tinham funções de alerta social na Idade Média. Preservar o tom original do folclore é essencial.",
-            timestamp: new Date(Date.now() - 3600000 * 30).toISOString(),
-            upvotes: 9,
-            downvotes: 0,
-            userVote: null,
-            replies: [],
-          },
-        ],
-      },
-    ]
-  } else {
-    // Generic high-quality templates
-    specificComments = [
-      {
-        id: "mock-1",
-        username: "Leitor_Voraz",
-        text: `Que conto maravilhoso! A brevidade clássica (menos de 10 páginas) é perfeita. Ela nos força a concentrar em cada frase e palavra escolhida pelo autor.`,
-        timestamp: new Date(Date.now() - 3600000 * 48).toISOString(),
-        upvotes: 14,
-        downvotes: 0,
-        userVote: null,
-        replies: [
-          {
-            id: "mock-1-1",
-            username: "Bibliófilo_Nacional",
-            text: "Verdade. O formato do conto curto exige uma precisão quase poética. Excelente curadoria do 10pages.",
-            timestamp: new Date(Date.now() - 3600000 * 40).toISOString(),
-            upvotes: 6,
-            downvotes: 0,
-            userVote: null,
-            replies: [],
-          },
-        ],
-      },
-      {
-        id: "mock-2",
-        username: "Clube_do_Livro",
-        text: `Fiquei encantado com a riqueza do vocabulário e a ambientação histórica. Uma janela perfeita para a alma e a linguagem de outras épocas!`,
-        timestamp: new Date(Date.now() - 3600000 * 24).toISOString(),
-        upvotes: 11,
-        downvotes: 1,
-        userVote: null,
-        replies: [],
-      },
-    ]
+      Object.keys(database).forEach(slug => {
+        const original = database[slug] || []
+        const cleaned = filterMockComments(original)
+        if (JSON.stringify(original) !== JSON.stringify(cleaned)) {
+          database[slug] = cleaned
+          modified = true
+        }
+      })
+
+      if (modified) {
+        localStorage.setItem(COMMENTS_KEY, JSON.stringify(database))
+      }
+    }
+  } catch (e) {
+    console.error("Error cleaning mock comments from database", e)
   }
-
-  return specificComments
 }
 
 // Get all comments for a story
@@ -150,16 +54,16 @@ export const getComments = (slug, authorName = "", title = "") => {
     const data = localStorage.getItem(COMMENTS_KEY)
     const database = data ? JSON.parse(data) : {}
 
-    // Check if comments exist for this story
-    if (!database[slug]) {
-      // Generate mock comments, save them, and return
-      const mocks = generateMockComments(slug, authorName, title)
-      database[slug] = mocks
+    const comments = database[slug] || []
+
+    // Clean up any mock comments that might be in database[slug]
+    const cleaned = filterMockComments(comments)
+    if (JSON.stringify(comments) !== JSON.stringify(cleaned)) {
+      database[slug] = cleaned
       localStorage.setItem(COMMENTS_KEY, JSON.stringify(database))
-      return mocks
     }
 
-    return database[slug]
+    return cleaned
   } catch (e) {
     console.error("Error reading comments", e)
     return []

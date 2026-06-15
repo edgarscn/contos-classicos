@@ -777,15 +777,6 @@ const StoryTemplate = ({ data }) => {
               }}
             >
               <span>💬 Discussão ({comments.length})</span>
-              <span
-                style={{
-                  fontSize: "0.85rem",
-                  fontWeight: 500,
-                  color: "var(--text-muted)",
-                }}
-              >
-                estilo Reddit
-              </span>
             </h3>
 
             {/* Write comment form */}
