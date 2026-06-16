@@ -18,10 +18,8 @@ import StoryCard from "../components/StoryCard"
 
 const StoryTemplate = ({ data, pageContext }) => {
   const story = data.markdownRemark
-  const siteMetadata = data.site?.siteMetadata || {
-    adminEmail: "edgarscn@gmail.com",
-    adminPhone: "5511999999999",
-  }
+  const adminEmail = "edgarscnobrega@gmail.com"
+  const adminPhone = "5511999999999"
   const [fontSize, setFontSize] = useState(1.15) // in rem
   const [scrollProgress, setScrollProgress] = useState(0)
 
@@ -339,7 +337,7 @@ const StoryTemplate = ({ data, pageContext }) => {
     } (${reporterEmail || "Não informado"})\n\nLink do conto: ${
       typeof window !== "undefined" ? window.location.href : ""
     }`
-    return `mailto:${siteMetadata.adminEmail}?subject=${encodeURIComponent(
+    return `mailto:${adminEmail}?subject=${encodeURIComponent(
       subject
     )}&body=${encodeURIComponent(body)}`
   }
@@ -353,7 +351,7 @@ const StoryTemplate = ({ data, pageContext }) => {
       reporterName || "Anônimo"
     }\n*Link:* ${typeof window !== "undefined" ? window.location.href : ""}`
     return `https://api.whatsapp.com/send?phone=${
-      siteMetadata.adminPhone
+      adminPhone
     }&text=${encodeURIComponent(text)}`
   }
 
@@ -1376,12 +1374,6 @@ const StoryTemplate = ({ data, pageContext }) => {
 
 export const query = graphql`
   query ($id: String!) {
-    site {
-      siteMetadata {
-        adminEmail
-        adminPhone
-      }
-    }
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
