@@ -50,12 +50,16 @@ const getSuggestions = (currentStory, allStories) => {
 
   // Sort stories: same category first, same author second, other stories last
   const sorted = [...otherStories].sort((a, b) => {
-    const catA = a.frontmatter.category === currentStory.frontmatter.category ? 1 : 0
-    const catB = b.frontmatter.category === currentStory.frontmatter.category ? 1 : 0
+    const catA =
+      a.frontmatter.category === currentStory.frontmatter.category ? 1 : 0
+    const catB =
+      b.frontmatter.category === currentStory.frontmatter.category ? 1 : 0
     if (catA !== catB) return catB - catA // same category first
 
-    const autA = a.frontmatter.author === currentStory.frontmatter.author ? 1 : 0
-    const autB = b.frontmatter.author === currentStory.frontmatter.author ? 1 : 0
+    const autA =
+      a.frontmatter.author === currentStory.frontmatter.author ? 1 : 0
+    const autB =
+      b.frontmatter.author === currentStory.frontmatter.author ? 1 : 0
     return autB - autA // same author second
   })
 

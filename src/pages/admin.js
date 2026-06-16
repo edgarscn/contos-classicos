@@ -440,7 +440,9 @@ const AdminPage = () => {
                   color: "var(--text-muted)",
                 }}
               >
-                O sistema foi simplificado para enviar os relatos diretamente no clique de envio, sem a necessidade de o leitor escolher canais manuais de compartilhamento.
+                O sistema foi simplificado para enviar os relatos diretamente no
+                clique de envio, sem a necessidade de o leitor escolher canais
+                manuais de compartilhamento.
               </p>
               <p
                 style={{
@@ -450,7 +452,8 @@ const AdminPage = () => {
                   marginTop: "0.5rem",
                 }}
               >
-                Para alterar o seu e-mail padrão ou o seu telefone de destino nos metadados, basta abrir o arquivo{" "}
+                Para alterar o seu e-mail padrão ou o seu telefone de destino
+                nos metadados, basta abrir o arquivo{" "}
                 <code style={{ color: "var(--accent)" }}>gatsby-config.js</code>{" "}
                 na raiz do projeto e atualizar os seguintes campos em{" "}
                 <code>siteMetadata</code>:

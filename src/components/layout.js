@@ -6,7 +6,7 @@ import { getStats } from "../utils/gamification"
 import { getCurrentUser } from "../utils/auth"
 
 const Layout = ({ children }) => {
-  const [theme, setTheme] = useState("dark")
+  const [theme, setTheme] = useState("light")
   const [isStatsOpen, setIsStatsOpen] = useState(false)
   const [currentUser, setCurrentUser] = useState(null)
   const [currentPath, setCurrentPath] = useState("")
@@ -23,7 +23,7 @@ const Layout = ({ children }) => {
 
   useEffect(() => {
     // 1. Theme init
-    const savedTheme = localStorage.getItem("theme") || "dark"
+    const savedTheme = localStorage.getItem("theme") || "light"
     setTheme(savedTheme)
     document.body.className = `${savedTheme}-theme`
 

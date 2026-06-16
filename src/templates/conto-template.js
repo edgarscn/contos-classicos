@@ -21,6 +21,7 @@ const StoryTemplate = ({ data, pageContext }) => {
   const adminEmail = "edgarscnobrega@gmail.com"
   const adminPhone = "5511999999999"
   const [fontSize, setFontSize] = useState(1.15) // in rem
+  const [readerFont, setReaderFont] = useState("serif")
   const [scrollProgress, setScrollProgress] = useState(0)
 
   // Custom states for ratings, favorites, comments & share
@@ -64,6 +65,14 @@ const StoryTemplate = ({ data, pageContext }) => {
 
     window.addEventListener("scroll", handleScroll)
     return () => window.removeEventListener("scroll", handleScroll)
+  }, [])
+
+  // Load saved font preference
+  useEffect(() => {
+    if (typeof window !== "undefined") {
+      const savedFont = localStorage.getItem("reader_font") || "serif"
+      setReaderFont(savedFont)
+    }
   }, [])
 
   // Sync user changes (login/logout/register)
@@ -350,9 +359,9 @@ const StoryTemplate = ({ data, pageContext }) => {
     }\n*Tipo:* ${errorType}\n*Descrição:* ${errorDescription}\n\n*Relatado por:* ${
       reporterName || "Anônimo"
     }\n*Link:* ${typeof window !== "undefined" ? window.location.href : ""}`
-    return `https://api.whatsapp.com/send?phone=${
-      adminPhone
-    }&text=${encodeURIComponent(text)}`
+    return `https://api.whatsapp.com/send?phone=${adminPhone}&text=${encodeURIComponent(
+      text
+    )}`
   }
 
   const getReportText = () => {
@@ -408,6 +417,25 @@ const StoryTemplate = ({ data, pageContext }) => {
 
   const decreaseFontSize = () => {
     setFontSize(prev => Math.max(prev - 0.1, 0.9))
+  }
+
+  const handleFontChange = font => {
+    setReaderFont(font)
+    if (typeof window !== "undefined") {
+      localStorage.setItem("reader_font", font)
+    }
+  }
+
+  const getFontFamily = () => {
+    switch (readerFont) {
+      case "sans":
+        return "var(--font-sans)"
+      case "mono":
+        return "var(--font-mono)"
+      case "serif":
+      default:
+        return "var(--font-serif)"
+    }
   }
 
   const authorBio = story ? getAuthorBio(story.frontmatter.author) : null
@@ -825,33 +853,124 @@ const StoryTemplate = ({ data, pageContext }) => {
 
             {/* Reading Controls */}
             <div className="reader-controls">
-              <button
-                onClick={decreaseFontSize}
-                className="btn-icon"
-                title="Diminuir fonte"
-                aria-label="Diminuir fonte"
-                style={{ width: "32px", height: "32px" }}
+              <div
+                style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}
               >
-                A-
-              </button>
-              <span className="font-size-indicator">
-                {Math.round(fontSize * 100)}%
-              </span>
-              <button
-                onClick={increaseFontSize}
-                className="btn-icon"
-                title="Aumentar fonte"
-                aria-label="Aumentar fonte"
-                style={{ width: "32px", height: "32px" }}
+                <button
+                  onClick={decreaseFontSize}
+                  className="btn-icon"
+                  title="Diminuir fonte"
+                  aria-label="Diminuir fonte"
+                  style={{ width: "32px", height: "32px" }}
+                >
+                  A-
+                </button>
+                <span className="font-size-indicator">
+                  {Math.round(fontSize * 100)}%
+                </span>
+                <button
+                  onClick={increaseFontSize}
+                  className="btn-icon"
+                  title="Aumentar fonte"
+                  aria-label="Aumentar fonte"
+                  style={{ width: "32px", height: "32px" }}
+                >
+                  A+
+                </button>
+              </div>
+
+              {/* Vertical Divider */}
+              <div
+                style={{
+                  width: "1px",
+                  height: "20px",
+                  backgroundColor: "var(--border)",
+                }}
+              ></div>
+
+              <div
+                style={{
+                  display: "flex",
+                  alignItems: "center",
+                  gap: "0.35rem",
+                }}
               >
-                A+
-              </button>
+                <button
+                  onClick={() => handleFontChange("serif")}
+                  style={{
+                    background:
+                      readerFont === "serif" ? "var(--accent-light)" : "none",
+                    border: `1px solid ${
+                      readerFont === "serif" ? "var(--accent)" : "var(--border)"
+                    }`,
+                    color:
+                      readerFont === "serif" ? "var(--accent)" : "var(--text)",
+                    padding: "0.25rem 0.5rem",
+                    borderRadius: "6px",
+                    fontFamily: "var(--font-serif)",
+                    fontSize: "0.8rem",
+                    fontWeight: 600,
+                    cursor: "pointer",
+                    transition: "all var(--transition-fast)",
+                  }}
+                  title="Fonte Serifada (Lora)"
+                >
+                  Serif
+                </button>
+                <button
+                  onClick={() => handleFontChange("sans")}
+                  style={{
+                    background:
+                      readerFont === "sans" ? "var(--accent-light)" : "none",
+                    border: `1px solid ${
+                      readerFont === "sans" ? "var(--accent)" : "var(--border)"
+                    }`,
+                    color:
+                      readerFont === "sans" ? "var(--accent)" : "var(--text)",
+                    padding: "0.25rem 0.5rem",
+                    borderRadius: "6px",
+                    fontFamily: "var(--font-sans)",
+                    fontSize: "0.8rem",
+                    fontWeight: 600,
+                    cursor: "pointer",
+                    transition: "all var(--transition-fast)",
+                  }}
+                  title="Fonte Sans-Serif (Plus Jakarta Sans)"
+                >
+                  Sans
+                </button>
+                <button
+                  onClick={() => handleFontChange("mono")}
+                  style={{
+                    background:
+                      readerFont === "mono" ? "var(--accent-light)" : "none",
+                    border: `1px solid ${
+                      readerFont === "mono" ? "var(--accent)" : "var(--border)"
+                    }`,
+                    color:
+                      readerFont === "mono" ? "var(--accent)" : "var(--text)",
+                    padding: "0.25rem 0.5rem",
+                    borderRadius: "6px",
+                    fontFamily: "var(--font-mono)",
+                    fontSize: "0.8rem",
+                    fontWeight: 600,
+                    cursor: "pointer",
+                    transition: "all var(--transition-fast)",
+                  }}
+                  title="Fonte Monoespaçada (Courier Prime)"
+                >
+                  Mono
+                </button>
+              </div>
             </div>
 
             {/* Content Body */}
             <div
               className="story-body"
-              style={{ "--reader-font-size": `${fontSize}rem` }}
+              style={{
+                "--reader-font-size": `${fontSize}rem`,
+                fontFamily: getFontFamily(),
+              }}
               dangerouslySetInnerHTML={{ __html: story.html }}
             />
 
@@ -1346,7 +1465,9 @@ const StoryTemplate = ({ data, pageContext }) => {
                     lineHeight: 1.5,
                   }}
                 >
-                  Muito obrigado por nos ajudar a melhorar o acervo. A informação foi enviada diretamente para o administrador no e-mail <strong>edgarscnobrega@gmail.com</strong>.
+                  Muito obrigado por nos ajudar a melhorar o acervo. A
+                  informação foi enviada diretamente para o administrador no
+                  e-mail <strong>edgarscnobrega@gmail.com</strong>.
                 </p>
 
                 <button
