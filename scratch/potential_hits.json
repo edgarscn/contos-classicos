@@ -1,0 +1,324 @@
+[
+  {
+    "file": "a-agua-de-janos.md",
+    "title": "A Água de Janos",
+    "author": "Artur de Azevedo",
+    "category": "Contos brasileiros",
+    "matched": ["cama"]
+  },
+  {
+    "file": "a-agua-humberto-de-campos.md",
+    "title": "A Água (Humberto de Campos)",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["nua"]
+  },
+  {
+    "file": "a-cena-do-cemiterio.md",
+    "title": "A Cena do Cemitério",
+    "author": "Machado de Assis",
+    "category": "Contos brasileiros",
+    "matched": ["cama", "sade"]
+  },
+  {
+    "file": "a-despedida-humberto-de-campos.md",
+    "title": "A despedida (Humberto de Campos)",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["beijo"]
+  },
+  {
+    "file": "a-divorciada.md",
+    "title": "A \"Divorciada\"",
+    "author": "Domínio Público",
+    "category": "Contos brasileiros",
+    "matched": ["nua"]
+  },
+  {
+    "file": "a-doenca-do-fabricio.md",
+    "title": "A Doença do Fabrício",
+    "author": "Artur Azevedo",
+    "category": "Contos brasileiros",
+    "matched": ["desejo"]
+  },
+  {
+    "file": "a-ideia-do-ezequiel-maia.md",
+    "title": "A idéia do Ezequiel Maia",
+    "author": "Machado de Assis",
+    "category": "Contos brasileiros",
+    "matched": ["despida"]
+  },
+  {
+    "file": "a-luz-dos-mortos.md",
+    "title": "A Luz dos Mortos",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["desejo"]
+  },
+  {
+    "file": "a-mascara-da-morte-vermelha.md",
+    "title": "A máscara da Morte Vermelha",
+    "author": "Edgar Allan Poe",
+    "category": "Contos internacionais",
+    "matched": ["nu ", "morte"]
+  },
+  {
+    "file": "a-melhor-cartada.md",
+    "title": "A melhor cartada",
+    "author": "Manuel de Oliveira Paiva",
+    "category": "Contos brasileiros",
+    "matched": ["cama"]
+  },
+  {
+    "file": "a-mulher-de-pau.md",
+    "title": "A Mulher de Pau",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["amante"]
+  },
+  {
+    "file": "a-nota-de-cem-mil-reis.md",
+    "title": "A Nota de Cem Mil-Réis",
+    "author": "Artur de Azevedo",
+    "category": "Contos brasileiros",
+    "matched": ["amante"]
+  },
+  {
+    "file": "a-viuva-do-estanislau.md",
+    "title": "A Viúva do Estanislau",
+    "author": "Artur de Azevedo",
+    "category": "Contos brasileiros",
+    "matched": ["trai", "morte"]
+  },
+  {
+    "file": "acaua.md",
+    "title": "Acauã",
+    "author": "Inglês de Sousa",
+    "category": "Contos brasileiros",
+    "matched": ["trai", "morte"]
+  },
+  {
+    "file": "catimbau.md",
+    "title": "Catimbau",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["beijo", "morte"]
+  },
+  {
+    "file": "contos-gauchescos-1912batendo-orelha.md",
+    "title": "Contos gauchescos (1912)/Batendo orelha",
+    "author": "João Simões Lopes Neto",
+    "category": "Contos brasileiros",
+    "matched": ["cama"]
+  },
+  {
+    "file": "costumes-americanos.md",
+    "title": "Costumes Americanos",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["cama"]
+  },
+  {
+    "file": "denuncia-involuntaria.md",
+    "title": "Denúncia Involuntária",
+    "author": "Artur de Azevedo",
+    "category": "Contos brasileiros",
+    "matched": ["amante"]
+  },
+  {
+    "file": "em-sonhos.md",
+    "title": "Em Sonhos",
+    "author": "Artur de Azevedo",
+    "category": "Contos brasileiros",
+    "matched": ["cama", "beijo"]
+  },
+  {
+    "file": "eterno.md",
+    "title": "Eterno!",
+    "author": "Machado de Assis",
+    "category": "Contos brasileiros",
+    "matched": ["cama"]
+  },
+  {
+    "file": "evolucao-machado-de-assis.md",
+    "title": "Evolução (Machado de Assis)",
+    "author": "Machado de Assis",
+    "category": "Contos brasileiros",
+    "matched": ["machado de assis"]
+  },
+  {
+    "file": "fidelidade-humberto-de-campos.md",
+    "title": "Fidelidade (Humberto de Campos)",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["beijo"]
+  },
+  {
+    "file": "historias-e-sonhos-1920livia.md",
+    "title": "Historias e sonhos (1920)/Livia",
+    "author": "Lima Barreto",
+    "category": "Contos brasileiros",
+    "matched": ["cama"]
+  },
+  {
+    "file": "julieta-a-janela.md",
+    "title": "Julieta à Janela",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["amante"]
+  },
+  {
+    "file": "laura-praxedes.md",
+    "title": "Laura Praxedes",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["nua"]
+  },
+  {
+    "file": "marcha-funebre-machado-de-assis.md",
+    "title": "Marcha Fúnebre (Machado de Assis)",
+    "author": "Machado de Assis",
+    "category": "Contos brasileiros",
+    "matched": ["machado de assis"]
+  },
+  {
+    "file": "o-bom-negocio.md",
+    "title": "O bom negócio",
+    "author": "Irmãos Grimm",
+    "category": "Contos internacionais",
+    "matched": ["nua"]
+  },
+  {
+    "file": "o-caldo.md",
+    "title": "O Caldo",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["nua"]
+  },
+  {
+    "file": "o-compadre-da-morte.md",
+    "title": "O compadre da morte",
+    "author": "Irmãos Grimm",
+    "category": "Contos internacionais",
+    "matched": ["morte"]
+  },
+  {
+    "file": "o-corvo-traducao-de-machado-de-assis.md",
+    "title": "O Corvo (tradução de Machado de Assis)",
+    "author": "Machado de Assis",
+    "category": "Contos internacionais",
+    "matched": ["machado de assis"]
+  },
+  {
+    "file": "o-diabo.md",
+    "title": "O Diabo",
+    "author": "Olavo Bilac",
+    "category": "Contos brasileiros",
+    "matched": ["cama"]
+  },
+  {
+    "file": "o-diplomatico.md",
+    "title": "O Diplomático",
+    "author": "Machado de Assis",
+    "category": "Contos brasileiros",
+    "matched": ["nua"]
+  },
+  {
+    "file": "o-enfermeiro.md",
+    "title": "O Enfermeiro",
+    "author": "Machado de Assis",
+    "category": "Contos brasileiros",
+    "matched": ["morte"]
+  },
+  {
+    "file": "o-filho-de-gabriela.md",
+    "title": "O filho de Gabriela",
+    "author": "Lima Barreto",
+    "category": "Contos brasileiros",
+    "matched": ["nua"]
+  },
+  {
+    "file": "o-jockey.md",
+    "title": "O Jockey",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["cama"]
+  },
+  {
+    "file": "o-marido-timido.md",
+    "title": "O Marido Tímido",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["desejo"]
+  },
+  {
+    "file": "o-menino-do-gouveia.md",
+    "title": "O Menino do Gouveia",
+    "author": "Capadocio Maluco",
+    "category": "Contos brasileiros",
+    "matched": ["cama"]
+  },
+  {
+    "file": "o-netinho.md",
+    "title": "O Netinho",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["nua"]
+  },
+  {
+    "file": "o-papagaio-traido.md",
+    "title": "O Papagaio Traído",
+    "author": "Humberto de Campos",
+    "category": "Contos brasileiros",
+    "matched": ["desejo"]
+  },
+  {
+    "file": "o-paulo.md",
+    "title": "O Paulo",
+    "author": "Artur de Azevedo",
+    "category": "Contos brasileiros",
+    "matched": ["cama", "amante"]
+  },
+  {
+    "file": "o-pecado-olavo-bilac.md",
+    "title": "O Pecado (Olavo Bilac)",
+    "author": "Olavo Bilac",
+    "category": "Contos brasileiros",
+    "matched": ["pecado"]
+  },
+  {
+    "file": "o-telefone.md",
+    "title": "O Telefone",
+    "author": "Artur de Azevedo",
+    "category": "Contos brasileiros",
+    "matched": ["cama", "libidinoso"]
+  },
+  {
+    "file": "o-velho-lima.md",
+    "title": "O Velho Lima",
+    "author": "Artur de Azevedo",
+    "category": "Contos brasileiros",
+    "matched": ["cama"]
+  },
+  {
+    "file": "o-viuvo.md",
+    "title": "O Viúvo",
+    "author": "Artur de Azevedo",
+    "category": "Contos brasileiros",
+    "matched": ["cama"]
+  },
+  {
+    "file": "os-mensageiros-da-morte.md",
+    "title": "Os mensageiros da morte",
+    "author": "Irmãos Grimm",
+    "category": "Contos internacionais",
+    "matched": ["morte"]
+  },
+  {
+    "file": "rapunzel.md",
+    "title": "Rapunzel",
+    "author": "Irmãos Grimm",
+    "category": "Contos internacionais",
+    "matched": ["desejo"]
+  }
+]

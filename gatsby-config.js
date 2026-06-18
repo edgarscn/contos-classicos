@@ -5,7 +5,7 @@
 module.exports = {
   siteMetadata: {
     title: `10pages - contos clássicos`,
-    description: `Um conto ou crônica clássica de até 10 páginas por dia. Leia autores renomados como Machado de Assis, Lima Barreto, João do Rio e Arthur Azevedo.`,
+    description: `Um conto ou crônica clássica de até 10 páginas por dia. Leia autores renomados como Machado de Assis, Lima Barreto e João do Rio.`,
     author: `@antigravity`,
     siteUrl: `https://10pages-pwa.netlify.app/`,
     adminEmail: `edgarscnobrega@gmail.com`,

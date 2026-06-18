@@ -9,14 +9,17 @@ const AUTHOR_BIOS = {
   "lima barreto":
     "Afonso Henriques de Lima Barreto (1881–1922) foi um importante romancista e cronista brasileiro, cuja obra é marcada por uma forte crítica social, humor satírico e denúncia do preconceito racial e social no início da República. Utilizava uma linguagem coloquial e direta, retratando a vida dos subúrbios do Rio de Janeiro e as contradições da elite de sua época.",
 
-  "artur azevedo":
-    "Artur Azevedo (1855–1908) foi um dramaturgo, poeta, contista e jornalista brasileiro. Junto com seu irmão Aluísio Azevedo, teve papel crucial na literatura brasileira. Suas obras contam com um humor ágil, retratando com maestria os costumes cariocas, as intrigas cotidianas e a transição do Império para a República de forma leve e satírica.",
+  "cruz e sousa":
+    "João da Cruz e Sousa (1861–1898) foi um dos maiores poetas do Simbolismo brasileiro, conhecido como o 'Dante Negro'. Sua prosa poética e contos introspectivos (como em 'Evocações') são marcados por uma profunda densidade espiritual, angústia existencial, musicalidade e obsessão pela cor branca e pela transcendência da dor.",
 
-  "arthur azevedo":
-    "Artur Azevedo (1855–1908) foi um dramaturgo, poeta, contista e jornalista brasileiro. Junto com seu irmão Aluísio Azevedo, teve papel crucial na literatura brasileira. Suas obras contam com um humor ágil, retratando com maestria os costumes cariocas, as intrigas cotidianas e a transição do Império para a República de forma leve e satírica.",
+  "florbela espanca":
+    "Florbela Espanca (1894–1930) foi uma das maiores figuras da poesia e prosa poética em língua portuguesa. Suas obras de caráter introspectivo, como 'As Mágoas do Amor', exploram a subjetividade feminina, a melancolia profunda, o amor apaixonado e a busca incansável por identidade e libertação emocional.",
 
-  "artur de azevedo":
-    "Artur Azevedo (1855–1908) foi um dramaturgo, poeta, contista e jornalista brasileiro. Junto com seu irmão Aluísio Azevedo, teve papel crucial na literatura brasileira. Suas obras contam com um humor ágil, retratando com maestria os costumes cariocas, as intrigas cotidianas e a transição do Império para a República de forma leve e satírica.",
+  "liev tolstói":
+    "Liev Tolstói (1828–1910) foi um dos maiores escritores da literatura russa e mundial. Além de seus grandes romances, escreveu parábolas simples e profundas focadas na moral cristã primitiva, na caridade, na virtude, no desapego material e na busca sincera pela paz de espírito e pela verdade existencial.",
+
+  "leo tolstoy":
+    "Liev Tolstói (1828–1910) foi um dos maiores escritores da literatura russa e mundial. Além de seus grandes romances, escreveu parábolas simples e profundas focadas na moral cristã primitiva, na caridade, na virtude, no desapego material e na busca sincera pela paz de espírito e pela verdade existencial.",
 
   "irmaos grimm":
     "Jacob e Wilhelm Grimm foram acadêmicos, linguistas e folcloristas alemães do século XIX. Ficaram mundialmente conhecidos por coletar, compilar e publicar contos de fadas tradicionais alemães (como Cinderela, Branca de Neve e João e Maria), preservando a tradição oral e moldando a literatura infantil ocidental.",
@@ -63,8 +66,14 @@ const AUTHOR_BIOS = {
   "adolfo coelho":
     "Francisco Adolfo Coelho (1847–1919) foi um pedagogo, filólogo e escritor português. Teve um papel proeminente na recolha de contos populares e folclore português, mapeando as tradições orais ibéricas e estruturando a educação infantil contemporânea em Portugal.",
 
-  "humberto de campos":
-    "Humberto de Campos Veras (1886–1934) foi um jornalista, político e escritor maranhense. Dono de um estilo refinado e repleto de ironia fina e reflexões filosóficas cotidianas, foi extremamente popular no início do século XX e ocupou a cadeira de número 20 da Academia Brasileira de Letras.",
+  "padre manuel bernardes":
+    "Padre Manuel Bernardes (1644–1710) foi um sacerdote e escritor espiritual português, mestre da prosa clássica da língua portuguesa. Em suas obras morais, como 'Nova Floresta', utiliza contos, fábulas e exemplos edificantes para ilustrar virtudes como a paciência, a temperança, a caridade e a retidão espiritual.",
+
+  "legenda áurea":
+    "A Legenda Áurea (ou Lenda Dourada) é uma compilação de vidas de santos e lendas hagiográficas reunidas pelo frei dominicano Jacopo de Varazze no século XIII. Tornou-se uma das obras mais populares da Idade Média, repleta de relatos sobre milagres, virtudes heroicas, martírios e piedade cristã.",
+
+  fioretti:
+    "Os Fioretti de São Francisco (Florinhas de São Francisco) é uma coleção clássica de lendas e anedotas populares sobre a vida de São Francisco de Assis e seus primeiros companheiros. Os relatos celebram a simplicidade franciscana, o amor por todas as criaturas, a perfeita alegria, a humildade e a virtude pura.",
 }
 
 // Returns paragraph for a specific author
